@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Tujuan utama dari sistem Permit to Work (PTW) di industri migas adalah...",
+    "options": {
+      "a": "Menambah birokrasi pekerjaan",
+      "b": "Memastikan bahaya telah diidentifikasi dan pengendalian risiko diterapkan sebelum pekerjaan berisiko tinggi dimulai",
+      "c": "Mengurangi jumlah pekerja di lapangan",
+      "d": "Mempercepat proses pekerjaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Dalam sistem PTW di industri migas, pihak yang berwenang menerbitkan permit disebut...",
+    "options": {
+      "a": "Performing Authority (PA)",
+      "b": "Issuing Authority (IA)",
+      "c": "Area Authority (AA)",
+      "d": "Safety Officer"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Performing Authority (PA) dalam sistem PTW bertanggung jawab untuk...",
+    "options": {
+      "a": "Menerbitkan dan menyetujui permit",
+      "b": "Memimpin dan mengawasi pelaksanaan pekerjaan sesuai ketentuan permit",
+      "c": "Mengelola keuangan proyek",
+      "d": "Melakukan audit K3 perusahaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Area Authority (AA) dalam sistem PTW bertanggung jawab untuk...",
+    "options": {
+      "a": "Melaksanakan pekerjaan di lapangan",
+      "b": "Mengoordinasikan dan mengotorisasi semua pekerjaan yang dilakukan di area tanggung jawabnya",
+      "c": "Membuat laporan keuangan",
+      "d": "Merekrut kontraktor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Hot Work Permit diperlukan untuk pekerjaan yang...",
+    "options": {
+      "a": "Dilakukan di ruangan dingin",
+      "b": "Menghasilkan sumber penyalaan berupa api, percikan, atau panas tinggi",
+      "c": "Memerlukan air pendingin",
+      "d": "Dilakukan pada malam hari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Contoh pekerjaan yang memerlukan Hot Work Permit di area migas meliputi, KECUALI...",
+    "options": {
+      "a": "Pengelasan (welding)",
+      "b": "Pemotongan logam dengan gerinda (grinding)",
+      "c": "Pengecatan dengan kuas (painting)",
+      "d": "Pemotongan dengan gas cutting torch"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Cold Work Permit digunakan untuk pekerjaan yang...",
+    "options": {
+      "a": "Menghasilkan api dan percikan",
+      "b": "Tidak menghasilkan sumber penyalaan tetapi tetap memerlukan pengendalian risiko",
+      "c": "Hanya dilakukan di ruangan ber-AC",
+      "d": "Tidak memerlukan pengawasan sama sekali"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Confined Space Entry Permit diperlukan ketika pekerja harus memasuki ruang yang memiliki karakteristik berikut, KECUALI...",
+    "options": {
+      "a": "Memiliki akses masuk dan keluar yang terbatas",
+      "b": "Tidak dirancang untuk hunian terus-menerus",
+      "c": "Berpotensi memiliki atmosfer berbahaya",
+      "d": "Memiliki ventilasi alami yang sangat baik dan luas"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "Sebelum menerbitkan Hot Work Permit di area proses kilang, gas testing harus dilakukan untuk memastikan...",
+    "options": {
+      "a": "Suhu udara nyaman untuk bekerja",
+      "b": "Konsentrasi gas mudah terbakar di bawah batas aman (umumnya <1% LEL) dan kadar O2 normal",
+      "c": "Tekanan angin di bawah 10 km/jam",
+      "d": "Kelembaban udara di bawah 50%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Dalam sistem PTW, JSA (Job Safety Analysis) harus dilampirkan pada permit karena...",
+    "options": {
+      "a": "Hanya sebagai formalitas administrasi",
+      "b": "JSA mengidentifikasi bahaya spesifik setiap langkah pekerjaan dan pengendaliannya",
+      "c": "JSA menentukan biaya pekerjaan",
+      "d": "JSA berisi jadwal kerja pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Masa berlaku Work Permit di industri migas umumnya...",
+    "options": {
+      "a": "Berlaku selamanya hingga pekerjaan selesai",
+      "b": "Terbatas pada satu shift kerja atau waktu tertentu sesuai kebijakan perusahaan",
+      "c": "Berlaku 1 tahun",
+      "d": "Berlaku 1 bulan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Jika terjadi perubahan kondisi kerja yang signifikan saat permit masih berlaku, langkah yang benar adalah...",
+    "options": {
+      "a": "Melanjutkan pekerjaan karena permit masih berlaku",
+      "b": "Menghentikan pekerjaan, membatalkan permit lama, melakukan reassessment risiko, dan menerbitkan permit baru",
+      "c": "Mencoret kondisi lama dan menulis kondisi baru di permit",
+      "d": "Mengabaikan perubahan karena tidak material"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Cross-referencing dalam sistem PTW diperlukan ketika...",
+    "options": {
+      "a": "Hanya ada satu pekerjaan di seluruh area",
+      "b": "Terdapat beberapa pekerjaan berbeda di area yang sama/berdekatan yang dapat saling mempengaruhi keselamatan",
+      "c": "Pekerja berasal dari perusahaan yang sama",
+      "d": "Pekerjaan dilakukan di hari libur"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Seorang welder akan melakukan pengelasan pada pipa di area process plant. Urutan prosedur PTW yang benar adalah...",
+    "options": {
+      "a": "Langsung mengelas → minta permit → gas test",
+      "b": "Ajukan permit → JSA → gas testing → isolasi area → persetujuan permit → mulai kerja",
+      "c": "Mulai kerja → JSA → minta permit",
+      "d": "Gas testing → mengelas → minta permit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Gas testing pada area Hot Work harus dilakukan oleh...",
+    "options": {
+      "a": "Siapa saja yang tersedia",
+      "b": "Personel yang kompeten dan bersertifikat dalam penggunaan gas detector",
+      "c": "Pekerja yang akan melakukan pengelasan",
+      "d": "Satpam yang berjaga"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Frekuensi gas testing selama pekerjaan Hot Work berlangsung di area migas adalah...",
+    "options": {
+      "a": "Hanya sekali sebelum pekerjaan dimulai",
+      "b": "Secara berkala sesuai interval yang ditentukan dalam permit dan saat kondisi berubah",
+      "c": "Hanya saat istirahat makan siang",
+      "d": "Hanya di akhir pekerjaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Fire watch/pengawas api pada pekerjaan Hot Work harus...",
+    "options": {
+      "a": "Melakukan pekerjaan lain sambil mengawasi",
+      "b": "Fokus mengawasi area kerja, memiliki APAR yang siap pakai, dan tetap di lokasi minimal 30 menit setelah pekerjaan selesai",
+      "c": "Pergi setelah pekerjaan dimulai",
+      "d": "Hanya hadir saat supervisor datang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Welding screen/welding curtain dipasang saat hot work di area migas untuk...",
+    "options": {
+      "a": "Mempercantik area kerja",
+      "b": "Mencegah percikan api menyebar ke area sekitar yang mungkin mengandung bahan mudah terbakar",
+      "c": "Melindungi welder dari hujan",
+      "d": "Menghalangi pandangan orang luar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Excavation Permit (izin penggalian) di area migas diperlukan karena...",
+    "options": {
+      "a": "Semua tanah di area migas mengandung emas",
+      "b": "Terdapat risiko mengenai pipa bawah tanah, kabel listrik, atau utilitas terpendam lainnya",
+      "c": "Hanya untuk keperluan estetika",
+      "d": "Tanah di area migas sangat keras"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Sebelum penggalian di area migas, langkah kritis yang harus dilakukan adalah...",
+    "options": {
+      "a": "Langsung menggali dengan ekskavator",
+      "b": "Melakukan survey utilitas bawah tanah (cable/pipe locating) untuk mengetahui jalur pipa dan kabel terpendam",
+      "c": "Memastikan cuaca cerah",
+      "d": "Menghitung biaya penggalian"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Radiography Permit di area migas diperlukan untuk pekerjaan...",
+    "options": {
+      "a": "Foto dokumentasi proyek",
+      "b": "Pengujian non-destructive testing (NDT) menggunakan sumber radiasi untuk memeriksa kualitas sambungan las",
+      "c": "Pemeriksaan kesehatan pekerja",
+      "d": "Pengambilan gambar udara dengan drone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Bahaya utama dari pekerjaan radiography di area migas adalah...",
+    "options": {
+      "a": "Kebisingan berlebihan",
+      "b": "Paparan radiasi yang dapat menyebabkan kerusakan sel tubuh dan kanker",
+      "c": "Tumpahan bahan kimia",
+      "d": "Getaran berlebihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Selama pekerjaan radiography berlangsung, area sekitar harus...",
+    "options": {
+      "a": "Tetap beroperasi normal",
+      "b": "Dibarrikade dan dievakuasi sesuai radius aman, dengan pemasangan warning light/sign radiasi",
+      "c": "Hanya ditutup saat jam istirahat",
+      "d": "Dibuka untuk umum sebagai edukasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Electrical Isolation Certificate dalam sistem PTW berfungsi untuk...",
+    "options": {
+      "a": "Mendaftarkan peralatan listrik baru",
+      "b": "Memastikan sumber energi listrik telah diisolasi dan diverifikasi nol energi sebelum pekerjaan pada peralatan listrik",
+      "c": "Menghitung konsumsi listrik bulanan",
+      "d": "Memesan peralatan listrik baru"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Mechanical Isolation Certificate berfungsi untuk...",
+    "options": {
+      "a": "Mendaftarkan peralatan mekanik",
+      "b": "Memastikan isolasi mekanik (blinding, blanking, disconnection) telah dilakukan untuk mencegah aliran fluida ke area kerja",
+      "c": "Menghitung biaya peralatan mekanik",
+      "d": "Memesan spare part mekanik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Vessel Entry Permit diperlukan saat pekerja harus memasuki...",
+    "options": {
+      "a": "Ruang kantor",
+      "b": "Bejana tekan (pressure vessel), tangki, kolom, atau reaktor untuk inspeksi atau perbaikan",
+      "c": "Gudang penyimpanan alat tulis",
+      "d": "Ruang meeting"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Sebelum menerbitkan Vessel Entry Permit, vessel harus melalui tahapan berikut, KECUALI...",
+    "options": {
+      "a": "Dikosongkan (drained) dan dibersihkan (cleaned/purged)",
+      "b": "Diisolasi dari sumber energi dan fluida",
+      "c": "Dilakukan gas testing untuk memastikan atmosfer aman",
+      "d": "Dicat ulang dengan warna perusahaan"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 28,
+    "question": "Purging pada vessel sebelum entry bertujuan untuk...",
+    "options": {
+      "a": "Menambah tekanan vessel",
+      "b": "Menghilangkan gas berbahaya dan menggantikannya dengan udara segar atau gas inert",
+      "c": "Memanaskan vessel",
+      "d": "Mendinginkan vessel dengan air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Inerting menggunakan nitrogen pada vessel bertujuan untuk...",
+    "options": {
+      "a": "Meningkatkan kadar oksigen",
+      "b": "Menghilangkan oksigen dan mencegah pembentukan campuran gas mudah terbakar",
+      "c": "Menambah tekanan kerja vessel",
+      "d": "Membersihkan karat di dalam vessel"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Setelah inerting dengan nitrogen, sebelum pekerja masuk ke vessel, yang harus dilakukan adalah...",
+    "options": {
+      "a": "Langsung masuk dengan SCBA",
+      "b": "Melakukan aerasi (memasukkan udara segar) hingga kadar O2 normal (19.5-23.5%) dan gas berbahaya di bawah batas aman",
+      "c": "Langsung masuk tanpa pengujian",
+      "d": "Menutup semua ventilasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Working at Height Permit diperlukan untuk pekerjaan di ketinggian...",
+    "options": {
+      "a": "Berapa pun ketinggiannya",
+      "b": "Umumnya di atas 1.8 meter dari permukaan lantai kerja",
+      "c": "Hanya di atas 10 meter",
+      "d": "Hanya di atas 20 meter"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Pada permit untuk working at height, APD minimum yang harus dicantumkan meliputi...",
+    "options": {
+      "a": "Hanya helm safety",
+      "b": "Full body harness dengan lanyard yang terhubung ke anchor point yang kuat",
+      "c": "Hanya safety shoes",
+      "d": "Hanya rompi reflektif"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Anchor point untuk full body harness harus mampu menahan beban minimal...",
+    "options": {
+      "a": "500 kg",
+      "b": "2268 kg (5000 lbs) per orang yang terhubung",
+      "c": "100 kg",
+      "d": "200 kg"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Dalam sistem PTW, simultaneous operations (SIMOPS) permit diperlukan ketika...",
+    "options": {
+      "a": "Hanya ada satu pekerjaan di seluruh fasilitas",
+      "b": "Dua atau lebih pekerjaan berbeda dilakukan bersamaan di area yang saling mempengaruhi risiko keselamatannya",
+      "c": "Semua pekerjaan sudah selesai",
+      "d": "Pekerja bekerja sendiri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Contoh SIMOPS yang memerlukan koordinasi permit khusus di kilang adalah...",
+    "options": {
+      "a": "Dua pekerja mengetik di kantor yang sama",
+      "b": "Pekerjaan crane lifting berdekatan dengan pekerjaan hot work di area yang sama",
+      "c": "Dua orang makan di kantin bersamaan",
+      "d": "Dua kendaraan parkir berdampingan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "PTW suspension (penundaan permit) dilakukan ketika...",
+    "options": {
+      "a": "Pekerjaan sudah selesai",
+      "b": "Terjadi perubahan kondisi yang membuat pekerjaan tidak aman untuk sementara (misal hujan badai, alarm emergency)",
+      "c": "Supervisor pergi istirahat",
+      "d": "Pekerja ingin makan siang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Setelah permit di-suspend dan kondisi kembali aman, yang harus dilakukan sebelum melanjutkan pekerjaan adalah...",
+    "options": {
+      "a": "Langsung melanjutkan tanpa pengecekan",
+      "b": "Melakukan re-assessment kondisi kerja, gas testing ulang jika perlu, dan revalidasi permit",
+      "c": "Membuat permit yang sama sekali baru",
+      "d": "Menunggu 24 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "PTW closure (penutupan permit) harus dilakukan oleh...",
+    "options": {
+      "a": "Siapa saja yang kebetulan ada",
+      "b": "Performing Authority dan Issuing Authority setelah memverifikasi pekerjaan selesai dan area aman",
+      "c": "Satpam",
+      "d": "Petugas kebersihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Saat penutupan permit, hal yang harus diverifikasi meliputi, KECUALI...",
+    "options": {
+      "a": "Pekerjaan telah selesai sesuai scope",
+      "b": "Area kerja telah dibersihkan dan dikembalikan ke kondisi aman",
+      "c": "Semua isolasi telah dikembalikan (de-isolated) jika diperlukan",
+      "d": "Jumlah bonus yang harus dibayarkan ke pekerja"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 40,
+    "question": "Night work permit di industri migas memerlukan perhatian tambahan karena...",
+    "options": {
+      "a": "Malam hari lebih dingin",
+      "b": "Risiko kecelakaan meningkat akibat pencahayaan terbatas, kelelahan, dan berkurangnya personel pendukung",
+      "c": "Pekerja malam mendapat gaji lebih tinggi",
+      "d": "Tidak ada supervisor di malam hari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Persyaratan pencahayaan tambahan yang harus dipenuhi untuk night work permit meliputi...",
+    "options": {
+      "a": "Tidak ada persyaratan khusus",
+      "b": "Pencahayaan portable yang memadai, termasuk explosion-proof lighting di area classified",
+      "c": "Hanya menggunakan senter biasa",
+      "d": "Menggunakan lilin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Permit display di lokasi kerja bertujuan untuk...",
+    "options": {
+      "a": "Dekorasi area kerja",
+      "b": "Memastikan semua pihak yang melewati area mengetahui pekerjaan yang sedang berlangsung dan risikonya",
+      "c": "Menunjukkan siapa yang paling berwenang",
+      "d": "Memenuhi persyaratan estetika"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Dalam PTW, risk assessment harus mencakup bahaya berikut untuk pekerjaan di area migas, KECUALI...",
+    "options": {
+      "a": "Bahaya gas mudah terbakar dan beracun",
+      "b": "Bahaya jatuh dari ketinggian",
+      "c": "Bahaya terlambat datang ke kantor",
+      "d": "Bahaya paparan bahan kimia berbahaya"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 44,
+    "question": "Emergency escape route dari area kerja yang memerlukan permit harus...",
+    "options": {
+      "a": "Tertutup selama pekerjaan berlangsung",
+      "b": "Selalu terbuka, bebas hambatan, dan diketahui oleh semua pekerja di area tersebut",
+      "c": "Hanya diketahui oleh supervisor",
+      "d": "Diblokir dengan scaffolding untuk keamanan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Dalam PTW untuk confined space, ventilasi mekanis (mechanical ventilation) diperlukan untuk...",
+    "options": {
+      "a": "Mendinginkan udara agar nyaman",
+      "b": "Memastikan suplai udara segar yang kontinu dan mencegah akumulasi gas berbahaya",
+      "c": "Mengeringkan permukaan vessel",
+      "d": "Mengurangi kebisingan di dalam vessel"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Continuous gas monitoring selama pekerjaan di confined space berarti...",
+    "options": {
+      "a": "Gas testing hanya dilakukan satu kali sebelum masuk",
+      "b": "Pemantauan kadar gas secara terus-menerus selama pekerja berada di dalam confined space menggunakan fixed atau portable detector",
+      "c": "Mengecek gas setiap minggu",
+      "d": "Hanya monitoring saat supervisor hadir"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Rescue plan untuk confined space entry permit harus mencakup...",
+    "options": {
+      "a": "Hanya nomor telepon rumah sakit",
+      "b": "Prosedur rescue yang terlatih, peralatan rescue yang tersedia, dan personel rescue yang standby",
+      "c": "Hanya doa keselamatan",
+      "d": "Hanya lokasi assembly point"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Self-rescue dalam konteks confined space berarti...",
+    "options": {
+      "a": "Pekerja menyelamatkan diri sendiri tanpa bantuan orang lain",
+      "b": "Pekerja keluar dari confined space menggunakan kemampuan dan peralatan sendiri saat terjadi bahaya",
+      "c": "Pekerja tidak perlu ditolong",
+      "d": "Pekerja membawa makanan sendiri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Non-entry rescue untuk confined space berarti...",
+    "options": {
+      "a": "Tidak ada upaya penyelamatan",
+      "b": "Penyelamatan pekerja dari luar confined space tanpa rescuer masuk ke dalam, menggunakan retrieval line dan tripod",
+      "c": "Pekerja tidak boleh masuk confined space",
+      "d": "Menunggu tim SAR dari luar perusahaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Retrieval line/lifeline pada pekerjaan confined space berfungsi untuk...",
+    "options": {
+      "a": "Menahan pekerja agar tidak bekerja",
+      "b": "Menarik pekerja keluar dari confined space dalam keadaan darurat tanpa rescuer harus masuk",
+      "c": "Mengukur kedalaman vessel",
+      "d": "Mengikat peralatan kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Isolation register/log dalam sistem PTW berfungsi untuk...",
+    "options": {
+      "a": "Mencatat kehadiran pekerja",
+      "b": "Mencatat semua titik isolasi yang telah dilakukan, siapa yang mengisolasi, dan statusnya",
+      "c": "Mencatat inventory peralatan kantor",
+      "d": "Mencatat menu kantin harian"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Dalam PTW, positive isolation menggunakan blind/spade lebih diutamakan daripada valve isolation karena...",
+    "options": {
+      "a": "Blind/spade lebih murah",
+      "b": "Blind/spade memberikan pemisahan fisik total yang tidak terpengaruh oleh kebocoran valve",
+      "c": "Valve isolation lebih sulit dilakukan",
+      "d": "Blind/spade lebih mudah dipasang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Spectacle blind (figure 8 blind) di industri migas digunakan untuk...",
+    "options": {
+      "a": "Membatasi pandangan pekerja",
+      "b": "Melakukan isolasi mekanis pada pipa dengan cara memutar posisi blind plate ke posisi tertutup",
+      "c": "Menghias flange pipa",
+      "d": "Mengukur diameter pipa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Seorang Issuing Authority menolak menerbitkan Hot Work Permit. Alasan yang TEPAT untuk penolakan tersebut adalah...",
+    "options": {
+      "a": "Cuaca terlalu panas untuk bekerja",
+      "b": "Hasil gas testing menunjukkan konsentrasi gas mudah terbakar di atas batas aman",
+      "c": "Pekerja belum makan siang",
+      "d": "Hari ini adalah hari Jumat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Handover permit saat pergantian shift harus mencakup...",
+    "options": {
+      "a": "Hanya tanda tangan shift baru",
+      "b": "Komunikasi lengkap tentang status pekerjaan, bahaya, kondisi terkini, dan pengendalian yang masih berlaku",
+      "c": "Hanya serah terima kunci loker",
+      "d": "Hanya daftar nama pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Dalam sistem PTW, override permit (permit darurat) diterbitkan ketika...",
+    "options": {
+      "a": "Supervisor sedang libur",
+      "b": "Diperlukan pekerjaan mendesak untuk mengatasi kondisi darurat yang membahayakan keselamatan atau lingkungan",
+      "c": "Pekerja malas membuat permit biasa",
+      "d": "Untuk menghindari birokrasi saat audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Override permit tetap memerlukan...",
+    "options": {
+      "a": "Tidak ada persyaratan khusus",
+      "b": "Persetujuan level manajemen yang lebih tinggi dan risk assessment yang memadai",
+      "c": "Hanya tanda tangan pekerja",
+      "d": "Hanya laporan verbal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Blanket permit atau general permit di beberapa perusahaan migas digunakan untuk...",
+    "options": {
+      "a": "Pekerjaan berisiko tinggi yang jarang dilakukan",
+      "b": "Pekerjaan rutin berisiko rendah yang berulang di area yang sama dengan pengendalian standar",
+      "c": "Pekerjaan di confined space",
+      "d": "Pekerjaan radiography"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Dalam PTW, task risk assessment (TRA) berbeda dengan baseline risk assessment karena TRA...",
+    "options": {
+      "a": "Dilakukan hanya setahun sekali",
+      "b": "Dilakukan secara spesifik untuk pekerjaan tertentu yang akan dilakukan, mempertimbangkan kondisi aktual saat itu",
+      "c": "Hanya dilakukan oleh manajemen puncak",
+      "d": "Tidak mempertimbangkan bahaya lapangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Seorang pekerja menemukan bahwa isolasi valve pada permit tercatat tertutup, namun di lapangan valve tersebut terbuka. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Menutup valve sendiri dan melanjutkan pekerjaan",
+      "b": "STOP pekerjaan, melaporkan discrepancy kepada Issuing Authority untuk investigasi dan verifikasi ulang",
+      "c": "Mengabaikan karena mungkin salah tulis",
+      "d": "Meminta pekerja lain menutup valve"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Energi tersimpan (stored energy) yang harus diidentifikasi sebelum isolasi dalam PTW meliputi, KECUALI...",
+    "options": {
+      "a": "Tekanan sisa dalam pipa atau vessel",
+      "b": "Energi potensial dari beban yang terangkat",
+      "c": "Energi panas dari permukaan yang masih panas",
+      "d": "Energi spiritual dari lokasi kerja"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 62,
+    "question": "Lock Box System dalam PTW digunakan untuk...",
+    "options": {
+      "a": "Menyimpan uang pekerja",
+      "b": "Menyimpan kunci isolasi secara terpusat agar hanya pihak berwenang yang dapat melepas isolasi",
+      "c": "Menyimpan makanan pekerja",
+      "d": "Menyimpan dokumen keuangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Multi-lock hasp dalam sistem LOTO digunakan ketika...",
+    "options": {
+      "a": "Hanya satu orang bekerja pada peralatan",
+      "b": "Beberapa pekerja/tim bekerja pada peralatan yang sama, masing-masing memasang gembok sendiri",
+      "c": "Gembok biasa sudah habis",
+      "d": "Peralatan tidak memerlukan isolasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Try/test sebelum starting work setelah isolasi bertujuan untuk...",
+    "options": {
+      "a": "Menguji kemampuan pekerja",
+      "b": "Memverifikasi bahwa peralatan benar-benar dalam kondisi zero energy dan isolasi efektif",
+      "c": "Menguji kecepatan respon pekerja",
+      "d": "Memastikan peralatan masih berfungsi untuk digunakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Permit to Work audit bertujuan untuk...",
+    "options": {
+      "a": "Menghitung jumlah permit yang diterbitkan",
+      "b": "Mengevaluasi kepatuhan dan efektivitas sistem PTW serta mengidentifikasi area perbaikan",
+      "c": "Menghitung biaya permit",
+      "d": "Memberikan penghargaan kepada issuer terbaik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Dalam PTW untuk pekerjaan di area H2S, persyaratan tambahan yang harus dicantumkan meliputi...",
+    "options": {
+      "a": "Menu makanan khusus",
+      "b": "Ketersediaan wind indicator, personal H2S monitor, SCBA/escape set, dan briefing evakuasi H2S",
+      "c": "Jadwal olahraga",
+      "d": "Daftar obat-obatan pribadi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Escape set/emergency breathing apparatus yang ditempatkan di area H2S berfungsi untuk...",
+    "options": {
+      "a": "Latihan pernapasan",
+      "b": "Memberikan suplai udara darurat selama evakuasi dari area terkontaminasi H2S",
+      "c": "Dekorasi area kerja",
+      "d": "Pengujian kualitas udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Durasi perlindungan escape set/ELSA (Emergency Life Support Apparatus) umumnya...",
+    "options": {
+      "a": "8 jam",
+      "b": "10-15 menit, cukup untuk evakuasi ke area aman",
+      "c": "1 jam",
+      "d": "24 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Dalam PTW, tanda 'DANGER - DO NOT OPERATE' yang dipasang pada valve atau switch bertujuan untuk...",
+    "options": {
+      "a": "Menakuti pekerja baru",
+      "b": "Mencegah pengoperasian tidak sengaja oleh pihak lain selama pekerjaan maintenance berlangsung",
+      "c": "Menunjukkan peralatan baru",
+      "d": "Menandai peralatan yang dijual"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Permit holder di lapangan bertanggung jawab untuk, KECUALI...",
+    "options": {
+      "a": "Memastikan semua anggota tim memahami bahaya dan pengendalian dalam permit",
+      "b": "Memastikan pekerjaan dilakukan sesuai ketentuan permit",
+      "c": "Menentukan kebijakan perusahaan tentang gaji",
+      "d": "Menghentikan pekerjaan jika kondisi berubah menjadi tidak aman"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 71,
+    "question": "Pre-start check list sebelum pekerjaan dimulai berdasarkan permit harus memverifikasi...",
+    "options": {
+      "a": "Hanya kehadiran pekerja",
+      "b": "Isolasi terpasang, gas test OK, APD tersedia, JSA dikomunikasikan, peralatan safety tersedia",
+      "c": "Hanya kondisi cuaca",
+      "d": "Hanya jadwal kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Skenario: Saat pengelasan di area kilang, alarm gas H2S berbunyi. Tindakan yang benar berdasarkan PTW adalah...",
+    "options": {
+      "a": "Melanjutkan pengelasan dengan cepat agar segera selesai",
+      "b": "Segera menghentikan pekerjaan hot work, memadamkan sumber api, mengenakan escape set, dan evakuasi ke upwind",
+      "c": "Menunggu alarm berhenti",
+      "d": "Melepas personal gas detector agar alarm mati"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Permit register/log book berisi informasi berikut, KECUALI...",
+    "options": {
+      "a": "Nomor permit, jenis pekerjaan, lokasi",
+      "b": "Nama issuer dan performer",
+      "c": "Waktu penerbitan dan penutupan",
+      "d": "Riwayat kesehatan pribadi pekerja"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 74,
+    "question": "Dalam PTW, pekerjaan yang melibatkan breaking containment (membuka sistem tertutup yang berisi fluida) memerlukan...",
+    "options": {
+      "a": "Hanya pemberitahuan verbal",
+      "b": "Verifikasi isolasi positif, draining, depressurizing, dan pengujian untuk memastikan tidak ada fluida berbahaya tersisa",
+      "c": "Hanya memasang ember penampung",
+      "d": "Hanya menggunakan sarung tangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Spading list/blind register dalam PTW mencatat...",
+    "options": {
+      "a": "Daftar pembelian pipa",
+      "b": "Lokasi, ukuran, dan status setiap blind/spade yang dipasang untuk isolasi, termasuk siapa yang memasang",
+      "c": "Daftar pekerja yang libur",
+      "d": "Inventory gudang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Temporary defeat of safety system (penonaktifan sementara sistem keselamatan) dalam PTW harus...",
+    "options": {
+      "a": "Dilakukan tanpa dokumentasi",
+      "b": "Disetujui oleh level manajemen yang berwenang dan dicatat dalam permit dengan kompensasi pengendalian alternatif",
+      "c": "Dilakukan oleh siapa saja kapan saja",
+      "d": "Tidak pernah memerlukan persetujuan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Contoh temporary defeat yang memerlukan dokumentasi dalam PTW adalah...",
+    "options": {
+      "a": "Mematikan lampu kantor",
+      "b": "Menonaktifkan fire and gas detection system di area tertentu selama pekerjaan maintenance",
+      "c": "Mematikan komputer pribadi",
+      "d": "Menutup pintu kantor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Kompensasi pengendalian (compensatory measures) saat fire detection system dinonaktifkan sementara meliputi...",
+    "options": {
+      "a": "Tidak ada pengendalian tambahan diperlukan",
+      "b": "Penempatan fire watch, portable fire extinguisher tambahan, dan komunikasi ke control room",
+      "c": "Hanya memasang tanda 'hati-hati'",
+      "d": "Menambah jumlah pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Skenario: Pekerjaan crane lifting harus dilakukan berdekatan dengan overhead power line. Persyaratan PTW khusus yang harus dipenuhi adalah...",
+    "options": {
+      "a": "Tidak ada persyaratan khusus",
+      "b": "Menjaga jarak aman dari power line sesuai regulasi, koordinasi dengan pihak kelistrikan, dan jika perlu mematikan power line",
+      "c": "Mengabaikan karena crane sudah berinsulasi",
+      "d": "Hanya memasang barricade tape"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Diving permit di offshore platform memerlukan pertimbangan khusus karena...",
+    "options": {
+      "a": "Penyelam sudah terlatih jadi tidak perlu permit",
+      "b": "Terdapat risiko hipotermia, barotrauma, interaksi dengan operasi platform, dan bahaya bawah air",
+      "c": "Hanya sebagai formalitas",
+      "d": "Hanya untuk dokumentasi foto bawah air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Helicopter operations permit di offshore memerlukan koordinasi PTW untuk...",
+    "options": {
+      "a": "Hanya mengatur jadwal penerbangan",
+      "b": "Memastikan tidak ada crane operation, hot work, atau gas release di sekitar helideck saat helicopter approach/departure",
+      "c": "Hanya menghitung penumpang",
+      "d": "Hanya untuk urusan bagasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Dalam PTW, inhibit/override pada safety instrumented system (SIS) harus dicatat karena...",
+    "options": {
+      "a": "Tidak ada alasan khusus",
+      "b": "SIS yang di-inhibit tidak akan merespons kondisi bahaya, sehingga perlu kompensasi manual dan monitoring",
+      "c": "Hanya untuk keperluan statistik",
+      "d": "Untuk menghitung jam kerja SIS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Skenario: Di sebuah platform offshore, pekerjaan hot work dan hydrocarbon sampling dijadwalkan di area yang berdekatan. Apa yang harus dilakukan dalam PTW?",
+    "options": {
+      "a": "Kedua pekerjaan boleh berjalan bersamaan tanpa koordinasi",
+      "b": "Conflict check harus dilakukan, salah satu pekerjaan mungkin harus ditunda atau jarak aman harus dipastikan",
+      "c": "Cukup memberitahu kedua tim secara verbal",
+      "d": "Tidak ada masalah karena pekerjaan berbeda"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Validity check pada permit harus dilakukan oleh Issuing Authority untuk memastikan...",
+    "options": {
+      "a": "Pekerja datang tepat waktu",
+      "b": "Kondisi di lapangan masih sesuai dengan yang tercantum dalam permit dan pengendalian risiko masih efektif",
+      "c": "Pekerja sudah makan",
+      "d": "Cuaca cerah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Saat ditemukan bahwa seorang pekerja di lapangan tidak memiliki kompetensi yang dipersyaratkan dalam permit, tindakan yang benar adalah...",
+    "options": {
+      "a": "Membiarkan pekerja melanjutkan dengan pengawasan verbal",
+      "b": "Menghentikan pekerjaan pekerja tersebut dan menggantinya dengan pekerja yang kompeten",
+      "c": "Memalsukan sertifikat kompetensi",
+      "d": "Mengurangi scope pekerjaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Toolbox talk sebelum pekerjaan yang memerlukan permit harus mencakup...",
+    "options": {
+      "a": "Hanya absensi",
+      "b": "Bahaya spesifik pekerjaan, pengendalian risiko, prosedur darurat, dan isi permit yang relevan",
+      "c": "Hanya informasi cuaca",
+      "d": "Hanya jadwal makan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Dalam PTW, management of concurrent permits di satu area memerlukan...",
+    "options": {
+      "a": "Tidak ada koordinasi khusus",
+      "b": "Koordinasi aktif antara semua Performing Authorities dan Area Authority untuk menghindari konflik bahaya",
+      "c": "Hanya email notifikasi",
+      "d": "Hanya catatan di papan pengumuman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Skenario: Sebuah tangki penyimpanan crude oil telah dikosongkan untuk internal inspection. Urutan yang benar sebelum menerbitkan vessel entry permit adalah...",
+    "options": {
+      "a": "Langsung masuk setelah dikosongkan",
+      "b": "Drain → clean/wash → purge → ventilate → gas test → isolasi positif → permit",
+      "c": "Gas test → drain → masuk",
+      "d": "Permit → drain → masuk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Sertifikat gas free (gas free certificate) diterbitkan untuk menyatakan bahwa...",
+    "options": {
+      "a": "Area tersebut tidak pernah mengandung gas",
+      "b": "Vessel/area telah diuji dan dinyatakan bebas dari gas mudah terbakar dan beracun pada batas aman",
+      "c": "Gas detector sudah dikalibrasi",
+      "d": "Pekerja sudah mendapat pelatihan gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Siapa yang berwenang menerbitkan gas free certificate?",
+    "options": {
+      "a": "Siapa saja",
+      "b": "Competent person yang terlatih dan bersertifikat dalam gas testing",
+      "c": "Pekerja yang paling senior",
+      "d": "Satpam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Permit to Work harus ditulis dengan...",
+    "options": {
+      "a": "Pensil agar mudah dihapus dan diubah",
+      "b": "Tinta permanen/bolpoin, tidak boleh dihapus atau di-tipex, koreksi harus dicoret dan diparaf",
+      "c": "Krayon warna-warni",
+      "d": "Spidol yang bisa dihapus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Dalam PTW, area classification (Zone 0, 1, 2) mempengaruhi jenis permit karena...",
+    "options": {
+      "a": "Tidak ada pengaruh",
+      "b": "Area dengan klasifikasi bahaya lebih tinggi memerlukan pengendalian tambahan dan persetujuan level lebih tinggi",
+      "c": "Hanya mempengaruhi warna permit",
+      "d": "Hanya mempengaruhi ukuran kertas permit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "PTW untuk pekerjaan yang melibatkan asbestos removal memerlukan...",
+    "options": {
+      "a": "Hanya masker kain biasa",
+      "b": "Prosedur penanganan khusus, APD khusus (respirator, coverall disposable), dan pembuangan limbah sesuai regulasi",
+      "c": "Hanya sarung tangan biasa",
+      "d": "Tidak ada persyaratan khusus karena asbestos tidak berbahaya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Dropped Object Prevention Scheme (DROPS) harus dimasukkan dalam PTW untuk pekerjaan di ketinggian karena...",
+    "options": {
+      "a": "Hanya untuk estetika",
+      "b": "Benda jatuh dari ketinggian dapat menyebabkan cedera fatal pada pekerja di bawahnya",
+      "c": "Hanya untuk menghitung inventory alat",
+      "d": "Hanya saat cuaca buruk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "PTW training dan awareness harus diberikan kepada...",
+    "options": {
+      "a": "Hanya HSE personnel",
+      "b": "Semua personel yang terlibat dalam sistem PTW termasuk issuer, performer, dan area authority",
+      "c": "Hanya manajemen puncak",
+      "d": "Hanya kontraktor baru"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Key Performance Indicator (KPI) untuk sistem PTW meliputi, KECUALI...",
+    "options": {
+      "a": "Jumlah permit yang diterbitkan vs ditolak",
+      "b": "Jumlah temuan audit PTW",
+      "c": "Harga saham perusahaan",
+      "d": "Jumlah insiden terkait kegagalan PTW"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 97,
+    "question": "Dalam PTW, energized electrical work permit diperlukan untuk...",
+    "options": {
+      "a": "Mengganti lampu di kantor",
+      "b": "Pekerjaan pada peralatan listrik yang tidak dapat diisolasi dan masih dalam kondisi bertegangan (live)",
+      "c": "Mengisi daya handphone",
+      "d": "Menyalakan komputer"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Arc flash hazard pada energized electrical work dapat menyebabkan...",
+    "options": {
+      "a": "Hanya lampu berkedip",
+      "b": "Luka bakar parah, kebutaan, dan bahkan kematian akibat ledakan busur listrik",
+      "c": "Hanya kerusakan alat ukur",
+      "d": "Hanya gangguan komunikasi radio"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Permit to Work system review harus dilakukan...",
+    "options": {
+      "a": "Tidak pernah perlu direview",
+      "b": "Secara berkala dan setelah insiden signifikan untuk memastikan sistem tetap efektif dan up-to-date",
+      "c": "Hanya saat perusahaan berganti nama",
+      "d": "Hanya saat pergantian CEO"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip dasar yang mendasari seluruh sistem Permit to Work di industri migas adalah...",
+    "options": {
+      "a": "Mempercepat pekerjaan tanpa hambatan",
+      "b": "Memastikan setiap pekerjaan berisiko telah melalui proses identifikasi bahaya, pengendalian risiko, dan komunikasi yang sistematis sebelum dimulai",
+      "c": "Mengurangi jumlah pekerja lapangan",
+      "d": "Memenuhi persyaratan administrasi saja tanpa implementasi di lapangan"
+    },
+    "answer": "b"
+  }
+]

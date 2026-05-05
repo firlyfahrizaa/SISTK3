@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Gas detector di industri migas digunakan untuk mendeteksi...",
+    "options": {
+      "a": "Hanya gas oksigen",
+      "b": "Gas mudah terbakar (combustible), gas beracun (toxic), dan kadar oksigen di udara",
+      "c": "Hanya kelembaban udara",
+      "d": "Hanya suhu udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Empat parameter utama yang diukur oleh multi-gas detector standar di industri migas adalah...",
+    "options": {
+      "a": "Suhu, tekanan, kelembaban, angin",
+      "b": "LEL (combustible gas), O2, H2S, dan CO",
+      "c": "Nitrogen, argon, helium, neon",
+      "d": "pH, turbidity, conductivity, dissolved oxygen"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "LEL (Lower Explosive Limit) yang diukur oleh gas detector menunjukkan...",
+    "options": {
+      "a": "Konsentrasi gas beracun",
+      "b": "Persentase konsentrasi minimum gas mudah terbakar yang dapat menyala/meledak jika ada sumber penyalaan",
+      "c": "Kadar oksigen",
+      "d": "Tingkat kebisingan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Pembacaan gas detector menunjukkan 10% LEL. Artinya konsentrasi gas mudah terbakar saat ini...",
+    "options": {
+      "a": "Sudah meledak",
+      "b": "Berada pada 10% dari konsentrasi minimum yang dapat meledak - masih di bawah batas bahaya tetapi perlu kewaspadaan",
+      "c": "Aman sepenuhnya tanpa risiko",
+      "d": "Sudah di atas batas meledak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Batas aman gas mudah terbakar untuk memasuki confined space di industri migas umumnya tidak boleh melebihi...",
+    "options": {
+      "a": "50% LEL",
+      "b": "10% LEL",
+      "c": "100% LEL",
+      "d": "75% LEL"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Batas aman gas mudah terbakar untuk melakukan hot work di industri migas umumnya tidak boleh melebihi...",
+    "options": {
+      "a": "10% LEL",
+      "b": "1% LEL atau 0% LEL tergantung kebijakan perusahaan",
+      "c": "50% LEL",
+      "d": "25% LEL"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Kadar oksigen normal di udara bebas adalah...",
+    "options": {
+      "a": "15%",
+      "b": "20.9%",
+      "c": "25%",
+      "d": "30%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Rentang kadar oksigen yang aman untuk bekerja di confined space adalah...",
+    "options": {
+      "a": "10-15%",
+      "b": "19.5% - 23.5%",
+      "c": "25-30%",
+      "d": "15-18%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Kadar oksigen di bawah 19.5% menunjukkan kondisi...",
+    "options": {
+      "a": "Normal",
+      "b": "Defisiensi oksigen - berbahaya, perlu alat bantu pernapasan",
+      "c": "Kelebihan oksigen",
+      "d": "Tidak ada masalah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Kadar oksigen di atas 23.5% berbahaya karena...",
+    "options": {
+      "a": "Tidak ada bahaya",
+      "b": "Oksigen berlebih (oxygen enrichment) meningkatkan risiko kebakaran/ledakan karena material lebih mudah terbakar",
+      "c": "Menyebabkan kedinginan",
+      "d": "Menyebabkan tekanan tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Sensor catalytic bead pada gas detector digunakan untuk mendeteksi...",
+    "options": {
+      "a": "Gas beracun",
+      "b": "Gas mudah terbakar (combustible gas) dengan prinsip oksidasi katalitik",
+      "c": "Kadar oksigen",
+      "d": "Radiasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Prinsip kerja sensor catalytic bead adalah...",
+    "options": {
+      "a": "Mengukur warna gas",
+      "b": "Gas mudah terbakar teroksidasi pada permukaan bead yang dipanaskan, mengubah resistansi dan menghasilkan sinyal",
+      "c": "Mengukur berat gas",
+      "d": "Mengukur suara gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Keterbatasan sensor catalytic bead yang harus diketahui operator adalah...",
+    "options": {
+      "a": "Tidak ada keterbatasan",
+      "b": "Memerlukan oksigen minimum (>10%) untuk berfungsi dan dapat diracuni oleh silikon, timbal, atau sulfur",
+      "c": "Terlalu sensitif terhadap semua gas",
+      "d": "Hanya bekerja di suhu panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Catalyst poisoning pada sensor catalytic bead menyebabkan...",
+    "options": {
+      "a": "Sensor menjadi lebih sensitif",
+      "b": "Sensor kehilangan sensitivitas dan memberikan pembacaan rendah palsu (false low reading) yang sangat berbahaya",
+      "c": "Sensor mengeluarkan suara",
+      "d": "Sensor berubah warna"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Sensor infrared (IR) untuk deteksi gas mudah terbakar memiliki keunggulan dibanding catalytic bead yaitu...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Tidak memerlukan oksigen untuk bekerja dan tidak terpengaruh catalyst poison",
+      "c": "Lebih kecil ukurannya",
+      "d": "Lebih mudah dikalibrasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Sensor elektrokimia (electrochemical cell) pada gas detector digunakan untuk mendeteksi...",
+    "options": {
+      "a": "Gas mudah terbakar",
+      "b": "Gas beracun spesifik seperti H2S, CO, SO2, NO2 dengan prinsip reaksi elektrokimia",
+      "c": "Kadar oksigen saja",
+      "d": "Gas mulia"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Sensor elektrokimia mendeteksi gas beracun dengan prinsip...",
+    "options": {
+      "a": "Mengukur berat gas",
+      "b": "Gas target bereaksi pada elektroda menghasilkan arus listrik yang proporsional dengan konsentrasi gas",
+      "c": "Mengukur warna gas",
+      "d": "Mengukur suhu gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Umur pakai (lifetime) sensor elektrokimia umumnya...",
+    "options": {
+      "a": "Selamanya",
+      "b": "2-3 tahun tergantung jenis gas dan kondisi penggunaan",
+      "c": "1 bulan",
+      "d": "10 tahun tanpa penggantian"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Sensor oksigen (O2 sensor) pada gas detector menggunakan prinsip...",
+    "options": {
+      "a": "Infrared absorption",
+      "b": "Elektrokimia (galvanic cell) yang menghasilkan sinyal proporsional dengan konsentrasi oksigen",
+      "c": "Photoionization",
+      "d": "Catalytic combustion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "PID (Photoionization Detector) digunakan untuk mendeteksi...",
+    "options": {
+      "a": "Hanya H2S",
+      "b": "VOC (Volatile Organic Compounds) seperti benzene, toluene, dan senyawa organik mudah menguap lainnya",
+      "c": "Hanya oksigen",
+      "d": "Hanya karbon dioksida"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Prinsip kerja PID adalah...",
+    "options": {
+      "a": "Membakar gas sampel",
+      "b": "Mengionisasi molekul gas menggunakan sinar UV, ion yang dihasilkan menghasilkan arus listrik yang diukur",
+      "c": "Mengukur berat molekul gas",
+      "d": "Mengukur warna gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Kalibrasi gas detector dilakukan untuk...",
+    "options": {
+      "a": "Mengisi ulang baterai",
+      "b": "Memastikan akurasi pembacaan sensor dengan membandingkan terhadap gas referensi konsentrasi yang diketahui",
+      "c": "Membersihkan sensor dari debu",
+      "d": "Mengganti warna casing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Frekuensi kalibrasi gas detector yang direkomendasikan adalah...",
+    "options": {
+      "a": "Setahun sekali",
+      "b": "Sesuai rekomendasi manufacturer, umumnya setiap 3-6 bulan atau setelah paparan konsentrasi tinggi",
+      "c": "Setiap 5 tahun",
+      "d": "Tidak pernah perlu kalibrasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Bump test pada gas detector dilakukan untuk...",
+    "options": {
+      "a": "Menguji ketahanan jatuh",
+      "b": "Memverifikasi secara cepat bahwa sensor merespons gas target dan alarm berfungsi dengan benar",
+      "c": "Mengisi ulang baterai",
+      "d": "Mengganti sensor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Perbedaan antara bump test dan full calibration adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Bump test hanya memverifikasi respons sensor dan alarm (pass/fail), calibration menyesuaikan akurasi pembacaan sensor",
+      "c": "Bump test lebih lama",
+      "d": "Calibration lebih cepat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Frekuensi bump test gas detector yang direkomendasikan adalah...",
+    "options": {
+      "a": "Sebulan sekali",
+      "b": "Setiap hari sebelum digunakan atau sesuai kebijakan perusahaan",
+      "c": "Setahun sekali",
+      "d": "Tidak pernah perlu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Span gas/calibration gas untuk kalibrasi gas detector H2S umumnya menggunakan konsentrasi...",
+    "options": {
+      "a": "100 ppm",
+      "b": "25 ppm (sesuai alarm setting)",
+      "c": "1000 ppm",
+      "d": "1 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Zero calibration (fresh air calibration) pada gas detector dilakukan dengan...",
+    "options": {
+      "a": "Gas H2S",
+      "b": "Udara bersih bebas kontaminan untuk mengatur titik nol (zero point) sensor",
+      "c": "Gas nitrogen murni",
+      "d": "Gas propana"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Skenario: Gas detector menunjukkan pembacaan H2S 15 ppm. Tindakan yang harus dilakukan operator adalah...",
+    "options": {
+      "a": "Mengabaikan karena masih di bawah IDLH",
+      "b": "Segera mengenakan respiratory protection, memberitahu rekan kerja, dan mengevakuasi ke area aman upwind",
+      "c": "Melanjutkan pekerjaan dengan hati-hati",
+      "d": "Mematikan gas detector"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Alarm settings standar pada personal H2S monitor biasanya diatur pada...",
+    "options": {
+      "a": "Low alarm: 50 ppm, High alarm: 100 ppm",
+      "b": "Low alarm: 10 ppm (TWA), High alarm: 15 ppm (STEL)",
+      "c": "Low alarm: 1 ppm, High alarm: 5 ppm",
+      "d": "Low alarm: 100 ppm, High alarm: 200 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "TWA (Time Weighted Average) untuk H2S menurut standar industri migas adalah...",
+    "options": {
+      "a": "1 ppm",
+      "b": "10 ppm untuk paparan 8 jam kerja",
+      "c": "50 ppm",
+      "d": "100 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "STEL (Short Term Exposure Limit) untuk H2S adalah...",
+    "options": {
+      "a": "10 ppm",
+      "b": "15 ppm untuk paparan 15 menit",
+      "c": "50 ppm",
+      "d": "100 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "IDLH (Immediately Dangerous to Life and Health) untuk H2S adalah...",
+    "options": {
+      "a": "10 ppm",
+      "b": "100 ppm",
+      "c": "500 ppm",
+      "d": "1000 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Pada konsentrasi H2S berapa indera penciuman manusia mulai tidak dapat mendeteksi bau (olfactory fatigue)?",
+    "options": {
+      "a": "1 ppm",
+      "b": "100-150 ppm, hidung menjadi 'mati rasa' terhadap bau H2S",
+      "c": "500 ppm",
+      "d": "10 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Mengapa mengandalkan indera penciuman untuk mendeteksi H2S sangat berbahaya?",
+    "options": {
+      "a": "Karena H2S tidak berbau",
+      "b": "Karena pada konsentrasi tinggi H2S melumpuhkan saraf penciuman sehingga korban tidak mencium bau padahal konsentrasi mematikan",
+      "c": "Karena bau H2S menyenangkan",
+      "d": "Karena semua orang bisa mencium H2S"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "TWA untuk CO (Carbon Monoxide) menurut standar industri adalah...",
+    "options": {
+      "a": "100 ppm",
+      "b": "25-35 ppm untuk paparan 8 jam kerja",
+      "c": "200 ppm",
+      "d": "500 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "CO berbahaya karena...",
+    "options": {
+      "a": "Berbau sangat menyengat",
+      "b": "Gas tidak berwarna dan tidak berbau yang mengikat hemoglobin 200-250x lebih kuat dari oksigen, menyebabkan asfiksia",
+      "c": "Hanya menyebabkan iritasi kulit",
+      "d": "Hanya berbahaya jika dihirup dalam jumlah besar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Gas testing sebelum confined space entry harus dilakukan dalam urutan...",
+    "options": {
+      "a": "H2S → CO → O2 → LEL",
+      "b": "O2 → LEL/combustible → toxic gas (H2S, CO) karena sensor combustible memerlukan O2 untuk bekerja",
+      "c": "LEL → H2S → CO → O2",
+      "d": "Urutan tidak penting"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Gas testing pada confined space harus dilakukan pada berbagai ketinggian karena...",
+    "options": {
+      "a": "Untuk latihan operator",
+      "b": "Gas memiliki berat jenis berbeda: gas berat (H2S) cenderung mengendap di bawah, gas ringan (CH4) naik ke atas",
+      "c": "Semua gas memiliki berat yang sama",
+      "d": "Hanya sebagai formalitas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "H2S memiliki berat jenis relatif terhadap udara sebesar...",
+    "options": {
+      "a": "0.55 (lebih ringan dari udara)",
+      "b": "1.19 (lebih berat dari udara) sehingga cenderung mengendap di area rendah",
+      "c": "Sama dengan udara",
+      "d": "5.0 (sangat berat)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Methane (CH4) memiliki berat jenis relatif terhadap udara sebesar...",
+    "options": {
+      "a": "2.0 (lebih berat)",
+      "b": "0.55 (lebih ringan dari udara) sehingga cenderung naik dan terkumpul di area tinggi",
+      "c": "Sama dengan udara",
+      "d": "10.0 (sangat berat)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Remote sampling probe/extension pada gas detector digunakan untuk...",
+    "options": {
+      "a": "Memperpanjang antena",
+      "b": "Mengambil sampel gas dari lokasi yang sulit dijangkau seperti bagian dalam tangki atau area tertutup",
+      "c": "Menghias gas detector",
+      "d": "Mengisi ulang baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Diffusion mode pada gas detector berarti...",
+    "options": {
+      "a": "Gas dihisap oleh pompa",
+      "b": "Gas masuk ke sensor secara alami melalui difusi udara tanpa bantuan pompa",
+      "c": "Gas ditembakkan ke sensor",
+      "d": "Sensor direndam dalam cairan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Pump (aspirated) mode pada gas detector berarti...",
+    "options": {
+      "a": "Gas masuk secara alami",
+      "b": "Gas secara aktif dihisap ke sensor menggunakan pompa internal atau hand pump",
+      "c": "Gas ditiup keluar dari detector",
+      "d": "Sensor bergerak menuju gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Keuntungan pump mode dibanding diffusion mode pada gas detector adalah...",
+    "options": {
+      "a": "Lebih hemat baterai",
+      "b": "Dapat mengambil sampel dari jarak jauh/area terbatas dan memberikan respon lebih cepat",
+      "c": "Lebih murah",
+      "d": "Tidak memerlukan probe"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Cross-sensitivity pada sensor gas detector berarti...",
+    "options": {
+      "a": "Sensor hanya mendeteksi gas target",
+      "b": "Sensor merespons gas lain selain gas target yang dapat menyebabkan pembacaan positif palsu atau negatif palsu",
+      "c": "Sensor rusak",
+      "d": "Sensor terlalu akurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Contoh cross-sensitivity yang harus diperhatikan pada sensor H2S electrochemical adalah...",
+    "options": {
+      "a": "Tidak ada cross-sensitivity",
+      "b": "SO2 dan NO2 dapat memberikan pembacaan negatif (mengurangi pembacaan H2S sebenarnya)",
+      "c": "Hanya terpengaruh oleh oksigen",
+      "d": "Hanya terpengaruh oleh suhu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Correction factor pada gas detector diperlukan ketika...",
+    "options": {
+      "a": "Detector baru dibeli",
+      "b": "Mendeteksi gas combustible yang berbeda dari gas kalibrasi, karena respons sensor berbeda untuk setiap jenis gas",
+      "c": "Baterai baru dipasang",
+      "d": "Sensor baru dipasang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Gas detector dikalibrasi dengan isobutane tetapi digunakan untuk mendeteksi methane. Maka pembacaan perlu...",
+    "options": {
+      "a": "Tidak perlu dikoreksi",
+      "b": "Dikalikan dengan correction factor karena sensitivitas sensor berbeda untuk methane vs isobutane",
+      "c": "Dibagi dua",
+      "d": "Ditambah 100"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Data logging pada gas detector modern berfungsi untuk...",
+    "options": {
+      "a": "Memutar musik",
+      "b": "Merekam data pembacaan gas secara kontinu yang dapat didownload untuk analisis dan dokumentasi",
+      "c": "Mengambil foto",
+      "d": "Mengirim pesan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Skenario: Gas detector menunjukkan pembacaan O2 17.5% di depan pintu masuk confined space. Tindakan yang harus dilakukan adalah...",
+    "options": {
+      "a": "Masuk dengan hati-hati",
+      "b": "TIDAK boleh masuk tanpa SCBA/supplied air karena kadar oksigen di bawah 19.5% (oxygen deficient)",
+      "c": "Masuk dengan masker kain",
+      "d": "Mengabaikan pembacaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Skenario: Gas detector menunjukkan 25% LEL di area kerja kilang. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Melanjutkan pekerjaan",
+      "b": "Menghentikan semua pekerjaan, mengevakuasi area, memberitahu control room, dan menyelidiki sumber kebocoran gas",
+      "c": "Hanya memasang rambu peringatan",
+      "d": "Mematikan gas detector"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Fixed gas detection system di fasilitas migas berfungsi untuk...",
+    "options": {
+      "a": "Dekorasi plant",
+      "b": "Memantau secara kontinu kadar gas berbahaya di area proses dan memberikan alarm otomatis ke control room",
+      "c": "Menghitung produksi gas",
+      "d": "Mengukur suhu proses"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Perbedaan antara portable gas detector dan fixed gas detection system adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Portable dibawa oleh pekerja untuk pengujian spot, fixed terpasang permanen untuk monitoring kontinu",
+      "c": "Fixed lebih kecil",
+      "d": "Portable lebih akurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Open path gas detector (beam detector) di fasilitas migas mendeteksi gas dengan cara...",
+    "options": {
+      "a": "Mengambil sampel gas ke dalam chamber",
+      "b": "Mengirim sinar infrared antara transmitter dan receiver, gas cloud di jalur sinar menyerap energi IR",
+      "c": "Menggunakan sensor elektrokimia",
+      "d": "Mengukur suhu gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Keuntungan open path detector dibanding point detector adalah...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Dapat mendeteksi gas cloud yang bergerak di area luas antara dua titik (coverage area besar)",
+      "c": "Lebih akurat untuk pengukuran ppm",
+      "d": "Tidak terpengaruh cuaca"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Flame detector di fasilitas migas mendeteksi kebakaran dengan cara...",
+    "options": {
+      "a": "Mendeteksi suhu",
+      "b": "Mendeteksi radiasi UV, IR, atau kombinasi keduanya yang dipancarkan oleh api/nyala",
+      "c": "Mendeteksi suara",
+      "d": "Mendeteksi getaran"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Gas detector tube (Draeger tube/colorimetric tube) bekerja dengan prinsip...",
+    "options": {
+      "a": "Sensor elektronik",
+      "b": "Gas yang dihisap melalui tube menyebabkan perubahan warna reagen kimia, panjang perubahan warna menunjukkan konsentrasi",
+      "c": "Pengukuran berat gas",
+      "d": "Pengukuran tekanan gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Keuntungan gas detector tube dibanding electronic detector adalah...",
+    "options": {
+      "a": "Lebih akurat",
+      "b": "Murah, tidak memerlukan kalibrasi, tersedia untuk ratusan jenis gas spesifik, dan mudah digunakan di lapangan",
+      "c": "Dapat digunakan berkali-kali",
+      "d": "Memberikan pembacaan kontinu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Keterbatasan gas detector tube adalah...",
+    "options": {
+      "a": "Tidak ada keterbatasan",
+      "b": "Hanya untuk pengukuran spot/sesaat, tidak dapat digunakan untuk monitoring kontinu, dan akurasi ±25%",
+      "c": "Terlalu mahal",
+      "d": "Terlalu berat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Gas sampling bag digunakan dalam gas testing untuk...",
+    "options": {
+      "a": "Menyimpan makanan",
+      "b": "Mengumpulkan sampel gas dari lokasi tertentu untuk dianalisis di laboratorium atau lokasi lain",
+      "c": "Menyimpan air",
+      "d": "Membawa peralatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Skenario: Saat gas testing di atas tangki, detector menunjukkan LEL 0% tetapi H2S 5 ppm. Interpretasi yang benar adalah...",
+    "options": {
+      "a": "Area sepenuhnya aman",
+      "b": "Tidak ada gas mudah terbakar di level tersebut, tetapi ada gas beracun H2S yang perlu diperhatikan dan dipantau",
+      "c": "Gas detector rusak",
+      "d": "Pembacaan tidak mungkin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Pengaruh suhu terhadap sensor gas detector adalah...",
+    "options": {
+      "a": "Tidak ada pengaruh",
+      "b": "Suhu ekstrem dapat mempengaruhi akurasi dan respon sensor, perlu kompensasi suhu",
+      "c": "Sensor bekerja lebih baik di suhu tinggi",
+      "d": "Suhu hanya mempengaruhi baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Pengaruh kelembaban tinggi terhadap sensor gas detector adalah...",
+    "options": {
+      "a": "Tidak ada pengaruh",
+      "b": "Kelembaban tinggi dapat mempengaruhi beberapa jenis sensor dan menyebabkan kondensasi pada sensor",
+      "c": "Sensor menjadi lebih akurat",
+      "d": "Kelembaban meningkatkan baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Skenario: Gas detector portable menunjukkan pembacaan LEL yang fluktuatif tidak stabil. Kemungkinan penyebabnya adalah...",
+    "options": {
+      "a": "Gas detector bekerja normal",
+      "b": "Sensor terkontaminasi, perlu kalibrasi ulang, atau ada interferensi dari gas lain",
+      "c": "Baterai terlalu penuh",
+      "d": "Suhu terlalu normal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Prosedur yang benar jika gas detector menunjukkan reading yang diragukan akurasinya adalah...",
+    "options": {
+      "a": "Tetap menggunakan dan mengabaikan",
+      "b": "Menganggap pembacaan sebagai valid (worst case), keluar dari area, dan melakukan bump test/kalibrasi ulang",
+      "c": "Mematikan detector dan bekerja tanpa monitoring",
+      "d": "Memukul detector agar normal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Pre-entry gas testing untuk confined space harus dilakukan minimal berapa lama sebelum pekerja masuk?",
+    "options": {
+      "a": "24 jam sebelumnya",
+      "b": "Segera sebelum entry, setelah ventilasi memadai dan tidak lebih dari waktu yang ditentukan prosedur (biasanya 15-30 menit)",
+      "c": "1 minggu sebelumnya",
+      "d": "Tidak ada batasan waktu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Continuous gas monitoring selama pekerjaan di confined space berarti detector harus...",
+    "options": {
+      "a": "Dinyalakan hanya saat istirahat",
+      "b": "Beroperasi terus-menerus selama pekerja berada di dalam confined space dan ditempatkan pada breathing zone",
+      "c": "Dimatikan untuk menghemat baterai",
+      "d": "Dipegang oleh pekerja di luar saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Breathing zone adalah area sekitar...",
+    "options": {
+      "a": "5 meter dari pekerja",
+      "b": "Radius 25-30 cm dari hidung dan mulut pekerja, dimana udara yang dihirup berada",
+      "c": "10 meter dari pekerja",
+      "d": "Seluruh area kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Skenario: Fixed H2S detector di area process plant memberikan alarm level 1. Tindakan otomatis sistem yang biasanya terjadi adalah...",
+    "options": {
+      "a": "Tidak ada tindakan",
+      "b": "Alarm visual dan audio di control room dan area lokal, notifikasi ke operator untuk investigasi",
+      "c": "Shutdown seluruh plant",
+      "d": "Evakuasi semua pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "Alarm level 2 (high-high) pada fixed gas detection system biasanya memicu...",
+    "options": {
+      "a": "Hanya alarm visual",
+      "b": "Emergency shutdown otomatis pada area terdampak, aktivasi sistem keselamatan, dan evakuasi area",
+      "c": "Hanya notifikasi email",
+      "d": "Hanya catatan log"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Voting logic (2oo3 - 2 out of 3) pada fixed gas detection system berarti...",
+    "options": {
+      "a": "Satu detector cukup untuk memicu alarm",
+      "b": "Minimal 2 dari 3 detector harus mendeteksi gas sebelum executive action (shutdown) dilakukan, mengurangi false alarm",
+      "c": "Semua 3 detector harus alarm",
+      "d": "Voting dilakukan oleh pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "False alarm pada gas detection system dapat disebabkan oleh, KECUALI...",
+    "options": {
+      "a": "Interferensi dari gas/uap lain (cross-sensitivity)",
+      "b": "Perubahan cuaca atau kondisi lingkungan",
+      "c": "Deteksi gas berbahaya yang sebenarnya ada",
+      "d": "Sensor yang terkontaminasi atau perlu kalibrasi"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 74,
+    "question": "Inhibit/bypass pada fixed gas detector saat maintenance harus...",
+    "options": {
+      "a": "Dilakukan tanpa dokumentasi",
+      "b": "Dicatat dalam sistem PTW, ada pengendalian kompensasi, dan dikembalikan segera setelah selesai",
+      "c": "Dilakukan secara permanen",
+      "d": "Dilakukan tanpa persetujuan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Sensor replacement pada gas detector harus dilakukan oleh...",
+    "options": {
+      "a": "Siapa saja",
+      "b": "Personel yang terlatih dan mengikuti prosedur manufacturer, diikuti kalibrasi penuh",
+      "c": "Satpam",
+      "d": "Pekerja yang paling dekat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Gas detector charging management penting untuk memastikan...",
+    "options": {
+      "a": "Detector terlihat bersih",
+      "b": "Baterai selalu terisi penuh sebelum digunakan agar detector tidak mati saat digunakan di lapangan",
+      "c": "Detector ringan saat dibawa",
+      "d": "Warna layar cerah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Jika baterai gas detector menunjukkan indikasi low battery saat digunakan di lapangan, tindakan yang benar adalah...",
+    "options": {
+      "a": "Melanjutkan pekerjaan tanpa detector",
+      "b": "Segera mengganti dengan detector lain yang baterainya penuh, TIDAK boleh bekerja tanpa gas monitoring",
+      "c": "Mematikan alarm untuk menghemat baterai",
+      "d": "Menggunakan charger di area berbahaya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Gas detector maintenance record harus mencakup, KECUALI...",
+    "options": {
+      "a": "Tanggal dan hasil kalibrasi",
+      "b": "Tanggal dan hasil bump test",
+      "c": "Daftar lagu favorit operator",
+      "d": "Penggantian sensor dan baterai"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 79,
+    "question": "Skenario: Operator melakukan gas testing dengan tube H2S Draeger pada bukaan tangki. Prosedur yang benar meliputi...",
+    "options": {
+      "a": "Langsung menghisap udara dengan mulut melalui tube",
+      "b": "Mematahkan kedua ujung tube, memasang pada hand pump, menarik pump sesuai jumlah stroke yang ditentukan, dan membaca hasilnya",
+      "c": "Memasukkan tube ke dalam tangki tanpa pump",
+      "d": "Memanaskan tube sebelum digunakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Skenario: Area di sekitar wellhead menunjukkan pembacaan gas detector LEL 5%, H2S 3 ppm, O2 20.8%. Apakah area ini aman untuk bekerja?",
+    "options": {
+      "a": "Tidak aman, harus evakuasi segera",
+      "b": "Aman untuk bekerja normal dengan monitoring kontinu karena semua parameter di bawah batas bahaya",
+      "c": "Hanya aman untuk pekerjaan kantor",
+      "d": "Perlu SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Skenario: Pembacaan gas detector di confined space menunjukkan O2 20.9%, LEL 0%, H2S 0 ppm, CO 0 ppm. Namun ada bau aneh. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Masuk karena semua pembacaan normal",
+      "b": "Waspada - bau aneh mungkin menunjukkan kontaminan yang tidak terdeteksi oleh detector. Selidiki lebih lanjut atau gunakan detector tambahan/PID",
+      "c": "Mengabaikan bau karena detector normal",
+      "d": "Melepas detector dan masuk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Benzene sebagai kontaminan di industri migas sangat berbahaya karena...",
+    "options": {
+      "a": "Hanya berbau tidak enak",
+      "b": "Bersifat karsinogenik (penyebab kanker, terutama leukemia) bahkan pada konsentrasi rendah",
+      "c": "Hanya menyebabkan iritasi ringan",
+      "d": "Mudah terdeteksi oleh semua gas detector"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Alat yang paling tepat untuk mendeteksi konsentrasi rendah benzene di area migas adalah...",
+    "options": {
+      "a": "Catalytic bead sensor",
+      "b": "PID (Photoionization Detector) yang sensitif terhadap VOC pada level ppb/ppm rendah",
+      "c": "Sensor H2S",
+      "d": "Sensor oksigen"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Gas detector intrinsically safe (IS) certification diperlukan karena...",
+    "options": {
+      "a": "Untuk estetika",
+      "b": "Mencegah detector itu sendiri menjadi sumber penyalaan di atmosfer mudah meledak",
+      "c": "Agar detector lebih mahal",
+      "d": "Agar detector tahan air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "ATEX dan IECEx certification pada gas detector menunjukkan...",
+    "options": {
+      "a": "Detector buatan Eropa",
+      "b": "Detector telah diuji dan bersertifikat aman untuk digunakan di area dengan atmosfer mudah meledak",
+      "c": "Detector anti air",
+      "d": "Detector tahan jatuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Area monitoring menggunakan multiple portable gas detectors selama hot work dilakukan untuk...",
+    "options": {
+      "a": "Menghitung jumlah detector",
+      "b": "Memantau secara kontinu kondisi atmosfer di sekitar area kerja hot work untuk memastikan tetap aman",
+      "c": "Menguji daya tahan detector",
+      "d": "Mengisi waktu pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Gas mapping di fasilitas migas adalah proses...",
+    "options": {
+      "a": "Membuat peta jalan",
+      "b": "Membuat peta lokasi dan coverage semua gas detector (fixed dan portable) untuk memastikan seluruh area berisiko terpantau",
+      "c": "Menggambar pipa gas",
+      "d": "Menghitung volume gas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "SIL (Safety Integrity Level) pada fixed gas detection system menentukan...",
+    "options": {
+      "a": "Harga sistem",
+      "b": "Tingkat keandalan sistem dalam melakukan fungsi keselamatan sesuai permintaan (probability of failure on demand)",
+      "c": "Warna sistem",
+      "d": "Ukuran sistem"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Functional test pada fixed gas detection system dilakukan untuk memverifikasi...",
+    "options": {
+      "a": "Estetika sistem",
+      "b": "Seluruh rantai deteksi berfungsi dari sensor → transmitter → controller → alarm/executive action",
+      "c": "Warna kabel",
+      "d": "Kebersihan panel"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Gas detector competency training untuk operator migas harus mencakup, KECUALI...",
+    "options": {
+      "a": "Prinsip kerja sensor dan keterbatasannya",
+      "b": "Prosedur bump test dan kalibrasi",
+      "c": "Cara memodifikasi firmware detector tanpa izin manufacturer",
+      "d": "Interpretasi pembacaan dan tindakan respon"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 91,
+    "question": "Skenario: Dua gas detector berbeda menunjukkan pembacaan H2S yang berbeda signifikan di lokasi yang sama. Tindakan yang tepat adalah...",
+    "options": {
+      "a": "Menggunakan pembacaan yang lebih rendah",
+      "b": "Menggunakan pembacaan yang lebih tinggi (worst case), menarik kedua detector untuk diperiksa/dikalibrasi",
+      "c": "Rata-ratakan kedua pembacaan",
+      "d": "Mematikan keduanya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Purging gas detector sebelum kalibrasi bertujuan untuk...",
+    "options": {
+      "a": "Mendinginkan detector",
+      "b": "Membersihkan sisa gas dari sensor chamber menggunakan udara bersih agar kalibrasi akurat",
+      "c": "Mengisi ulang baterai",
+      "d": "Mengganti sensor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Response time (T90) pada sensor gas detector berarti...",
+    "options": {
+      "a": "Umur sensor 90 tahun",
+      "b": "Waktu yang diperlukan sensor untuk mencapai 90% dari pembacaan akhir setelah terpapar gas",
+      "c": "90% akurasi sensor",
+      "d": "90% baterai tersisa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Response time yang lambat pada gas detector dapat berbahaya karena...",
+    "options": {
+      "a": "Tidak ada bahaya",
+      "b": "Pekerja mungkin terpapar gas berbahaya selama periode sensor belum menunjukkan pembacaan sebenarnya",
+      "c": "Detector menjadi lebih akurat",
+      "d": "Baterai lebih hemat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Wireless gas detector di fasilitas migas memungkinkan...",
+    "options": {
+      "a": "Menelepon dari detector",
+      "b": "Transmisi data gas secara real-time ke control room tanpa kabel, meningkatkan fleksibilitas penempatan",
+      "c": "Mengakses internet",
+      "d": "Menonton video"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Menurut SKKNI, kompetensi mengoperasikan alat uji gas mencakup...",
+    "options": {
+      "a": "Hanya menyalakan detector",
+      "b": "Memeriksa, mengoperasikan, mengkalibrasi, menginterpretasi hasil, merawat alat, dan mengambil tindakan berdasarkan pembacaan",
+      "c": "Hanya membaca angka di layar",
+      "d": "Hanya menyimpan detector"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Aspek kritis dalam mengoperasikan alat uji gas menurut SKKNI adalah...",
+    "options": {
+      "a": "Kecepatan menyalakan alat",
+      "b": "Akurasi pembacaan, ketepatan interpretasi hasil, dan kecepatan respons terhadap kondisi bahaya",
+      "c": "Warna alat",
+      "d": "Berat alat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Gas detector log sheet harus mencatat informasi berikut untuk setiap pengujian...",
+    "options": {
+      "a": "Hanya tanggal",
+      "b": "Tanggal, waktu, lokasi, ID detector, hasil pembacaan setiap parameter, nama operator, dan tindakan yang diambil",
+      "c": "Hanya nama operator",
+      "d": "Hanya nomor detector"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Skenario: Setelah kalibrasi, gas detector gagal merespons span gas saat bump test. Tindakan yang tepat adalah...",
+    "options": {
+      "a": "Tetap gunakan detector",
+      "b": "TIDAK menggunakan detector tersebut, menandai 'out of service', dan mengirim untuk perbaikan/penggantian sensor",
+      "c": "Mengguncang detector",
+      "d": "Memanaskan sensor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama dalam mengoperasikan alat uji gas di industri migas adalah...",
+    "options": {
+      "a": "Gas detector hanya sebagai aksesoris",
+      "b": "Gas detector adalah alat kritis yang harus selalu terkalibrasi, dioperasikan oleh personel kompeten, dan hasilnya ditindaklanjuti untuk melindungi keselamatan",
+      "c": "Gas detector menggantikan semua prosedur keselamatan lain",
+      "d": "Gas detector tidak memerlukan perawatan"
+    },
+    "answer": "b"
+  }
+]

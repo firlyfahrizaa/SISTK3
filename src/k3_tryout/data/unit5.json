@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Insiden dalam konteks K3 industri migas didefinisikan sebagai...",
+    "options": {
+      "a": "Hanya kecelakaan yang menyebabkan kematian",
+      "b": "Setiap kejadian yang menyebabkan atau berpotensi menyebabkan cedera, penyakit, kerusakan, atau kerugian",
+      "c": "Hanya kerusakan peralatan besar",
+      "d": "Hanya kebakaran"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Perbedaan antara insiden dan kecelakaan (accident) adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Kecelakaan adalah insiden yang mengakibatkan cedera/kerusakan aktual, sedangkan insiden mencakup kecelakaan dan near miss",
+      "c": "Insiden lebih serius dari kecelakaan",
+      "d": "Kecelakaan tidak perlu dilaporkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Near miss/near hit dalam pelaporan insiden migas adalah...",
+    "options": {
+      "a": "Kecelakaan ringan yang menyebabkan luka kecil",
+      "b": "Kejadian yang berpotensi menyebabkan cedera/kerusakan tetapi secara kebetulan tidak terjadi",
+      "c": "Insiden yang menyebabkan kematian",
+      "d": "Kerusakan peralatan berat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Mengapa pelaporan near miss sangat penting di industri migas?",
+    "options": {
+      "a": "Hanya untuk memenuhi statistik",
+      "b": "Near miss adalah indikator leading yang mengidentifikasi kelemahan sistem sebelum kecelakaan serius terjadi",
+      "c": "Untuk menghukum pekerja yang terlibat",
+      "d": "Hanya untuk keperluan asuransi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Klasifikasi insiden berdasarkan tingkat keparahan umumnya meliputi, KECUALI...",
+    "options": {
+      "a": "Fatality (kematian)",
+      "b": "Lost Time Injury (LTI)",
+      "c": "First Aid Case (FAC)",
+      "d": "Bonus Achievement Case (BAC)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 6,
+    "question": "Lost Time Injury (LTI) didefinisikan sebagai cedera yang menyebabkan pekerja...",
+    "options": {
+      "a": "Datang terlambat ke kantor",
+      "b": "Tidak dapat bekerja pada shift berikutnya atau lebih setelah hari terjadinya cedera",
+      "c": "Memerlukan obat luka ringan",
+      "d": "Merasa tidak nyaman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Restricted Work Case (RWC) dalam klasifikasi insiden berarti pekerja...",
+    "options": {
+      "a": "Dilarang masuk area kantor",
+      "b": "Dapat bekerja tetapi tidak dapat melakukan tugas penuh/normalnya akibat cedera",
+      "c": "Mendapat libur tambahan",
+      "d": "Dipindahkan ke perusahaan lain"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Medical Treatment Case (MTC) adalah cedera yang memerlukan...",
+    "options": {
+      "a": "Hanya plester luka",
+      "b": "Penanganan medis oleh tenaga kesehatan profesional di luar pertolongan pertama",
+      "c": "Hanya obat sakit kepala",
+      "d": "Hanya istirahat sebentar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "First Aid Case (FAC) adalah cedera yang...",
+    "options": {
+      "a": "Memerlukan rawat inap di rumah sakit",
+      "b": "Hanya memerlukan pertolongan pertama sederhana seperti pembersihan luka, plester, atau kompres dingin",
+      "c": "Menyebabkan kehilangan hari kerja",
+      "d": "Memerlukan operasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Batas waktu pelaporan insiden serius (fatality, major injury) ke pihak berwenang di Indonesia umumnya adalah...",
+    "options": {
+      "a": "Dalam waktu 1 bulan",
+      "b": "Sesegera mungkin, umumnya dalam 24 jam atau 2x24 jam sesuai regulasi",
+      "c": "Dalam waktu 1 tahun",
+      "d": "Tidak perlu dilaporkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Initial incident notification/laporan awal insiden harus mencakup informasi berikut, KECUALI...",
+    "options": {
+      "a": "Waktu dan lokasi kejadian",
+      "b": "Deskripsi singkat insiden dan jumlah korban",
+      "c": "Analisis akar penyebab yang lengkap",
+      "d": "Tindakan darurat yang telah diambil"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 12,
+    "question": "Tujuan utama investigasi insiden di industri migas adalah...",
+    "options": {
+      "a": "Mencari siapa yang salah untuk dihukum",
+      "b": "Menemukan akar penyebab (root cause) dan merekomendasikan tindakan perbaikan untuk mencegah kejadian serupa",
+      "c": "Menghitung kerugian finansial saja",
+      "d": "Memenuhi persyaratan asuransi saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Prinsip 'no blame culture' dalam pelaporan insiden berarti...",
+    "options": {
+      "a": "Tidak ada konsekuensi untuk pelanggaran sengaja",
+      "b": "Fokus pada perbaikan sistem, bukan menyalahkan individu, untuk mendorong keterbukaan pelaporan",
+      "c": "Semua orang bebas melanggar aturan",
+      "d": "Manajemen tidak bertanggung jawab"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Scene preservation (pengamanan lokasi kejadian) setelah insiden serius penting untuk...",
+    "options": {
+      "a": "Menakuti pekerja lain",
+      "b": "Menjaga barang bukti fisik agar tidak terganggu untuk keperluan investigasi yang akurat",
+      "c": "Menutup area kerja secara permanen",
+      "d": "Menghindari tanggung jawab"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Informasi yang harus diamankan dalam scene preservation meliputi, KECUALI...",
+    "options": {
+      "a": "Posisi peralatan dan material saat kejadian",
+      "b": "Foto dan video kondisi lokasi",
+      "c": "Daftar keinginan belanja pekerja",
+      "d": "Sampel bahan/material yang terlibat"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 16,
+    "question": "Witness statement (pernyataan saksi) dalam investigasi insiden harus dikumpulkan...",
+    "options": {
+      "a": "Beberapa minggu setelah insiden",
+      "b": "Sesegera mungkin setelah insiden, saat ingatan saksi masih segar",
+      "c": "Hanya saat pengadilan",
+      "d": "Hanya dari supervisor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Teknik wawancara saksi insiden yang baik meliputi, KECUALI...",
+    "options": {
+      "a": "Menggunakan pertanyaan terbuka",
+      "b": "Mendengarkan tanpa menginterupsi",
+      "c": "Mengintimidasi saksi agar mengakui kesalahan",
+      "d": "Mencatat pernyataan secara akurat"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 18,
+    "question": "ICAM (Incident Cause Analysis Method) adalah metode investigasi yang...",
+    "options": {
+      "a": "Hanya mencari penyebab langsung",
+      "b": "Menganalisis penyebab langsung, penyebab kontribusi, dan faktor organisasi secara sistematis",
+      "c": "Hanya menghitung kerugian",
+      "d": "Hanya untuk insiden ringan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Dalam metode ICAM, absent/failed defenses (pertahanan yang tidak ada/gagal) merujuk pada...",
+    "options": {
+      "a": "Tim sepak bola yang kalah",
+      "b": "Sistem keselamatan, prosedur, atau barrier yang seharusnya mencegah insiden tetapi tidak berfungsi",
+      "c": "Pekerja yang tidak hadir",
+      "d": "Peralatan yang belum dibeli"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Fishbone Diagram (Ishikawa Diagram) dalam investigasi insiden digunakan untuk...",
+    "options": {
+      "a": "Menggambar ikan",
+      "b": "Mengidentifikasi dan mengategorikan semua kemungkinan penyebab insiden secara visual",
+      "c": "Menghitung jumlah ikan di laut",
+      "d": "Mendesain logo perusahaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Kategori penyebab dalam Fishbone Diagram umumnya meliputi...",
+    "options": {
+      "a": "Hanya manusia",
+      "b": "Man (manusia), Machine (mesin), Method (metode), Material, Mother Nature (lingkungan), Management",
+      "c": "Hanya cuaca",
+      "d": "Hanya peralatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "5-Why Analysis dalam investigasi insiden berarti...",
+    "options": {
+      "a": "Bertanya 'mengapa' hanya sekali",
+      "b": "Bertanya 'mengapa' secara berulang (umumnya 5 kali) hingga menemukan akar penyebab fundamental",
+      "c": "Menanyakan 5 orang berbeda",
+      "d": "Menyelesaikan investigasi dalam 5 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Skenario: Seorang operator terpeleset di area process plant. Investigasi menggunakan 5-Why:\n1. Mengapa terpeleset? → Lantai licin\n2. Mengapa lantai licin? → Ada tumpahan oli\n3. Mengapa ada tumpahan? → Seal pompa bocor\n4. Mengapa seal bocor? → Tidak diganti sesuai jadwal\n5. Mengapa tidak diganti? → Sistem maintenance tidak efektif\nAkar penyebab (root cause) adalah...",
+    "options": {
+      "a": "Lantai licin",
+      "b": "Sistem preventive maintenance yang tidak efektif",
+      "c": "Operator tidak hati-hati",
+      "d": "Seal pompa berkualitas rendah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Tripod Beta adalah metode investigasi insiden yang menganalisis...",
+    "options": {
+      "a": "Hanya korban insiden",
+      "b": "Tiga level penyebab: immediate cause, preconditions, dan underlying/root causes (latent failures)",
+      "c": "Hanya kerugian material",
+      "d": "Hanya lokasi insiden"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Bow-Tie Analysis dalam pengelolaan insiden digunakan untuk...",
+    "options": {
+      "a": "Mengikat dasi",
+      "b": "Memvisualisasikan hubungan antara bahaya, penyebab (threats), kejadian puncak (top event), konsekuensi, dan barrier/pengendalian",
+      "c": "Mendesain seragam",
+      "d": "Menghitung bonus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Dalam Bow-Tie Analysis, threat (ancaman) adalah...",
+    "options": {
+      "a": "Orang yang mengancam pekerja",
+      "b": "Faktor atau kondisi yang dapat memicu terjadinya top event (kejadian puncak/bahaya)",
+      "c": "Hasil investigasi",
+      "d": "Rekomendasi perbaikan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Dalam Bow-Tie Analysis, barrier/control terdiri dari dua jenis yaitu...",
+    "options": {
+      "a": "Besar dan kecil",
+      "b": "Prevention barriers (mencegah threat menjadi top event) dan mitigation barriers (mengurangi konsekuensi)",
+      "c": "Mahal dan murah",
+      "d": "Wajib dan opsional"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Incident report form di industri migas harus mencakup informasi berikut, KECUALI...",
+    "options": {
+      "a": "Data korban dan saksi",
+      "b": "Deskripsi kronologis kejadian",
+      "c": "Horoskop harian pekerja yang terlibat",
+      "d": "Immediate cause dan contributing factors"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 29,
+    "question": "Corrective action (tindakan perbaikan) hasil investigasi insiden harus bersifat...",
+    "options": {
+      "a": "Umum dan tidak jelas",
+      "b": "SMART: Specific, Measurable, Achievable, Relevant, Time-bound",
+      "c": "Opsional dan tidak perlu ditindaklanjuti",
+      "d": "Hanya berlaku untuk departemen yang terlibat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Hierarchy of corrective actions yang paling efektif setelah investigasi insiden adalah...",
+    "options": {
+      "a": "Mengeluarkan memo peringatan",
+      "b": "Eliminasi atau modifikasi sistem/engineering control lebih efektif daripada hanya pelatihan ulang atau prosedur baru",
+      "c": "Hanya memberikan training ulang",
+      "d": "Hanya menambah rambu peringatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Close-out verification pada tindakan perbaikan insiden bertujuan untuk...",
+    "options": {
+      "a": "Menutup file investigasi tanpa pengecekan",
+      "b": "Memverifikasi bahwa tindakan perbaikan telah dilaksanakan secara efektif dan risiko telah berkurang",
+      "c": "Menghitung biaya perbaikan",
+      "d": "Memberikan penghargaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Leading indicators dalam pelaporan K3 migas meliputi, KECUALI...",
+    "options": {
+      "a": "Jumlah near miss yang dilaporkan",
+      "b": "Jumlah safety observation/inspeksi yang dilakukan",
+      "c": "Jumlah fatality yang terjadi",
+      "d": "Persentase pelatihan K3 yang diselesaikan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 33,
+    "question": "Lagging indicators dalam pelaporan K3 migas meliputi...",
+    "options": {
+      "a": "Jumlah training K3 yang direncanakan",
+      "b": "LTIR (Lost Time Injury Rate), TRIR (Total Recordable Incident Rate), dan fatality rate",
+      "c": "Jumlah near miss yang dilaporkan",
+      "d": "Jumlah inspeksi yang dijadwalkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "LTIR (Lost Time Injury Rate) dihitung dengan rumus...",
+    "options": {
+      "a": "Jumlah LTI × jumlah pekerja",
+      "b": "(Jumlah LTI × 1.000.000) / total jam kerja",
+      "c": "Jumlah LTI / jumlah hari kerja",
+      "d": "Total jam kerja / jumlah LTI"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "TRIR (Total Recordable Incident Rate) mencakup insiden berikut...",
+    "options": {
+      "a": "Hanya fatality",
+      "b": "Fatality + LTI + Restricted Work Case + Medical Treatment Case",
+      "c": "Hanya First Aid Case",
+      "d": "Hanya kerusakan properti"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "Severity rate dalam statistik K3 mengukur...",
+    "options": {
+      "a": "Jumlah insiden saja",
+      "b": "Jumlah hari kerja yang hilang per sejuta jam kerja, menunjukkan tingkat keparahan cedera",
+      "c": "Biaya peralatan rusak",
+      "d": "Jumlah pekerja sakit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Incident classification matrix membantu perusahaan migas dalam...",
+    "options": {
+      "a": "Menentukan menu kantin",
+      "b": "Mengklasifikasikan tingkat keparahan insiden untuk menentukan level investigasi dan pelaporan yang diperlukan",
+      "c": "Menentukan jadwal cuti",
+      "d": "Menentukan seragam kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "High Potential Incident (HiPo) adalah insiden yang...",
+    "options": {
+      "a": "Menyebabkan kerugian finansial kecil",
+      "b": "Meskipun mungkin mengakibatkan cedera ringan atau tanpa cedera, berpotensi menyebabkan konsekuensi serius jika keadaan sedikit berbeda",
+      "c": "Hanya melibatkan kerusakan dokumen",
+      "d": "Tidak memerlukan investigasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Mengapa HiPo incident memerlukan investigasi yang mendalam meskipun akibatnya ringan?",
+    "options": {
+      "a": "Hanya untuk statistik",
+      "b": "Karena dengan kondisi yang sedikit berbeda, insiden tersebut bisa menyebabkan fatality atau cedera serius",
+      "c": "Untuk menghukum pekerja",
+      "d": "Hanya untuk memenuhi KPI"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Incident trending/trend analysis dalam pelaporan K3 bertujuan untuk...",
+    "options": {
+      "a": "Mengikuti tren fashion",
+      "b": "Mengidentifikasi pola insiden yang berulang untuk menentukan area prioritas perbaikan",
+      "c": "Menghitung pendapatan perusahaan",
+      "d": "Menentukan promosi pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Safety alert/safety bulletin diterbitkan setelah insiden signifikan untuk...",
+    "options": {
+      "a": "Menakuti pekerja",
+      "b": "Menyebarluaskan pembelajaran dari insiden ke seluruh organisasi agar mencegah kejadian serupa",
+      "c": "Menambah koleksi dokumen",
+      "d": "Menunjukkan jumlah insiden"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Lessons learned dari insiden harus dikomunikasikan melalui, KECUALI...",
+    "options": {
+      "a": "Toolbox meeting dan safety briefing",
+      "b": "Safety bulletin/alert yang didistribusikan ke seluruh fasilitas",
+      "c": "Gosip informal tanpa dokumentasi",
+      "d": "Training dan refresher course"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 43,
+    "question": "Regulatory reporting untuk insiden serius di industri migas Indonesia harus disampaikan kepada...",
+    "options": {
+      "a": "Media massa saja",
+      "b": "Disnaker/Kemnaker dan instansi terkait sesuai regulasi yang berlaku",
+      "c": "Hanya tetangga perusahaan",
+      "d": "Hanya konsultan perusahaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Menurut Permenaker, kecelakaan kerja yang menyebabkan kematian harus dilaporkan dalam waktu...",
+    "options": {
+      "a": "1 bulan",
+      "b": "Paling lambat 2×24 jam sejak kejadian",
+      "c": "1 tahun",
+      "d": "Tidak perlu dilaporkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Investigation board/team untuk insiden serius di industri migas idealnya terdiri dari...",
+    "options": {
+      "a": "Hanya HSE officer",
+      "b": "Tim multidisiplin meliputi HSE, operasi, teknik, manajemen, dan perwakilan pekerja",
+      "c": "Hanya manajemen puncak",
+      "d": "Hanya kontraktor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Lead investigator dalam investigasi insiden bertanggung jawab untuk...",
+    "options": {
+      "a": "Menentukan hukuman bagi pelaku",
+      "b": "Mengoordinasikan seluruh proses investigasi, memastikan objektivitas, dan menyusun laporan final",
+      "c": "Hanya mengumpulkan foto",
+      "d": "Hanya mewawancarai korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Timeline/sequence of events dalam investigasi insiden adalah...",
+    "options": {
+      "a": "Jadwal kerja harian",
+      "b": "Rekonstruksi kronologis urutan kejadian yang mengarah pada insiden, dari kondisi awal hingga insiden terjadi",
+      "c": "Jadwal proyek",
+      "d": "Kalender cuti"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Evidence collection dalam investigasi insiden meliputi, KECUALI...",
+    "options": {
+      "a": "Bukti fisik (peralatan rusak, sampel material)",
+      "b": "Bukti dokumenter (log book, permit, SOP)",
+      "c": "Koleksi souvenir dari lokasi insiden",
+      "d": "Bukti testimonial (pernyataan saksi)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 49,
+    "question": "Chain of custody untuk bukti investigasi insiden penting untuk...",
+    "options": {
+      "a": "Menghias ruang penyimpanan",
+      "b": "Memastikan integritas bukti terjaga dan dapat dipertanggungjawabkan dari pengumpulan hingga penyimpanan",
+      "c": "Menghitung jumlah bukti",
+      "d": "Menentukan harga bukti"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Skenario: Terjadi kebocoran gas besar di kilang. Kronologis pelaporan yang benar adalah...",
+    "options": {
+      "a": "Investigasi → pelaporan → emergency response",
+      "b": "Emergency response → initial notification → scene preservation → investigation → final report → corrective action",
+      "c": "Final report → investigasi → notifikasi",
+      "d": "Menunggu sampai kebocoran berhenti sendiri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Investigation report final harus mencakup, KECUALI...",
+    "options": {
+      "a": "Executive summary dan kronologi kejadian",
+      "b": "Analisis penyebab (immediate, contributing, root cause)",
+      "c": "Daftar belanja bulanan departemen",
+      "d": "Rekomendasi tindakan perbaikan dengan penanggung jawab dan target waktu"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 52,
+    "question": "Management review atas laporan investigasi insiden bertujuan untuk...",
+    "options": {
+      "a": "Menandatangani dokumen saja",
+      "b": "Memastikan rekomendasi memadai, mengalokasikan sumber daya, dan berkomitmen pada implementasi",
+      "c": "Menentukan bonus investigator",
+      "d": "Menghitung kerugian untuk klaim pajak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Tracking system untuk tindakan perbaikan insiden diperlukan untuk...",
+    "options": {
+      "a": "Menambah pekerjaan administrasi",
+      "b": "Memantau progress implementasi setiap rekomendasi dan memastikan close-out tepat waktu",
+      "c": "Menghitung jumlah dokumen",
+      "d": "Menentukan ranking departemen"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Overdue corrective action (tindakan perbaikan yang terlambat) harus...",
+    "options": {
+      "a": "Dibiarkan tanpa tindak lanjut",
+      "b": "Di-eskalasi ke manajemen yang lebih tinggi untuk memastikan implementasi atau justifikasi penundaan",
+      "c": "Dihapus dari sistem",
+      "d": "Ditandai selesai meskipun belum"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Skenario: Dalam 6 bulan terakhir, terjadi 5 insiden terpeleset (slip) di area yang sama di kilang. Trend ini menunjukkan...",
+    "options": {
+      "a": "Hal yang normal dan tidak perlu ditindaklanjuti",
+      "b": "Adanya masalah sistemik (housekeeping, drainase, atau permukaan lantai) yang perlu investigasi mendalam",
+      "c": "Pekerja tidak hati-hati saja",
+      "d": "Insiden acak yang kebetulan di lokasi sama"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Root cause categories dalam investigasi insiden migas umumnya meliputi...",
+    "options": {
+      "a": "Hanya faktor cuaca",
+      "b": "Management system failure, inadequate training, equipment failure, procedural failure, human factors",
+      "c": "Hanya usia peralatan",
+      "d": "Hanya faktor ekonomi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Human factors analysis dalam investigasi insiden mempelajari...",
+    "options": {
+      "a": "Hanya kesalahan pekerja",
+      "b": "Interaksi antara manusia dengan sistem kerja termasuk fatigue, stress, distraction, complacency, dan komunikasi",
+      "c": "Hanya kemampuan fisik",
+      "d": "Hanya pendidikan formal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Dirty dozen dalam human factors meliputi 12 faktor yang sering berkontribusi pada insiden, termasuk...",
+    "options": {
+      "a": "Hanya kelelahan",
+      "b": "Lack of communication, complacency, lack of knowledge, distraction, lack of teamwork, fatigue, dll",
+      "c": "Hanya stres",
+      "d": "Hanya tekanan waktu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Complacency sebagai human factor penyebab insiden berarti...",
+    "options": {
+      "a": "Pekerja yang rajin",
+      "b": "Rasa puas diri berlebihan dan kurangnya kewaspadaan akibat rutinitas, merasa pekerjaan sudah 'biasa'",
+      "c": "Pekerja yang kreatif",
+      "d": "Pekerja yang bersemangat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Normalization of deviance dalam konteks pelaporan insiden berarti...",
+    "options": {
+      "a": "Standarisasi proses kerja",
+      "b": "Pelanggaran prosedur yang berulang tanpa konsekuensi negatif sehingga dianggap normal/dapat diterima",
+      "c": "Peningkatan standar keselamatan",
+      "d": "Pembaruan prosedur kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Incident database/management system di perusahaan migas berfungsi untuk...",
+    "options": {
+      "a": "Menyimpan foto pribadi pekerja",
+      "b": "Merekam, melacak, menganalisis, dan melaporkan semua insiden secara terstruktur dan searchable",
+      "c": "Menyimpan data keuangan",
+      "d": "Mengelola jadwal cuti"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Data insiden yang dimasukkan ke database harus mencakup...",
+    "options": {
+      "a": "Hanya tanggal kejadian",
+      "b": "Tanggal, lokasi, jenis insiden, deskripsi, penyebab, korban, tindakan perbaikan, dan status follow-up",
+      "c": "Hanya nama korban",
+      "d": "Hanya biaya kerusakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Statistical analysis dari data insiden membantu perusahaan dalam...",
+    "options": {
+      "a": "Menentukan menu kantin",
+      "b": "Mengidentifikasi tren, pola, area berisiko tinggi, dan efektivitas program K3",
+      "c": "Menghitung gaji pekerja",
+      "d": "Menentukan jadwal libur"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Pareto analysis dalam data insiden menunjukkan...",
+    "options": {
+      "a": "Semua penyebab sama pentingnya",
+      "b": "Sedikit penyebab (20%) berkontribusi pada sebagian besar insiden (80%), membantu prioritisasi",
+      "c": "Insiden terjadi secara merata",
+      "d": "Semua area sama berbahayanya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Monthly safety statistics report di industri migas biasanya mencakup, KECUALI...",
+    "options": {
+      "a": "Jumlah insiden per kategori",
+      "b": "LTIR dan TRIR",
+      "c": "Perbandingan dengan target dan periode sebelumnya",
+      "d": "Daftar film favorit pekerja"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 66,
+    "question": "Management of Change (MOC) terkait insiden diperlukan ketika...",
+    "options": {
+      "a": "Tidak ada keterkaitan",
+      "b": "Rekomendasi investigasi memerlukan perubahan pada proses, peralatan, atau prosedur yang dapat menimbulkan risiko baru",
+      "c": "Hanya saat pergantian manajer",
+      "d": "Hanya saat audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Skenario: Investigasi kebocoran pipa menemukan bahwa penyebabnya adalah korosi internal yang tidak terdeteksi. Contributing factor-nya adalah...",
+    "options": {
+      "a": "Hanya cuaca",
+      "b": "Program inspection/corrosion monitoring yang tidak memadai dan kurangnya data baseline",
+      "c": "Hanya usia pipa",
+      "d": "Hanya kualitas las"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Process Safety Event (PSE) di industri migas adalah insiden yang melibatkan...",
+    "options": {
+      "a": "Kecelakaan di perjalanan",
+      "b": "Pelepasan tidak terkendali bahan berbahaya (hydrocarbon, chemical) dari proses atau peralatan",
+      "c": "Cedera ergonomi",
+      "d": "Kecelakaan olahraga"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "API 754 mengklasifikasikan Process Safety Events menjadi...",
+    "options": {
+      "a": "2 tier",
+      "b": "4 tier, dari Tier 1 (paling serius) hingga Tier 4 (leading indicator/near miss)",
+      "c": "10 tier",
+      "d": "1 tier"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Tier 1 Process Safety Event menurut API 754 meliputi insiden yang menyebabkan...",
+    "options": {
+      "a": "Hanya kerusakan kecil",
+      "b": "Pelepasan bahan berbahaya yang menyebabkan fatality, cedera serius, evakuasi komunitas, atau kerusakan besar",
+      "c": "Hanya keluhan pekerja",
+      "d": "Hanya keterlambatan produksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "Near miss reporting culture yang baik ditandai dengan...",
+    "options": {
+      "a": "Tidak ada near miss yang dilaporkan",
+      "b": "Tingginya jumlah near miss yang dilaporkan karena pekerja merasa aman melaporkan tanpa takut dihukum",
+      "c": "Hanya supervisor yang melaporkan",
+      "d": "Near miss hanya dilaporkan saat audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Incentive dan recognition program terkait pelaporan insiden sebaiknya...",
+    "options": {
+      "a": "Memberikan bonus untuk zero incident (tidak ada pelaporan)",
+      "b": "Mendorong pelaporan aktif, mengapresiasi pekerja yang melaporkan near miss dan kondisi tidak aman",
+      "c": "Menghukum pekerja yang melaporkan insiden",
+      "d": "Mengabaikan pelaporan near miss"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Bahaya dari program 'zero incident bonus' adalah...",
+    "options": {
+      "a": "Meningkatkan keselamatan",
+      "b": "Pekerja cenderung tidak melaporkan insiden/cedera ringan demi menjaga bonus, sehingga masalah K3 tersembunyi",
+      "c": "Meningkatkan biaya perusahaan",
+      "d": "Mengurangi produktivitas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Environmental incident di industri migas yang harus dilaporkan meliputi, KECUALI...",
+    "options": {
+      "a": "Tumpahan minyak ke laut atau tanah",
+      "b": "Emisi gas beracun yang melebihi batas",
+      "c": "Penurunan harga saham perusahaan",
+      "d": "Kebocoran bahan kimia ke badan air"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 75,
+    "question": "Pelaporan tumpahan minyak (oil spill) di offshore harus mencakup informasi...",
+    "options": {
+      "a": "Hanya lokasi tumpahan",
+      "b": "Volume estimasi, jenis material, lokasi, penyebab, tindakan containment/clean-up, dan dampak lingkungan",
+      "c": "Hanya tanggal kejadian",
+      "d": "Hanya nama operator"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Tier classification untuk oil spill reporting biasanya berdasarkan...",
+    "options": {
+      "a": "Warna minyak",
+      "b": "Volume tumpahan: Tier 1 (kecil/operasional), Tier 2 (menengah), Tier 3 (besar/nasional/internasional)",
+      "c": "Waktu kejadian",
+      "d": "Jumlah saksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Occupational illness/disease reporting di industri migas mencakup...",
+    "options": {
+      "a": "Hanya flu biasa",
+      "b": "Penyakit akibat kerja seperti NIHL (hearing loss), asbestosis, dermatitis kimia, dan penyakit paru-paru",
+      "c": "Hanya sakit kepala",
+      "d": "Hanya alergi makanan kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "NIHL (Noise Induced Hearing Loss) sebagai penyakit akibat kerja di migas harus dicatat dan dilaporkan karena...",
+    "options": {
+      "a": "Hanya untuk statistik kesehatan",
+      "b": "Menunjukkan kegagalan program hearing conservation dan paparan kebisingan berlebihan yang perlu ditindaklanjuti",
+      "c": "Tidak perlu dilaporkan",
+      "d": "Hanya untuk klaim asuransi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Periodic safety review meeting menggunakan data insiden bertujuan untuk...",
+    "options": {
+      "a": "Mengisi waktu rapat",
+      "b": "Mengevaluasi kinerja K3, membahas tren insiden, dan memutuskan tindakan perbaikan strategis",
+      "c": "Menentukan jadwal libur",
+      "d": "Membahas menu kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Benchmarking kinerja K3 dengan perusahaan sejenis (industry average) membantu...",
+    "options": {
+      "a": "Berkompetisi dalam olahraga",
+      "b": "Menilai apakah kinerja K3 perusahaan di atas atau di bawah standar industri dan area yang perlu perbaikan",
+      "c": "Menentukan harga jual produk",
+      "d": "Merekrut pekerja dari perusahaan lain"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Contractor incident reporting di industri migas penting karena...",
+    "options": {
+      "a": "Insiden kontraktor tidak termasuk statistik perusahaan",
+      "b": "Kontraktor adalah bagian signifikan dari tenaga kerja, insiden mereka mencerminkan kinerja K3 keseluruhan",
+      "c": "Hanya untuk penalti kontraktor",
+      "d": "Kontraktor tidak pernah mengalami insiden"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "OSHA Recordable criteria menentukan insiden mana yang harus dicatat berdasarkan...",
+    "options": {
+      "a": "Biaya insiden",
+      "b": "Apakah insiden memerlukan medical treatment di luar first aid, mengakibatkan lost time, restricted duty, atau kematian",
+      "c": "Jumlah saksi",
+      "d": "Warna helm korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "First Aid treatment yang TIDAK menjadikan insiden sebagai OSHA Recordable meliputi, KECUALI...",
+    "options": {
+      "a": "Pembersihan luka dan pemasangan plester",
+      "b": "Penggunaan cold/hot pack",
+      "c": "Pemberian obat resep (prescription medication)",
+      "d": "Penggunaan butterfly bandage"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 84,
+    "question": "Skenario: Seorang rigger mengalami luka sobek saat handling pipa dan memerlukan jahitan dari dokter. Klasifikasi insiden ini adalah...",
+    "options": {
+      "a": "First Aid Case",
+      "b": "Medical Treatment Case (MTC) karena jahitan merupakan medical treatment di luar first aid",
+      "c": "Near miss",
+      "d": "Tidak perlu dicatat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Skenario: Operator terpapar uap H2S dan merasa pusing, dibawa ke klinik, diperiksa, dan dinyatakan fit setelah observasi. Namun dokter memberikan obat resep. Klasifikasi insiden ini...",
+    "options": {
+      "a": "Near miss",
+      "b": "Medical Treatment Case karena ada pemberian obat resep",
+      "c": "First Aid Case",
+      "d": "Tidak termasuk insiden"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Incident register/log book fisik di lokasi kerja migas harus...",
+    "options": {
+      "a": "Disembunyikan dari pekerja",
+      "b": "Tersedia dan dapat diakses untuk mencatat semua insiden termasuk near miss secara real-time",
+      "c": "Hanya dibawa oleh manajer",
+      "d": "Disimpan di kantor pusat saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Digital incident reporting system (IRIS, Enablon, dll) memiliki keunggulan dibanding sistem manual yaitu...",
+    "options": {
+      "a": "Lebih sulit digunakan",
+      "b": "Kemudahan pelaporan, tracking otomatis, analisis data, trending, dan aksesibilitas dari berbagai lokasi",
+      "c": "Tidak memerlukan internet",
+      "d": "Tidak memerlukan training"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Confidentiality dalam investigasi insiden berarti...",
+    "options": {
+      "a": "Insiden disembunyikan dari semua pihak",
+      "b": "Informasi sensitif (data medis korban, identitas saksi) dilindungi sesuai ketentuan privasi",
+      "c": "Laporan insiden tidak boleh dibaca siapa pun",
+      "d": "Investigasi dilakukan secara rahasia tanpa akuntabilitas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Post-incident drug and alcohol testing di industri migas dilakukan untuk...",
+    "options": {
+      "a": "Menghukum pekerja",
+      "b": "Menentukan apakah penggunaan zat terlarang/alkohol merupakan contributing factor pada insiden",
+      "c": "Menambah biaya investigasi",
+      "d": "Mempermalukan pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Return to work program setelah insiden yang menyebabkan cedera bertujuan untuk...",
+    "options": {
+      "a": "Memaksa pekerja kembali sebelum sembuh",
+      "b": "Memfasilitasi pemulihan pekerja dengan tugas yang disesuaikan hingga mampu kembali ke tugas penuh",
+      "c": "Memindahkan pekerja ke departemen lain secara permanen",
+      "d": "Memberhentikan pekerja yang cedera"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Menurut SKKNI, kompetensi mengelola pelaporan insiden mencakup kemampuan...",
+    "options": {
+      "a": "Hanya menulis laporan",
+      "b": "Mengidentifikasi insiden, melaporkan secara akurat, mendokumentasikan, dan memastikan tindak lanjut",
+      "c": "Hanya membaca laporan orang lain",
+      "d": "Hanya menyimpan dokumen"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Aspek kritis pelaporan insiden menurut SKKNI adalah...",
+    "options": {
+      "a": "Kecepatan penulisan laporan",
+      "b": "Ketepatan dan kelengkapan informasi yang dilaporkan serta ketepatan waktu pelaporan",
+      "c": "Keindahan format laporan",
+      "d": "Jumlah halaman laporan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Skenario: Saat shift malam, terjadi ledakan kecil pada heat exchanger. Beberapa pekerja terluka ringan. Langkah pelaporan yang benar secara berurutan adalah...",
+    "options": {
+      "a": "Buat laporan minggu depan",
+      "b": "Emergency response → evakuasi → pertolongan pertama → initial notification ke manajemen → scene preservation → investigasi",
+      "c": "Investigasi dulu → baru evakuasi",
+      "d": "Tunggu pagi hari untuk melapor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Recurring incident di area yang sama menunjukkan...",
+    "options": {
+      "a": "Area tersebut memang berbahaya dan tidak bisa diubah",
+      "b": "Corrective action sebelumnya belum efektif atau root cause yang sebenarnya belum ditemukan",
+      "c": "Pekerja di area tersebut tidak beruntung",
+      "d": "Statistik kebetulan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Effectiveness review pada corrective action dilakukan dengan cara...",
+    "options": {
+      "a": "Hanya bertanya apakah sudah dilakukan",
+      "b": "Memverifikasi implementasi di lapangan, memeriksa apakah insiden serupa masih terjadi, dan menilai kecukupan tindakan",
+      "c": "Hanya memeriksa dokumen",
+      "d": "Hanya menandatangani form"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Risk register harus diperbarui setelah insiden karena...",
+    "options": {
+      "a": "Hanya untuk menambah pekerjaan",
+      "b": "Insiden mungkin mengungkap bahaya baru atau menunjukkan bahwa level risiko perlu dinilai ulang",
+      "c": "Hanya untuk keperluan audit",
+      "d": "Risk register tidak pernah perlu diperbarui"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Sharing lessons learned antar fasilitas/perusahaan dalam industri migas dilakukan melalui...",
+    "options": {
+      "a": "Gosip informal",
+      "b": "Safety alert sharing, industry forum (IOGP, IADC), dan knowledge management system",
+      "c": "Media sosial pribadi",
+      "d": "Surat kabar lokal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "IOGP (International Association of Oil & Gas Producers) safety data sharing membantu industri dalam...",
+    "options": {
+      "a": "Berkompetisi antar perusahaan",
+      "b": "Membandingkan kinerja K3 global dan belajar dari insiden di seluruh industri migas",
+      "c": "Menentukan harga minyak",
+      "d": "Merekrut pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Legal consideration dalam pelaporan dan investigasi insiden meliputi...",
+    "options": {
+      "a": "Tidak ada pertimbangan hukum",
+      "b": "Kepatuhan regulasi pelaporan, liability, hak pekerja, dan perlindungan informasi privileged",
+      "c": "Hanya biaya pengacara",
+      "d": "Hanya kontrak kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama dalam mengelola pelaporan dan pencatatan insiden di industri migas adalah...",
+    "options": {
+      "a": "Melaporkan sesedikit mungkin",
+      "b": "Pelaporan yang akurat, tepat waktu, dan lengkap adalah fondasi untuk pembelajaran organisasi dan pencegahan insiden di masa depan",
+      "c": "Laporan hanya formalitas tanpa tindak lanjut",
+      "d": "Hanya insiden fatal yang perlu dilaporkan"
+    },
+    "answer": "b"
+  }
+]

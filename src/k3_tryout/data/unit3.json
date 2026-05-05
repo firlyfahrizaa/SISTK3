@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Dalam hierarki pengendalian risiko, APD berada pada posisi...",
+    "options": {
+      "a": "Pertama (paling efektif)",
+      "b": "Kedua setelah eliminasi",
+      "c": "Terakhir sebagai pertahanan terakhir (last resort)",
+      "d": "Ketiga setelah substitusi"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "Mengapa APD disebut sebagai 'last line of defense' dalam hierarki pengendalian risiko?",
+    "options": {
+      "a": "Karena APD paling mahal",
+      "b": "Karena APD hanya melindungi individu pemakainya dan tidak menghilangkan bahaya di sumbernya",
+      "c": "Karena APD paling mudah didapat",
+      "d": "Karena semua pekerja suka memakai APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Menurut SKKNI K3, pemilihan APD harus berdasarkan...",
+    "options": {
+      "a": "Harga termurah yang tersedia",
+      "b": "Warna yang disukai pekerja",
+      "c": "Hasil identifikasi bahaya dan penilaian risiko di tempat kerja",
+      "d": "Tren fashion terkini"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "APD pelindung kepala (safety helmet) di industri migas berfungsi untuk melindungi dari, KECUALI...",
+    "options": {
+      "a": "Benturan benda jatuh dari atas",
+      "b": "Percikan bahan kimia pada kepala",
+      "c": "Sengatan matahari saat berlibur",
+      "d": "Kontak dengan benda tajam atau sudut struktur"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Safety helmet untuk industri migas harus memenuhi standar...",
+    "options": {
+      "a": "Tidak ada standar khusus",
+      "b": "ANSI Z89.1 atau SNI yang setara untuk pelindung kepala industri",
+      "c": "Standar helm sepeda motor",
+      "d": "Standar helm olahraga"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Chin strap pada safety helmet di area offshore/migas berfungsi untuk...",
+    "options": {
+      "a": "Dekorasi helm",
+      "b": "Mencegah helm terjatuh akibat angin kencang atau saat bekerja di ketinggian/posisi menunduk",
+      "c": "Mengencangkan helm agar tidak nyaman",
+      "d": "Menandai kepemilikan helm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Kapan safety helmet harus diganti di industri migas?",
+    "options": {
+      "a": "Hanya saat helm hilang",
+      "b": "Jika terdapat retak, penyok, perubahan warna signifikan, atau setelah menerima benturan keras",
+      "c": "Setiap hari",
+      "d": "Hanya saat audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Safety glasses di industri migas berfungsi untuk melindungi mata dari...",
+    "options": {
+      "a": "Cahaya matahari saat berlibur",
+      "b": "Percikan bahan kimia, partikel terbang, debu, dan sinar UV",
+      "c": "Silau lampu kantor",
+      "d": "Kantuk saat bekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Chemical splash goggles diperlukan saat pekerja migas...",
+    "options": {
+      "a": "Bekerja di kantor",
+      "b": "Menangani bahan kimia korosif atau berisiko terkena percikan cairan berbahaya",
+      "c": "Mengendarai mobil",
+      "d": "Makan di kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Perbedaan utama antara safety glasses dan chemical splash goggles adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Goggles memberikan perlindungan menyeluruh (sealed) terhadap percikan dari segala arah, safety glasses hanya dari depan dan samping",
+      "c": "Safety glasses lebih mahal",
+      "d": "Goggles hanya untuk fashion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Welding helmet/shield dengan filter lens digunakan saat pengelasan untuk melindungi dari...",
+    "options": {
+      "a": "Hujan",
+      "b": "Radiasi sinar UV, infrared, dan cahaya tampak yang sangat terang dari busur las",
+      "c": "Angin kencang",
+      "d": "Debu jalan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Shade number pada welding filter lens menunjukkan...",
+    "options": {
+      "a": "Harga filter",
+      "b": "Tingkat kegelapan filter yang menentukan perlindungan terhadap intensitas cahaya las",
+      "c": "Nomor seri produksi",
+      "d": "Tahun pembuatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Hearing protection (pelindung pendengaran) wajib digunakan di area migas dengan tingkat kebisingan melebihi...",
+    "options": {
+      "a": "50 dBA",
+      "b": "85 dBA (NAB untuk 8 jam kerja)",
+      "c": "60 dBA",
+      "d": "100 dBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Dua jenis utama hearing protection yang digunakan di industri migas adalah...",
+    "options": {
+      "a": "Helm dan topi",
+      "b": "Ear plug (sumbat telinga) dan ear muff (penutup telinga)",
+      "c": "Kapas dan kain",
+      "d": "Headphone musik dan earphone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "NRR (Noise Reduction Rating) pada hearing protection menunjukkan...",
+    "options": {
+      "a": "Harga alat pelindung",
+      "b": "Kemampuan alat dalam mengurangi tingkat kebisingan dalam satuan desibel",
+      "c": "Nomor registrasi produk",
+      "d": "Umur pakai alat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Double hearing protection (ear plug + ear muff bersamaan) diperlukan saat tingkat kebisingan...",
+    "options": {
+      "a": "Di bawah 50 dBA",
+      "b": "Sangat tinggi, umumnya di atas 105 dBA, dimana satu jenis pelindung tidak cukup",
+      "c": "Normal (60-70 dBA)",
+      "d": "Tidak pernah diperlukan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Respiratory protection di industri migas diperlukan saat...",
+    "options": {
+      "a": "Bekerja di ruang kantor ber-AC",
+      "b": "Terpapar debu, uap, gas beracun, atau atmosfer dengan kadar oksigen kurang dari normal",
+      "c": "Makan di kantin",
+      "d": "Berkendara ke tempat kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Perbedaan antara Air Purifying Respirator (APR) dan Supplied Air Respirator (SAR) adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "APR menyaring kontaminan dari udara sekitar, SAR menyuplai udara bersih dari sumber terpisah",
+      "c": "APR lebih mahal",
+      "d": "SAR hanya untuk latihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Air Purifying Respirator (APR) TIDAK BOLEH digunakan dalam kondisi...",
+    "options": {
+      "a": "Debu ringan",
+      "b": "Atmosfer dengan kadar oksigen kurang dari 19.5% atau konsentrasi kontaminan melebihi kapasitas filter (IDLH)",
+      "c": "Pengecatan dengan cat berbasis air",
+      "d": "Pekerjaan grinding ringan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Cartridge/filter pada respirator harus diganti ketika...",
+    "options": {
+      "a": "Hanya saat audit K3",
+      "b": "Tercium bau kontaminan menembus filter, sulit bernapas, atau sesuai jadwal penggantian yang ditetapkan",
+      "c": "Setahun sekali",
+      "d": "Hanya saat warnanya berubah menjadi hitam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Fit test pada respirator bertujuan untuk...",
+    "options": {
+      "a": "Mengukur ukuran wajah pekerja untuk kartu identitas",
+      "b": "Memastikan respirator memberikan seal/kedap yang baik pada wajah pekerja sehingga tidak ada kebocoran",
+      "c": "Menguji kekuatan tali respirator",
+      "d": "Mengukur kapasitas paru-paru pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Pekerja yang memiliki janggut atau kumis tebal TIDAK direkomendasikan menggunakan tight-fitting respirator karena...",
+    "options": {
+      "a": "Terlihat tidak rapi",
+      "b": "Rambut wajah mengganggu seal/kedap respirator sehingga kontaminan dapat masuk",
+      "c": "Respirator menjadi tidak nyaman",
+      "d": "Tidak ada alasan teknis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Safety shoes/boots di industri migas harus memiliki fitur berikut, KECUALI...",
+    "options": {
+      "a": "Steel toe cap (pelindung jari kaki dari benda berat)",
+      "b": "Sole tahan minyak dan anti-slip",
+      "c": "Hak tinggi untuk fashion",
+      "d": "Pelindung dari tusukan (puncture resistant sole)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 24,
+    "question": "Chemical resistant boots diperlukan saat pekerja migas...",
+    "options": {
+      "a": "Berjalan di taman",
+      "b": "Bekerja di area yang berpotensi terkena tumpahan bahan kimia korosif atau hidrokarbon",
+      "c": "Berkendara ke kantor",
+      "d": "Bermain sepak bola"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Safety gloves di industri migas dipilih berdasarkan...",
+    "options": {
+      "a": "Warna favorit pekerja",
+      "b": "Jenis bahaya yang dihadapi: mekanik (cut resistant), kimia (chemical resistant), panas (heat resistant)",
+      "c": "Harga termurah",
+      "d": "Ukuran terbesar yang tersedia"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Cut resistant gloves dengan level A4-A6 digunakan untuk pekerjaan yang...",
+    "options": {
+      "a": "Mengetik di komputer",
+      "b": "Menangani material tajam seperti lembaran logam, pipa, atau kabel baja",
+      "c": "Menulis laporan",
+      "d": "Membersihkan meja kantor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Nitrile gloves di industri migas digunakan untuk...",
+    "options": {
+      "a": "Pekerjaan berat dengan beban tinggi",
+      "b": "Perlindungan dari kontak dengan bahan kimia, oli, dan hidrokarbon ringan",
+      "c": "Pekerjaan pengelasan",
+      "d": "Olahraga tinju"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Full body harness sebagai APD untuk pekerjaan di ketinggian terdiri dari komponen utama berikut, KECUALI...",
+    "options": {
+      "a": "Shoulder strap (tali bahu)",
+      "b": "Leg strap (tali paha)",
+      "c": "D-ring (titik koneksi)",
+      "d": "Roda skateboard"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 29,
+    "question": "Shock absorber/energy absorber pada lanyard berfungsi untuk...",
+    "options": {
+      "a": "Menyerap getaran mesin",
+      "b": "Mengurangi gaya kejut pada tubuh pekerja saat terjatuh sehingga mencegah cedera internal",
+      "c": "Memperpanjang lanyard",
+      "d": "Menghias lanyard"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Panjang free fall maksimum yang diizinkan untuk full body harness dengan lanyard adalah...",
+    "options": {
+      "a": "3 meter",
+      "b": "1.8 meter (6 feet)",
+      "c": "5 meter",
+      "d": "10 meter"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Self-Retracting Lifeline (SRL) lebih diutamakan daripada lanyard biasa karena...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Membatasi jarak free fall secara otomatis dan memberikan mobilitas lebih besar",
+      "c": "Lebih ringan",
+      "d": "Tidak memerlukan anchor point"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Inspeksi pre-use pada full body harness harus memeriksa, KECUALI...",
+    "options": {
+      "a": "Kondisi webbing (sobek, aus, terbakar, terkena bahan kimia)",
+      "b": "Fungsi buckle dan D-ring",
+      "c": "Warna harness sesuai selera",
+      "d": "Label tanggal produksi dan sertifikasi masih terbaca"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 33,
+    "question": "Full body harness harus dimusnahkan dan diganti setelah...",
+    "options": {
+      "a": "Dicuci",
+      "b": "Pernah digunakan untuk menahan jatuh (fall arrest) karena komponen mungkin sudah mengalami deformasi",
+      "c": "Digunakan selama 1 minggu",
+      "d": "Terkena hujan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Fire Retardant Coverall (FRC) wajib digunakan di area migas untuk...",
+    "options": {
+      "a": "Menjaga kebersihan pakaian dalam",
+      "b": "Melindungi pekerja dari flash fire dan paparan panas/api secara singkat",
+      "c": "Menunjukkan jabatan pekerja",
+      "d": "Fashion di tempat kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "FRC TIDAK memberikan perlindungan dari...",
+    "options": {
+      "a": "Flash fire singkat",
+      "b": "Paparan api langsung dalam waktu lama (direct sustained fire)",
+      "c": "Percikan las ringan",
+      "d": "Radiasi panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "Perawatan FRC yang benar meliputi, KECUALI...",
+    "options": {
+      "a": "Mencuci sesuai instruksi pabrik",
+      "b": "Tidak menggunakan pemutih klorin yang merusak sifat fire retardant",
+      "c": "Menyetrika dengan suhu sangat tinggi",
+      "d": "Memeriksa kondisi kain secara berkala"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 37,
+    "question": "Skenario: Seorang operator akan bekerja membersihkan tangki yang sebelumnya berisi H2S. APD pernapasan minimum yang diperlukan adalah...",
+    "options": {
+      "a": "Masker kain biasa",
+      "b": "SCBA atau Supplied Air Respirator karena konsentrasi H2S mungkin IDLH",
+      "c": "Half-face respirator dengan filter organik",
+      "d": "Tidak perlu APD pernapasan jika tangki sudah kosong"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Face shield digunakan bersamaan dengan safety glasses untuk memberikan...",
+    "options": {
+      "a": "Perlindungan ganda yang berlebihan",
+      "b": "Perlindungan tambahan pada seluruh wajah dari percikan bahan kimia, partikel, atau logam panas",
+      "c": "Tampilan yang lebih profesional",
+      "d": "Perlindungan dari sinar matahari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Personal Flotation Device (PFD/life jacket) wajib digunakan di platform offshore saat...",
+    "options": {
+      "a": "Hanya saat berenang di kolam",
+      "b": "Bekerja di area terbuka dekat laut, saat transfer antar vessel, atau saat emergency muster",
+      "c": "Bekerja di kantor platform",
+      "d": "Hanya saat hujan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Chemical suit (pakaian pelindung kimia) Level A memberikan perlindungan...",
+    "options": {
+      "a": "Hanya dari percikan ringan",
+      "b": "Perlindungan tertinggi: gas-tight, fully encapsulating dengan SCBA di dalam suit",
+      "c": "Hanya dari debu",
+      "d": "Hanya dari cairan non-korosif"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Chemical suit Level B berbeda dari Level A dalam hal...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Level B splash-proof tetapi tidak gas-tight, SCBA dipakai di luar suit",
+      "c": "Level B lebih mahal",
+      "d": "Level B memberikan perlindungan lebih tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Disposable coverall (Tyvek suit) di industri migas digunakan untuk...",
+    "options": {
+      "a": "Pakaian sehari-hari",
+      "b": "Perlindungan dari kontaminasi debu, partikel, dan percikan ringan selama pekerjaan tertentu",
+      "c": "Pengganti FRC secara permanen",
+      "d": "Perlindungan dari api"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Knee pad digunakan di industri migas saat...",
+    "options": {
+      "a": "Bermain sepak bola",
+      "b": "Bekerja dalam posisi berlutut untuk waktu lama (grinding, welding, piping) untuk mencegah cedera lutut",
+      "c": "Berjalan di permukaan rata",
+      "d": "Duduk di kursi kantor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Reflective vest/rompi reflektif wajib digunakan di area migas untuk...",
+    "options": {
+      "a": "Fashion",
+      "b": "Meningkatkan visibilitas pekerja terutama di area lalu lintas kendaraan atau pencahayaan rendah",
+      "c": "Menjaga suhu tubuh",
+      "d": "Menunjukkan jabatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "H2S personal monitor/detector yang dikenakan pekerja di area migas berfungsi untuk...",
+    "options": {
+      "a": "Mengukur tekanan darah",
+      "b": "Memberikan alarm jika konsentrasi H2S di sekitar pekerja mencapai level berbahaya",
+      "c": "Menghitung langkah berjalan",
+      "d": "Mengukur suhu tubuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Alarm pertama (low alarm) pada personal H2S monitor biasanya diatur pada konsentrasi...",
+    "options": {
+      "a": "100 ppm",
+      "b": "10 ppm (sesuai TWA/NAB)",
+      "c": "50 ppm",
+      "d": "1 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Alarm kedua (high alarm) pada personal H2S monitor biasanya diatur pada konsentrasi...",
+    "options": {
+      "a": "10 ppm",
+      "b": "15 ppm (sesuai STEL - Short Term Exposure Limit)",
+      "c": "100 ppm",
+      "d": "1 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Bump test pada personal gas detector dilakukan untuk...",
+    "options": {
+      "a": "Menguji ketahanan alat jika dijatuhkan",
+      "b": "Memverifikasi bahwa sensor dan alarm berfungsi dengan benar menggunakan gas kalibrasi",
+      "c": "Membersihkan sensor dari debu",
+      "d": "Mengisi ulang baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Frekuensi bump test pada personal gas detector yang direkomendasikan adalah...",
+    "options": {
+      "a": "Setahun sekali",
+      "b": "Setiap hari sebelum digunakan atau sesuai rekomendasi manufacturer",
+      "c": "Sebulan sekali",
+      "d": "Tidak pernah perlu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "APD anti-static (antistatic coverall, safety shoes ESD) diperlukan di area migas karena...",
+    "options": {
+      "a": "Untuk kenyamanan",
+      "b": "Untuk mencegah penumpukan muatan listrik statis yang dapat menimbulkan percikan di atmosfer mudah terbakar",
+      "c": "Untuk melindungi dari petir",
+      "d": "Untuk menjaga kebersihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Skenario: Pekerja akan melakukan grinding pada pipa baja di area offshore. APD yang diperlukan meliputi...",
+    "options": {
+      "a": "Hanya safety glasses",
+      "b": "Face shield, safety glasses, ear plug/muff, leather gloves, FRC, safety shoes, dan dust mask jika perlu",
+      "c": "Hanya helm dan sepatu",
+      "d": "Hanya sarung tangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Skenario: Operator akan melakukan sampling cairan crude oil dari tangki. APD minimum yang diperlukan adalah...",
+    "options": {
+      "a": "Hanya sarung tangan kain",
+      "b": "Chemical goggles, nitrile/chemical gloves, FRC, safety shoes, dan respiratory protection jika ada potensi uap",
+      "c": "Hanya helm safety",
+      "d": "Tidak perlu APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Menurut SKKNI, inspeksi APD sebelum digunakan (pre-use inspection) dilakukan oleh...",
+    "options": {
+      "a": "Hanya HSE officer",
+      "b": "Setiap pekerja yang akan menggunakan APD tersebut",
+      "c": "Hanya supervisor",
+      "d": "Hanya pihak pabrik pembuat APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "APD yang sudah rusak atau kadaluarsa harus...",
+    "options": {
+      "a": "Tetap digunakan hingga APD baru datang",
+      "b": "Segera ditarik dari peredaran, ditandai 'tidak layak pakai', dan diganti dengan yang baru",
+      "c": "Diperbaiki sendiri oleh pekerja",
+      "d": "Disimpan di gudang sebagai cadangan darurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Penyimpanan APD yang benar meliputi, KECUALI...",
+    "options": {
+      "a": "Disimpan di tempat kering dan bersih",
+      "b": "Terhindar dari paparan sinar matahari langsung berkepanjangan",
+      "c": "Dicampur dengan bahan kimia dalam satu lemari",
+      "d": "Disimpan sesuai instruksi pabrik"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 56,
+    "question": "Training APD untuk pekerja migas harus mencakup, KECUALI...",
+    "options": {
+      "a": "Cara memakai dan melepas APD dengan benar",
+      "b": "Keterbatasan perlindungan APD",
+      "c": "Cara memperbaiki APD yang rusak sendiri tanpa sertifikasi",
+      "d": "Perawatan dan penyimpanan APD"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 57,
+    "question": "Skenario: Di area wellhead, pekerja terpapar kebisingan 92 dBA selama 8 jam. Hearing protection yang memadai harus memiliki NRR minimal...",
+    "options": {
+      "a": "5 dB",
+      "b": "Cukup untuk mengurangi paparan di bawah 85 dBA (minimal NRR 14 dB dengan perhitungan derating)",
+      "c": "1 dB",
+      "d": "Tidak perlu hearing protection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Derating factor pada NRR hearing protection digunakan karena...",
+    "options": {
+      "a": "Untuk menaikkan harga APD",
+      "b": "Perlindungan aktual di lapangan biasanya lebih rendah dari NRR laboratorium karena cara pemakaian",
+      "c": "Untuk menghitung diskon pembelian",
+      "d": "Tidak ada alasan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Escape SCBA/escape set yang dipasang di area H2S biasanya memiliki kapasitas udara untuk...",
+    "options": {
+      "a": "8 jam",
+      "b": "5-15 menit evakuasi",
+      "c": "1 jam",
+      "d": "24 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Skenario: Seorang pekerja mengeluh iritasi kulit setelah menggunakan sarung tangan latex. Tindakan yang tepat adalah...",
+    "options": {
+      "a": "Suruh pekerja tetap pakai dan tahan sakitnya",
+      "b": "Ganti dengan sarung tangan non-latex (nitrile) dan laporkan kemungkinan alergi latex",
+      "c": "Suruh bekerja tanpa sarung tangan",
+      "d": "Berikan obat alergi dan lanjutkan dengan sarung tangan latex"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Peraturan yang mengatur tentang APD di Indonesia adalah...",
+    "options": {
+      "a": "UU No. 13 Tahun 2003 saja",
+      "b": "Permenaker No. 8 Tahun 2010 tentang Alat Pelindung Diri",
+      "c": "UU No. 36 Tahun 2009 tentang Kesehatan",
+      "d": "PP No. 50 Tahun 2012 saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Menurut Permenaker No. 8 Tahun 2010, APD wajib disediakan oleh...",
+    "options": {
+      "a": "Pekerja sendiri",
+      "b": "Pengusaha/pemberi kerja secara cuma-cuma",
+      "c": "Pemerintah daerah",
+      "d": "Asuransi kesehatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Welding gloves yang tepat untuk pekerjaan pengelasan harus terbuat dari...",
+    "options": {
+      "a": "Plastik tipis",
+      "b": "Kulit tahan panas (leather) yang melindungi dari percikan las, panas, dan radiasi",
+      "c": "Kain katun biasa",
+      "d": "Karet tipis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Metatarsal guard pada safety shoes memberikan perlindungan tambahan pada...",
+    "options": {
+      "a": "Tumit kaki",
+      "b": "Bagian atas kaki (metatarsal) dari benda berat yang jatuh",
+      "c": "Pergelangan kaki",
+      "d": "Telapak kaki bagian bawah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Dielectric safety shoes/boots digunakan oleh pekerja yang...",
+    "options": {
+      "a": "Bekerja di area basah",
+      "b": "Bekerja dengan peralatan listrik bertegangan tinggi untuk mencegah aliran listrik melalui kaki",
+      "c": "Bekerja di area berdebu",
+      "d": "Bekerja di area panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Perbedaan antara half-face respirator dan full-face respirator adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Full-face melindungi seluruh wajah termasuk mata, half-face hanya menutupi hidung dan mulut",
+      "c": "Half-face lebih mahal",
+      "d": "Full-face hanya untuk fashion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "PAPR (Powered Air Purifying Respirator) berbeda dari respirator biasa karena...",
+    "options": {
+      "a": "Tidak memiliki filter",
+      "b": "Menggunakan blower bertenaga baterai untuk mendorong udara melalui filter, mengurangi resistensi napas",
+      "c": "Tidak memerlukan filter",
+      "d": "Hanya digunakan di kantor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Skenario: Pekerja di rig pengeboran terpapar mist minyak pengeboran (drilling mud mist). APD pernapasan yang tepat adalah...",
+    "options": {
+      "a": "Masker kain",
+      "b": "Respirator dengan filter P100 atau cartridge kombinasi untuk oil mist",
+      "c": "Tidak perlu pelindung pernapasan",
+      "d": "SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Kode warna cartridge respirator untuk uap organik (organic vapor) menurut standar NIOSH adalah...",
+    "options": {
+      "a": "Putih",
+      "b": "Hitam",
+      "c": "Kuning",
+      "d": "Hijau"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Kode warna cartridge respirator untuk gas asam (acid gas) menurut standar NIOSH adalah...",
+    "options": {
+      "a": "Hitam",
+      "b": "Putih",
+      "c": "Kuning",
+      "d": "Hijau"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "Multi-gas cartridge pada respirator digunakan saat pekerja terpapar...",
+    "options": {
+      "a": "Hanya satu jenis gas",
+      "b": "Kombinasi berbagai jenis gas dan uap secara bersamaan",
+      "c": "Hanya debu",
+      "d": "Hanya kabut air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "APD pelindung radiasi (lead apron, thyroid shield) diperlukan saat pekerjaan...",
+    "options": {
+      "a": "Pengecatan",
+      "b": "Radiography/NDT menggunakan sumber radiasi di area migas",
+      "c": "Pengelasan biasa",
+      "d": "Pekerjaan sipil"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Personal dosimeter digunakan oleh pekerja yang terpapar radiasi untuk...",
+    "options": {
+      "a": "Mengukur suhu tubuh",
+      "b": "Memantau dan mencatat dosis paparan radiasi kumulatif yang diterima pekerja",
+      "c": "Mengukur kebisingan",
+      "d": "Mengukur getaran"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Vibration dampening gloves digunakan oleh pekerja migas yang mengoperasikan...",
+    "options": {
+      "a": "Komputer",
+      "b": "Peralatan bergetar seperti chipping hammer, pneumatic drill, atau grinder untuk mencegah HAVS",
+      "c": "Peralatan tulis",
+      "d": "Radio komunikasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "HAVS (Hand-Arm Vibration Syndrome) adalah gangguan kesehatan akibat...",
+    "options": {
+      "a": "Paparan kebisingan",
+      "b": "Paparan getaran berulang pada tangan dan lengan yang menyebabkan gangguan saraf dan pembuluh darah",
+      "c": "Paparan bahan kimia",
+      "d": "Paparan radiasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Thermal protective clothing (pakaian pelindung panas) diperlukan di area migas saat...",
+    "options": {
+      "a": "Bekerja di ruangan ber-AC",
+      "b": "Bekerja dekat furnace, boiler, atau peralatan bersuhu tinggi yang berisiko menyebabkan luka bakar",
+      "c": "Bekerja di kantor",
+      "d": "Berkendara ke lokasi kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Cold weather PPE di operasi migas di daerah dingin meliputi, KECUALI...",
+    "options": {
+      "a": "Insulated coverall/thermal underwear",
+      "b": "Insulated gloves",
+      "c": "Pakaian renang",
+      "d": "Balaclava/face protection dari angin dingin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 78,
+    "question": "Supply air breathing apparatus (SABA) berbeda dari SCBA karena...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "SABA menerima suplai udara melalui selang dari sumber udara di luar area kerja, bukan dari tabung di punggung",
+      "c": "SABA tidak memerlukan udara",
+      "d": "SCBA lebih murah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Keuntungan SABA dibanding SCBA adalah...",
+    "options": {
+      "a": "SABA lebih ringan dan portabel",
+      "b": "SABA memberikan durasi perlindungan lebih lama karena suplai udara tidak terbatas oleh ukuran tabung",
+      "c": "SABA tidak memerlukan perawatan",
+      "d": "SABA lebih murah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Keterbatasan SABA dibanding SCBA adalah...",
+    "options": {
+      "a": "Tidak ada keterbatasan",
+      "b": "Mobilitas pekerja terbatas oleh panjang selang udara dan risiko selang terjepit/terlipat",
+      "c": "SABA lebih berat",
+      "d": "SABA memberikan durasi lebih pendek"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Fall protection plan harus dibuat sebelum pekerjaan di ketinggian yang mencakup...",
+    "options": {
+      "a": "Hanya daftar APD",
+      "b": "Identifikasi bahaya jatuh, jenis fall protection yang digunakan, anchor points, dan prosedur rescue",
+      "c": "Hanya jadwal pekerjaan",
+      "d": "Hanya biaya APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Guardrail system sebagai fall prevention di area migas harus memiliki ketinggian top rail minimal...",
+    "options": {
+      "a": "50 cm",
+      "b": "1.1 meter (42 inches)",
+      "c": "2 meter",
+      "d": "30 cm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Safety net sebagai fall protection dipasang di bawah area kerja untuk...",
+    "options": {
+      "a": "Dekorasi",
+      "b": "Menangkap pekerja yang terjatuh jika penggunaan harness tidak memungkinkan",
+      "c": "Menangkap alat yang jatuh saja",
+      "d": "Melindungi dari hujan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Travel restraint system berbeda dari fall arrest system karena...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Travel restraint mencegah pekerja mencapai tepi jatuh, sedangkan fall arrest menghentikan pekerja yang sudah jatuh",
+      "c": "Travel restraint lebih mahal",
+      "d": "Fall arrest lebih nyaman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Rescue plan untuk pekerja yang tergantung pada harness setelah terjatuh (suspension trauma) harus mempertimbangkan...",
+    "options": {
+      "a": "Tidak ada urgensi waktu",
+      "b": "Waktu penyelamatan harus cepat karena suspension trauma dapat menyebabkan kematian dalam 15-30 menit",
+      "c": "Pekerja bisa menunggu berjam-jam",
+      "d": "Hanya perlu memanggil ambulans"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Suspension trauma/orthostatic intolerance terjadi ketika...",
+    "options": {
+      "a": "Pekerja takut ketinggian",
+      "b": "Darah terkumpul di kaki akibat pekerja tergantung vertikal pada harness terlalu lama, menyebabkan gagal jantung",
+      "c": "Pekerja kelelahan biasa",
+      "d": "Harness terlalu longgar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Trauma strap pada full body harness berfungsi untuk...",
+    "options": {
+      "a": "Menghias harness",
+      "b": "Memberikan pijakan kaki bagi pekerja yang tergantung agar dapat menggerakkan kaki dan mengurangi risiko suspension trauma",
+      "c": "Memperpanjang lanyard",
+      "d": "Mengikat alat kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Skenario: Pekerja akan melakukan sandblasting di area migas. APD yang diperlukan meliputi...",
+    "options": {
+      "a": "Hanya masker kain",
+      "b": "Blast helmet dengan supplied air, heavy duty gloves, blast suit/leather apron, hearing protection, safety shoes",
+      "c": "Hanya safety glasses",
+      "d": "Hanya sarung tangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "APD untuk pekerjaan abrasive blasting harus memberikan perlindungan dari...",
+    "options": {
+      "a": "Hanya debu",
+      "b": "Partikel abrasif berkecepatan tinggi, debu silika, kebisingan, dan recoil material",
+      "c": "Hanya kebisingan",
+      "d": "Hanya percikan air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Skenario: Operator kilang harus menangani asam sulfat (H2SO4) konsentrasi tinggi. APD minimum yang diperlukan adalah...",
+    "options": {
+      "a": "Hanya sarung tangan kain",
+      "b": "Chemical splash goggles, face shield, acid-resistant gloves, chemical-resistant apron/suit, rubber boots",
+      "c": "Hanya safety glasses",
+      "d": "Hanya helm safety"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "APD pelindung mata untuk pekerjaan laser alignment di industri migas harus...",
+    "options": {
+      "a": "Safety glasses biasa",
+      "b": "Laser safety glasses dengan Optical Density (OD) yang sesuai dengan kelas laser yang digunakan",
+      "c": "Welding goggles",
+      "d": "Tidak perlu pelindung mata"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Manajemen APD yang baik di perusahaan migas meliputi, KECUALI...",
+    "options": {
+      "a": "Inventarisasi dan tracking APD",
+      "b": "Program penggantian berkala",
+      "c": "Membiarkan pekerja membeli APD sendiri di toko umum tanpa standar",
+      "d": "Training penggunaan yang benar"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 93,
+    "question": "APD matrix adalah...",
+    "options": {
+      "a": "Film fiksi ilmiah",
+      "b": "Tabel yang menunjukkan jenis APD yang diperlukan untuk setiap area kerja atau jenis pekerjaan",
+      "c": "Merk APD tertentu",
+      "d": "Software komputer"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Signage APD di pintu masuk area kerja migas bertujuan untuk...",
+    "options": {
+      "a": "Dekorasi",
+      "b": "Menginformasikan jenis APD minimum yang wajib digunakan sebelum memasuki area tersebut",
+      "c": "Menunjukkan harga APD",
+      "d": "Menakuti pengunjung"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "APD assessment harus direview ulang ketika...",
+    "options": {
+      "a": "Tidak pernah perlu review",
+      "b": "Ada perubahan proses, bahan kimia baru, atau setelah insiden yang menunjukkan APD tidak memadai",
+      "c": "Hanya saat pergantian tahun",
+      "d": "Hanya saat harga APD berubah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Skenario: Seorang pekerja offshore menolak menggunakan safety harness saat bekerja di ketinggian karena merasa tidak nyaman. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Membiarkan pekerja bekerja tanpa harness",
+      "b": "Menjelaskan risiko, memberikan harness yang sesuai ukuran, dan jika tetap menolak, tidak diizinkan bekerja di ketinggian",
+      "c": "Memberikan surat peringatan tanpa penjelasan",
+      "d": "Memindahkan ke pekerjaan lain tanpa diskusi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Kompetensi dalam Menerapkan APD menurut SKKNI mencakup kemampuan...",
+    "options": {
+      "a": "Hanya memakai APD",
+      "b": "Memilih, menggunakan, merawat, dan memeriksa APD sesuai jenis bahaya serta mengetahui keterbatasannya",
+      "c": "Hanya membeli APD",
+      "d": "Hanya menyimpan APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Buddy check APD sebelum memasuki area kerja berisiko tinggi berarti...",
+    "options": {
+      "a": "Memeriksa APD sendiri",
+      "b": "Saling memeriksa kelengkapan dan kesesuaian APD rekan kerja sebelum memulai pekerjaan",
+      "c": "Meminta supervisor memeriksa APD",
+      "d": "Hanya mengecek helm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Life-saving rules terkait APD di banyak perusahaan migas menyatakan bahwa...",
+    "options": {
+      "a": "APD bersifat opsional",
+      "b": "Pelanggaran penggunaan APD di area wajib dapat mengakibatkan konsekuensi serius termasuk pemecatan",
+      "c": "APD hanya untuk kontraktor",
+      "d": "APD hanya wajib saat ada inspeksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama dalam penerapan APD di industri migas menurut SKKNI adalah...",
+    "options": {
+      "a": "APD menggantikan semua pengendalian risiko lainnya",
+      "b": "APD adalah pelengkap pengendalian risiko lainnya, dipilih berdasarkan hasil identifikasi bahaya, dan digunakan sesuai prosedur",
+      "c": "APD hanya digunakan saat audit",
+      "d": "APD yang paling mahal adalah yang paling baik"
+    },
+    "answer": "b"
+  }
+]

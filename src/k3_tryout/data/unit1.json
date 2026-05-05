@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Dalam industri migas, seorang operator menemukan kebocoran flange pada pipa bertekanan tinggi. Langkah pertama yang harus dilakukan sesuai prosedur kerja aman adalah...",
+    "options": {
+      "a": "Langsung mengencangkan baut flange",
+      "b": "Melaporkan kepada pengawas dan mengisolasi area bahaya",
+      "c": "Mengabaikan karena kebocoran kecil",
+      "d": "Memotong aliran pipa sendiri tanpa izin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja mengatur bahwa syarat-syarat keselamatan kerja bertujuan untuk, KECUALI...",
+    "options": {
+      "a": "Mencegah dan mengurangi kecelakaan",
+      "b": "Mencegah dan mengendalikan timbulnya penyakit akibat kerja",
+      "c": "Menentukan besaran gaji pekerja berdasarkan risiko",
+      "d": "Memberi pertolongan pada kecelakaan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Pada area kilang minyak, terdapat tumpahan oli di lantai platform. Menurut konsep K3, kondisi ini termasuk...",
+    "options": {
+      "a": "Unsafe act (tindakan tidak aman)",
+      "b": "Unsafe condition (kondisi tidak aman)",
+      "c": "Near miss (hampir celaka)",
+      "d": "First aid case (kasus P3K)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Seorang pekerja migas tidak menggunakan body harness saat bekerja di ketinggian 5 meter pada struktur anjungan. Hal ini termasuk...",
+    "options": {
+      "a": "Unsafe condition",
+      "b": "Unsafe act",
+      "c": "Hazard",
+      "d": "Incident"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Dalam HIRADC, setelah mengidentifikasi bahaya dan menilai risiko, langkah selanjutnya adalah...",
+    "options": {
+      "a": "Membuat laporan kecelakaan",
+      "b": "Menentukan pengendalian risiko (determining control)",
+      "c": "Menghentikan semua pekerjaan",
+      "d": "Mengganti seluruh pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Hierarki pengendalian risiko yang PALING efektif menurut standar K3 adalah...",
+    "options": {
+      "a": "Penggunaan APD",
+      "b": "Pengendalian administratif",
+      "c": "Eliminasi bahaya",
+      "d": "Rekayasa teknik (engineering control)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Di area proses kilang, penggantian pipa yang mengandung H2S dengan material yang tahan korosi termasuk pengendalian risiko jenis...",
+    "options": {
+      "a": "Eliminasi",
+      "b": "Substitusi",
+      "c": "Engineering control",
+      "d": "APD"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Pemasangan gas detector otomatis dengan alarm di area process plant termasuk dalam hierarki pengendalian risiko berupa...",
+    "options": {
+      "a": "Eliminasi",
+      "b": "Substitusi",
+      "c": "Rekayasa teknik (engineering control)",
+      "d": "Pengendalian administratif"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "Pembuatan SOP, rotasi kerja, dan pembatasan waktu paparan pekerja terhadap kebisingan di area kompresor termasuk pengendalian...",
+    "options": {
+      "a": "Eliminasi",
+      "b": "Substitusi",
+      "c": "Engineering control",
+      "d": "Administratif"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 10,
+    "question": "Dalam Job Safety Analysis (JSA) di industri migas, urutan langkah yang benar adalah...",
+    "options": {
+      "a": "Tentukan APD → identifikasi bahaya → buat SOP",
+      "b": "Pilih pekerjaan → urai langkah kerja → identifikasi bahaya → tentukan pengendalian",
+      "c": "Buat laporan → evaluasi risiko → tentukan anggaran",
+      "d": "Tentukan pengendalian → identifikasi bahaya → urai langkah kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Toolbox meeting sebelum pekerjaan dimulai di rig pengeboran bertujuan utama untuk...",
+    "options": {
+      "a": "Membagi tugas administrasi kantor",
+      "b": "Mengkomunikasikan bahaya spesifik pekerjaan hari itu dan tindakan pencegahannya",
+      "c": "Menghitung jumlah pekerja yang hadir",
+      "d": "Membahas target produksi harian"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Menurut Teori Domino H.W. Heinrich, faktor yang paling dominan menyebabkan kecelakaan kerja adalah...",
+    "options": {
+      "a": "Faktor lingkungan sosial",
+      "b": "Kesalahan manusia (unsafe act)",
+      "c": "Kondisi cuaca",
+      "d": "Kerusakan mesin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Berdasarkan Piramida Kecelakaan Frank Bird (1969), rasio 1 kecelakaan fatal berbanding berapa near miss?",
+    "options": {
+      "a": "1:10:30:600",
+      "b": "1:100:1000:10000",
+      "c": "1:5:25:50",
+      "d": "1:50:100:200"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "Safety induction di fasilitas migas WAJIB diberikan kepada...",
+    "options": {
+      "a": "Hanya pekerja tetap",
+      "b": "Semua orang yang memasuki area kerja termasuk kontraktor dan pengunjung",
+      "c": "Hanya manajer dan supervisor",
+      "d": "Hanya pekerja baru saat pertama masuk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Seorang operator sedang melakukan perbaikan pompa dan memasang gembok serta tag pada breaker listrik. Prosedur ini disebut...",
+    "options": {
+      "a": "Permit to Work",
+      "b": "Lock Out Tag Out (LOTO)",
+      "c": "Job Safety Analysis",
+      "d": "Management of Change"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Tujuan utama prosedur LOTO di industri migas adalah...",
+    "options": {
+      "a": "Mencegah pencurian peralatan",
+      "b": "Mencegah pengaktifan kembali peralatan secara tidak sengaja saat sedang diperbaiki",
+      "c": "Menandai peralatan yang sudah tidak layak pakai",
+      "d": "Membatasi akses ke ruang kontrol"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Warna rambu keselamatan yang menunjukkan LARANGAN menurut standar internasional adalah...",
+    "options": {
+      "a": "Kuning dengan simbol hitam",
+      "b": "Merah dengan garis diagonal putih",
+      "c": "Biru dengan simbol putih",
+      "d": "Hijau dengan simbol putih"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Rambu berbentuk segitiga dengan latar kuning dan border hitam menandakan...",
+    "options": {
+      "a": "Larangan",
+      "b": "Peringatan/bahaya",
+      "c": "Kewajiban",
+      "d": "Informasi keselamatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Dalam konteks K3 industri migas, near miss didefinisikan sebagai...",
+    "options": {
+      "a": "Kecelakaan yang menyebabkan cedera ringan",
+      "b": "Kejadian yang berpotensi menyebabkan cedera atau kerusakan tetapi tidak terjadi",
+      "c": "Kecelakaan fatal di tempat kerja",
+      "d": "Kerusakan peralatan yang memerlukan perbaikan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Mengapa pelaporan near miss sangat penting di fasilitas migas?",
+    "options": {
+      "a": "Untuk menghukum pekerja yang lalai",
+      "b": "Untuk mengidentifikasi potensi bahaya dan mencegah kecelakaan serius di masa depan",
+      "c": "Untuk mengurangi premi asuransi saja",
+      "d": "Hanya untuk memenuhi persyaratan audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Assembly point (titik kumpul) di area kilang harus memenuhi kriteria berikut, KECUALI...",
+    "options": {
+      "a": "Berada di area terbuka yang aman dari bahaya",
+      "b": "Mudah dijangkau dari semua area kerja",
+      "c": "Berada di dekat tangki penyimpanan bahan kimia",
+      "d": "Memiliki tanda yang jelas dan mudah dikenali"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 22,
+    "question": "Frekuensi pelaksanaan emergency drill di fasilitas migas sebaiknya dilakukan...",
+    "options": {
+      "a": "Hanya saat terjadi kecelakaan",
+      "b": "Secara berkala minimal sesuai ketentuan regulasi dan prosedur perusahaan",
+      "c": "Hanya saat ada audit pemerintah",
+      "d": "Setahun sekali pada akhir tahun"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Aspek kritis dalam penerapan prosedur kerja aman menurut SKKNI adalah...",
+    "options": {
+      "a": "Kemampuan menghitung biaya K3",
+      "b": "Ketepatan dalam mengidentifikasi bahaya dan menerapkan pengendalian risiko sebelum pekerjaan dimulai",
+      "c": "Kemampuan membuat laporan keuangan proyek",
+      "d": "Kecepatan menyelesaikan pekerjaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Menurut SKKNI K3 Migas, potensi bahaya di tempat kerja diklasifikasikan menjadi beberapa kategori. Mana yang BUKAN termasuk klasifikasi bahaya?",
+    "options": {
+      "a": "Bahaya fisik (kebisingan, radiasi, suhu ekstrem)",
+      "b": "Bahaya kimia (gas beracun, bahan korosif)",
+      "c": "Bahaya finansial (kerugian material)",
+      "d": "Bahaya biologi (bakteri, virus)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 25,
+    "question": "Seorang pekerja di platform offshore menemukan bahwa safety shower dan eyewash tidak berfungsi. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Tetap melanjutkan pekerjaan karena jarang digunakan",
+      "b": "Segera melaporkan dan memastikan diperbaiki sebelum pekerjaan dengan bahan kimia dilakukan",
+      "c": "Menunggu jadwal maintenance rutin",
+      "d": "Memasang tanda 'rusak' dan mengabaikannya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Menurut UU No. 1 Tahun 1970, yang dimaksud dengan tempat kerja meliputi...",
+    "options": {
+      "a": "Hanya pabrik dan kantor",
+      "b": "Tiap ruangan atau lapangan terbuka/tertutup dimana tenaga kerja bekerja atau sering dimasuki untuk keperluan usaha",
+      "c": "Hanya area produksi migas",
+      "d": "Hanya bangunan bertingkat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Siapa yang berhak menghentikan pekerjaan jika ditemukan kondisi yang membahayakan keselamatan di area migas?",
+    "options": {
+      "a": "Hanya HSE Manager",
+      "b": "Hanya Site Manager",
+      "c": "Setiap pekerja memiliki hak untuk menghentikan pekerjaan (stop work authority)",
+      "d": "Hanya petugas pemadam kebakaran"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 28,
+    "question": "Stop Work Authority (SWA) dalam industri migas berarti...",
+    "options": {
+      "a": "Wewenang manajer untuk mem-PHK pekerja",
+      "b": "Hak setiap individu untuk menghentikan pekerjaan jika mengidentifikasi bahaya serius",
+      "c": "Kewenangan pemerintah menutup perusahaan",
+      "d": "Prosedur penghentian operasi untuk maintenance terjadwal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Pada JSA untuk pekerjaan pengangkatan beban (lifting) menggunakan crane di area kilang, bahaya utama yang harus diidentifikasi meliputi, KECUALI...",
+    "options": {
+      "a": "Beban jatuh menimpa pekerja",
+      "b": "Kegagalan sling/wire rope",
+      "c": "Kenaikan harga material",
+      "d": "Crane menabrak struktur atau pipa"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "Dalam konsep Swiss Cheese Model oleh James Reason, kecelakaan terjadi ketika...",
+    "options": {
+      "a": "Satu lapisan pertahanan gagal",
+      "b": "Lubang-lubang pada setiap lapisan pertahanan sejajar sehingga bahaya menembus semua lapisan",
+      "c": "Pekerja sengaja melanggar aturan",
+      "d": "Peralatan sudah melampaui umur pakainya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Pengawas K3 di fasilitas migas bertanggung jawab untuk, KECUALI...",
+    "options": {
+      "a": "Memastikan prosedur kerja aman diterapkan",
+      "b": "Melakukan inspeksi berkala terhadap kondisi kerja",
+      "c": "Menentukan besaran bonus pekerja",
+      "d": "Menginvestigasi insiden dan near miss"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 32,
+    "question": "Bahaya H2S (Hydrogen Sulfide) di industri migas sangat berbahaya karena...",
+    "options": {
+      "a": "Menyebabkan korosi pada pipa saja",
+      "b": "Gas beracun yang dapat menyebabkan kematian pada konsentrasi tinggi dan melumpuhkan indera penciuman",
+      "c": "Hanya menimbulkan bau tidak sedap",
+      "d": "Hanya berbahaya jika terkena kulit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Konsentrasi H2S yang langsung berbahaya bagi jiwa (IDLH - Immediately Dangerous to Life and Health) adalah...",
+    "options": {
+      "a": "10 ppm",
+      "b": "50 ppm",
+      "c": "100 ppm",
+      "d": "500 ppm"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 34,
+    "question": "Nilai Ambang Batas (NAB) paparan H2S untuk 8 jam kerja (TWA) menurut standar industri migas adalah...",
+    "options": {
+      "a": "1 ppm",
+      "b": "10 ppm",
+      "c": "25 ppm",
+      "d": "50 ppm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Apa yang dimaksud dengan Management of Change (MOC) dalam konteks K3 migas?",
+    "options": {
+      "a": "Pergantian manajemen perusahaan",
+      "b": "Prosedur formal untuk mengevaluasi dan mengelola risiko dari perubahan pada proses, peralatan, atau prosedur",
+      "c": "Perubahan jadwal kerja pekerja",
+      "d": "Pergantian kontraktor proyek"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "Saat melakukan pekerjaan di confined space pada tangki penyimpanan crude oil, hal yang paling kritis dilakukan SEBELUM masuk adalah...",
+    "options": {
+      "a": "Memastikan tangki sudah dikosongkan",
+      "b": "Melakukan gas testing untuk memastikan atmosfer aman (O2, LEL, H2S, CO)",
+      "c": "Mempersiapkan cat untuk pengecatan ulang",
+      "d": "Memanggil seluruh pekerja untuk briefing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Kadar oksigen normal di udara bebas adalah sekitar...",
+    "options": {
+      "a": "16%",
+      "b": "18%",
+      "c": "20.9%",
+      "d": "23.5%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 38,
+    "question": "Kadar oksigen minimum yang aman untuk bekerja di confined space tanpa alat bantu pernapasan adalah...",
+    "options": {
+      "a": "16%",
+      "b": "19.5%",
+      "c": "21%",
+      "d": "23%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Jika kadar oksigen di confined space kurang dari 19.5%, pekerja WAJIB...",
+    "options": {
+      "a": "Tetap masuk dengan hati-hati",
+      "b": "Menggunakan alat bantu pernapasan seperti SCBA atau supplied air",
+      "c": "Menunggu 1 jam agar oksigen naik",
+      "d": "Memasang kipas angin biasa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "LEL (Lower Explosive Limit) adalah...",
+    "options": {
+      "a": "Batas atas konsentrasi gas yang dapat meledak",
+      "b": "Konsentrasi minimum gas/uap mudah terbakar di udara yang dapat menyala/meledak",
+      "c": "Tingkat kebisingan minimum yang berbahaya",
+      "d": "Batas paparan radiasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Batas aman konsentrasi gas mudah terbakar untuk memasuki area kerja di industri migas umumnya tidak boleh melebihi...",
+    "options": {
+      "a": "50% LEL",
+      "b": "25% LEL",
+      "c": "10% LEL",
+      "d": "100% LEL"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 42,
+    "question": "Prosedur isolasi energi sebelum pekerjaan maintenance di kilang meliputi, KECUALI...",
+    "options": {
+      "a": "Isolasi listrik (electrical isolation)",
+      "b": "Isolasi mekanik (blinding/blanking)",
+      "c": "Isolasi tekanan (depressurizing)",
+      "d": "Isolasi keuangan (budget freeze)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 43,
+    "question": "Buddy system dalam pekerjaan berisiko tinggi di area migas adalah...",
+    "options": {
+      "a": "Sistem pembagian bonus",
+      "b": "Sistem kerja berpasangan dimana pekerja saling mengawasi keselamatan satu sama lain",
+      "c": "Sistem rotasi shift kerja",
+      "d": "Sistem penilaian kinerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Seorang standby person/hole watcher pada pekerjaan confined space bertugas untuk...",
+    "options": {
+      "a": "Masuk ke dalam confined space bersama pekerja",
+      "b": "Memantau pekerja dari luar, menjaga komunikasi, dan siap meminta bantuan darurat",
+      "c": "Mengoperasikan peralatan di dalam tangki",
+      "d": "Melakukan pekerjaan pengelasan di area sekitar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Dalam konteks K3 migas, Simultaneous Operations (SIMOPS) memerlukan perhatian khusus karena...",
+    "options": {
+      "a": "Meningkatkan efisiensi produksi",
+      "b": "Terdapat risiko tambahan akibat interaksi antara beberapa pekerjaan yang berlangsung bersamaan",
+      "c": "Mengurangi jumlah pekerja yang dibutuhkan",
+      "d": "Mempercepat jadwal proyek"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Perbedaan utama antara bahaya (hazard) dan risiko (risk) adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan, keduanya sama",
+      "b": "Hazard adalah sumber potensi bahaya, risk adalah kemungkinan dan dampak jika bahaya tersebut terjadi",
+      "c": "Hazard hanya terjadi di lapangan, risk hanya di kantor",
+      "d": "Risk lebih berbahaya daripada hazard"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Menurut PP No. 50 Tahun 2012 tentang Penerapan SMK3, perusahaan yang wajib menerapkan SMK3 adalah yang mempekerjakan...",
+    "options": {
+      "a": "Minimal 10 pekerja",
+      "b": "Minimal 50 pekerja",
+      "c": "Minimal 100 pekerja atau memiliki tingkat potensi bahaya tinggi",
+      "d": "Semua perusahaan tanpa kecuali"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 48,
+    "question": "Safety Data Sheet (SDS/MSDS) untuk bahan kimia di industri migas berisi informasi berikut, KECUALI...",
+    "options": {
+      "a": "Identifikasi bahaya dan komposisi bahan",
+      "b": "Tindakan pertolongan pertama dan pemadaman kebakaran",
+      "c": "Harga jual dan distributor bahan kimia",
+      "d": "Prosedur penanganan tumpahan dan penyimpanan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 49,
+    "question": "Saat alarm emergency berbunyi di platform offshore, tindakan pertama yang harus dilakukan pekerja adalah...",
+    "options": {
+      "a": "Menyelesaikan pekerjaan terlebih dahulu",
+      "b": "Menghentikan pekerjaan, mengamankan area, dan menuju assembly point sesuai prosedur",
+      "c": "Menelepon keluarga",
+      "d": "Mengambil barang pribadi dari loker"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Dalam investigasi kecelakaan kerja di industri migas, metode yang sering digunakan untuk menemukan akar penyebab (root cause) adalah...",
+    "options": {
+      "a": "Metode brainstorming biasa",
+      "b": "Metode ICAM (Incident Cause Analysis Method) atau Fishbone Diagram",
+      "c": "Metode voting mayoritas",
+      "d": "Metode trial and error"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Dalam matriks risiko (risk matrix), risiko dinilai berdasarkan dua faktor utama yaitu...",
+    "options": {
+      "a": "Biaya dan waktu",
+      "b": "Kemungkinan (likelihood) dan keparahan (severity)",
+      "c": "Jumlah pekerja dan luas area",
+      "d": "Suhu dan tekanan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Seorang operator di FPSO menemukan bahwa pressure gauge pada vessel menunjukkan tekanan melebihi batas operasi normal. Tindakan yang tepat sesuai prosedur adalah...",
+    "options": {
+      "a": "Menunggu hingga vessel meledak",
+      "b": "Segera melaporkan ke control room dan mengikuti prosedur emergency shutdown jika diperlukan",
+      "c": "Mengetuk pressure gauge agar pembacaan turun",
+      "d": "Mengabaikan karena mungkin gauge rusak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Permit to Work System di industri migas memiliki masa berlaku terbatas. Jika pekerjaan belum selesai saat permit berakhir, yang harus dilakukan adalah...",
+    "options": {
+      "a": "Melanjutkan pekerjaan tanpa permit",
+      "b": "Menghentikan pekerjaan dan mengajukan perpanjangan atau permit baru",
+      "c": "Memalsukan waktu pada permit",
+      "d": "Meminta pekerja lain melanjutkan tanpa permit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Fire watch/pengawas api pada pekerjaan hot work di area migas bertugas untuk...",
+    "options": {
+      "a": "Melakukan pekerjaan pengelasan",
+      "b": "Memantau area kerja dari potensi kebakaran selama dan setelah pekerjaan hot work selesai",
+      "c": "Mengoperasikan fire truck",
+      "d": "Membuat laporan keuangan proyek"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Berapa lama fire watch harus tetap memantau area setelah pekerjaan hot work selesai di fasilitas migas?",
+    "options": {
+      "a": "Tidak perlu dipantau setelah selesai",
+      "b": "Minimal 30 menit atau sesuai prosedur perusahaan",
+      "c": "5 menit saja",
+      "d": "Hanya sampai pekerja meninggalkan area"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Dalam pengelolaan K3 di industri migas, HAZOP (Hazard and Operability Study) digunakan untuk...",
+    "options": {
+      "a": "Menghitung biaya operasional",
+      "b": "Mengidentifikasi bahaya dan masalah operasional pada desain proses menggunakan guide words",
+      "c": "Menentukan jadwal maintenance peralatan",
+      "d": "Merekrut tenaga kerja baru"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Guide words yang digunakan dalam HAZOP meliputi, KECUALI...",
+    "options": {
+      "a": "No/Not (tidak ada aliran)",
+      "b": "More (lebih dari parameter desain)",
+      "c": "Less (kurang dari parameter desain)",
+      "d": "Expensive (mahal)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 58,
+    "question": "Pekerjaan yang termasuk kategori pekerjaan berisiko tinggi (high risk work) di industri migas meliputi, KECUALI...",
+    "options": {
+      "a": "Hot work di area classified",
+      "b": "Confined space entry",
+      "c": "Pekerjaan administrasi di kantor ber-AC",
+      "d": "Working at height di atas 1.8 meter"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 59,
+    "question": "Barricade tape warna merah di area kerja migas menandakan...",
+    "options": {
+      "a": "Area kerja aman untuk semua orang",
+      "b": "Area berbahaya, dilarang masuk tanpa izin",
+      "c": "Area parkir kendaraan",
+      "d": "Jalur pejalan kaki"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Perbedaan antara barricade tape merah dan kuning adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Merah = dilarang masuk (danger), Kuning = perhatian/hati-hati (caution)",
+      "c": "Merah = jalur evakuasi, Kuning = area parkir",
+      "d": "Merah = area kantor, Kuning = area gudang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Scaffolding yang aman digunakan di area migas harus memenuhi syarat berikut, KECUALI...",
+    "options": {
+      "a": "Memiliki tag hijau (green tag) yang menandakan layak pakai",
+      "b": "Dilengkapi guardrail, midrail, dan toeboard",
+      "c": "Dibangun oleh siapa saja tanpa perlu sertifikasi",
+      "d": "Diperiksa oleh scaffold inspector yang kompeten"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 62,
+    "question": "Green tag pada scaffolding menandakan...",
+    "options": {
+      "a": "Scaffolding sedang dalam proses pemasangan",
+      "b": "Scaffolding telah diperiksa dan aman digunakan",
+      "c": "Scaffolding rusak dan tidak boleh digunakan",
+      "d": "Scaffolding hanya untuk material"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Red tag pada scaffolding menandakan...",
+    "options": {
+      "a": "Scaffolding siap digunakan",
+      "b": "Scaffolding sedang dalam perbaikan atau tidak aman, DILARANG digunakan",
+      "c": "Scaffolding khusus untuk pengecatan",
+      "d": "Scaffolding untuk akses darurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Dalam lifting operation di area migas, SWL (Safe Working Load) pada crane dan sling berarti...",
+    "options": {
+      "a": "Beban total yang pernah diangkat",
+      "b": "Beban kerja aman maksimum yang diizinkan untuk diangkat",
+      "c": "Berat crane itu sendiri",
+      "d": "Beban minimum agar crane stabil"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Sebelum melakukan lifting operation, lift plan harus dibuat yang mencakup, KECUALI...",
+    "options": {
+      "a": "Berat beban yang akan diangkat",
+      "b": "Radius dan kapasitas crane pada radius tersebut",
+      "c": "Menu makan siang pekerja",
+      "d": "Kondisi cuaca dan angin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 66,
+    "question": "Dropped object prevention di area migas bertujuan untuk...",
+    "options": {
+      "a": "Mencegah pekerja menjatuhkan alat tulis di kantor",
+      "b": "Mencegah jatuhnya benda/alat dari ketinggian yang dapat mencederai pekerja di bawahnya",
+      "c": "Menghemat biaya peralatan",
+      "d": "Mempercepat pekerjaan di ketinggian"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Tool tethering/tool lanyard digunakan di ketinggian untuk...",
+    "options": {
+      "a": "Mengikat pekerja ke struktur",
+      "b": "Mengamankan hand tools agar tidak jatuh ke bawah",
+      "c": "Menggantikan fungsi body harness",
+      "d": "Mengukur ketinggian struktur"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Dalam sistem klasifikasi area berbahaya (hazardous area classification) di industri migas, Zone 0 berarti...",
+    "options": {
+      "a": "Area yang tidak pernah ada gas mudah terbakar",
+      "b": "Area dimana campuran gas/uap mudah terbakar hadir secara terus-menerus atau dalam waktu lama",
+      "c": "Area kantor administrasi",
+      "d": "Area dengan risiko kebisingan tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Zone 1 dalam hazardous area classification adalah area dimana...",
+    "options": {
+      "a": "Gas mudah terbakar hadir terus-menerus",
+      "b": "Campuran gas mudah terbakar kemungkinan terjadi pada operasi normal",
+      "c": "Gas mudah terbakar tidak pernah ada",
+      "d": "Hanya ada bahaya kebisingan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Zone 2 dalam hazardous area classification adalah area dimana...",
+    "options": {
+      "a": "Gas mudah terbakar hadir terus-menerus",
+      "b": "Gas mudah terbakar selalu ada saat operasi normal",
+      "c": "Campuran gas mudah terbakar tidak mungkin terjadi pada operasi normal, hanya pada kondisi abnormal dan dalam waktu singkat",
+      "d": "Tidak ada bahaya sama sekali"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 71,
+    "question": "Peralatan listrik yang digunakan di Zone 1 area migas harus bersertifikat...",
+    "options": {
+      "a": "Tahan air (waterproof) saja",
+      "b": "Explosion proof/flameproof atau intrinsically safe",
+      "c": "Heavy duty biasa",
+      "d": "Tahan panas saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Apa yang dimaksud dengan Permit to Work (PTW) closure?",
+    "options": {
+      "a": "Menutup pintu area kerja",
+      "b": "Proses formal menutup izin kerja setelah pekerjaan selesai, area dikembalikan ke kondisi aman",
+      "c": "Membatalkan proyek",
+      "d": "Membuang dokumen permit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Tanggung jawab Performing Authority (PA) dalam sistem Permit to Work adalah...",
+    "options": {
+      "a": "Menerbitkan dan menyetujui permit",
+      "b": "Melaksanakan pekerjaan sesuai ketentuan permit dan memastikan tim mematuhi prosedur",
+      "c": "Mengelola anggaran proyek",
+      "d": "Melakukan audit keuangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Tanggung jawab Issuing Authority (IA) dalam sistem Permit to Work adalah...",
+    "options": {
+      "a": "Melaksanakan pekerjaan di lapangan",
+      "b": "Mengevaluasi bahaya, memastikan pengendalian risiko, dan menerbitkan permit",
+      "c": "Mengangkut material ke lokasi",
+      "d": "Membuat jadwal shift pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Apa yang harus dilakukan jika terjadi perubahan kondisi kerja yang signifikan saat permit masih berlaku?",
+    "options": {
+      "a": "Melanjutkan pekerjaan karena permit masih valid",
+      "b": "Menghentikan pekerjaan, mengevaluasi ulang risiko, dan memperbarui permit jika diperlukan",
+      "c": "Menambahkan catatan kecil di permit",
+      "d": "Mengabaikan perubahan tersebut"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Housekeeping yang baik di area proses kilang minyak meliputi, KECUALI...",
+    "options": {
+      "a": "Menjaga area kerja bersih dari tumpahan oli dan bahan kimia",
+      "b": "Menyimpan peralatan pada tempatnya setelah digunakan",
+      "c": "Menumpuk material di jalur evakuasi untuk menghemat ruang",
+      "d": "Memastikan drainase tidak tersumbat"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 77,
+    "question": "Electrical isolation yang benar sebelum pekerjaan maintenance pada motor pompa di kilang meliputi...",
+    "options": {
+      "a": "Mematikan motor dari control room saja",
+      "b": "Mematikan, melakukan LOTO pada breaker, memverifikasi tidak ada energi tersisa (zero energy verification)",
+      "c": "Mencabut kabel secara paksa",
+      "d": "Memasang rambu 'sedang perbaikan' tanpa LOTO"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Mechanical isolation menggunakan blind/spade pada pipa di fasilitas migas bertujuan untuk...",
+    "options": {
+      "a": "Mempercepat aliran fluida",
+      "b": "Memastikan tidak ada aliran fluida berbahaya ke area kerja selama maintenance",
+      "c": "Menambah tekanan dalam pipa",
+      "d": "Mengukur diameter pipa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Dalam konteks K3, ergonomi di industri migas berkaitan dengan...",
+    "options": {
+      "a": "Hanya desain kursi kantor",
+      "b": "Interaksi pekerja dengan peralatan, lingkungan, dan posisi kerja untuk mencegah cedera muskuloskeletal",
+      "c": "Pemilihan warna cat dinding",
+      "d": "Pengaturan menu kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Manual handling yang salah di area migas dapat menyebabkan...",
+    "options": {
+      "a": "Peningkatan produktivitas",
+      "b": "Cedera tulang belakang, otot, dan sendi (musculoskeletal disorders)",
+      "c": "Kenaikan gaji",
+      "d": "Promosi jabatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Teknik manual handling yang benar saat mengangkat beban berat adalah...",
+    "options": {
+      "a": "Membungkuk dan mengangkat dengan punggung",
+      "b": "Menekuk lutut, menjaga punggung lurus, dan mengangkat dengan kekuatan kaki",
+      "c": "Memutar badan sambil mengangkat",
+      "d": "Mengangkat beban sejauh mungkin dari tubuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Journey Management Plan (JMP) dalam K3 migas diperlukan untuk...",
+    "options": {
+      "a": "Merencanakan perjalanan wisata pekerja",
+      "b": "Mengelola risiko perjalanan darat pekerja menuju dan dari lokasi kerja",
+      "c": "Mengatur jadwal penerbangan direksi",
+      "d": "Merencanakan pemindahan kantor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Defensive driving dalam konteks K3 migas berarti...",
+    "options": {
+      "a": "Mengemudi dengan kecepatan tinggi untuk sampai lebih cepat",
+      "b": "Teknik mengemudi yang mengantisipasi bahaya dan menghindari kecelakaan meskipun ada kesalahan pihak lain",
+      "c": "Mengemudi hanya di malam hari",
+      "d": "Mengemudi tanpa SIM"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Fatigue management di industri migas penting karena...",
+    "options": {
+      "a": "Pekerja yang lelah lebih produktif",
+      "b": "Kelelahan menurunkan konsentrasi dan meningkatkan risiko kecelakaan secara signifikan",
+      "c": "Pekerja yang kelelahan mendapat bonus tambahan",
+      "d": "Kelelahan hanya masalah psikologis yang tidak berbahaya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Jam kerja maksimum untuk pekerja di industri migas offshore umumnya dibatasi...",
+    "options": {
+      "a": "Tidak ada batasan",
+      "b": "12 jam per hari dengan waktu istirahat yang cukup",
+      "c": "24 jam terus-menerus",
+      "d": "4 jam per hari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Behavior Based Safety (BBS) di industri migas fokus pada...",
+    "options": {
+      "a": "Menghukum pekerja yang melanggar",
+      "b": "Mengobservasi dan memperbaiki perilaku tidak aman pekerja melalui pendekatan positif",
+      "c": "Mengganti semua peralatan lama",
+      "d": "Meningkatkan gaji pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "STOP card (Safety Training Observation Program) digunakan di industri migas untuk...",
+    "options": {
+      "a": "Menghentikan operasi produksi secara permanen",
+      "b": "Mengobservasi dan melaporkan tindakan aman maupun tidak aman di tempat kerja",
+      "c": "Memberhentikan pekerja",
+      "d": "Menghentikan pembayaran kontraktor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Menurut prinsip K3, penyebab dasar (basic cause) kecelakaan kerja terdiri dari...",
+    "options": {
+      "a": "Hanya faktor cuaca",
+      "b": "Faktor personal (kurang pengetahuan, motivasi) dan faktor pekerjaan (kepemimpinan, peralatan, prosedur)",
+      "c": "Hanya faktor peralatan",
+      "d": "Hanya faktor keuangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Apa yang dimaksud dengan Lesson Learned dalam konteks K3 migas?",
+    "options": {
+      "a": "Ujian K3 tahunan",
+      "b": "Pembelajaran dari insiden atau near miss yang disebarluaskan untuk mencegah kejadian serupa",
+      "c": "Materi pelatihan bahasa Inggris",
+      "d": "Daftar pekerja yang melakukan kesalahan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Safety moment/safety share di awal rapat di industri migas bertujuan untuk...",
+    "options": {
+      "a": "Mengisi waktu kosong",
+      "b": "Menumbuhkan kesadaran K3 dengan berbagi informasi atau pengalaman keselamatan",
+      "c": "Menghibur peserta rapat",
+      "d": "Menggantikan toolbox meeting"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Personal gas detector/personal H2S monitor wajib digunakan oleh pekerja di area migas yang...",
+    "options": {
+      "a": "Bekerja di kantor ber-AC",
+      "b": "Berpotensi terpapar gas H2S atau gas beracun lainnya",
+      "c": "Bekerja di kantin",
+      "d": "Bekerja di area parkir terbuka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Windsock (penunjuk arah angin) dipasang di fasilitas migas untuk...",
+    "options": {
+      "a": "Dekorasi area",
+      "b": "Menunjukkan arah angin agar pekerja dapat mengevakuasi diri ke arah berlawanan saat kebocoran gas",
+      "c": "Mengukur kecepatan produksi",
+      "d": "Menandai batas area kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Saat terjadi kebocoran gas H2S di area kerja migas, pekerja harus mengevakuasi diri ke arah...",
+    "options": {
+      "a": "Searah angin (downwind)",
+      "b": "Berlawanan arah angin (upwind) dan ke tempat lebih tinggi",
+      "c": "Ke area terdekat tanpa memperhatikan arah angin",
+      "d": "Tetap di tempat dan menunggu instruksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Positive isolation dalam konteks K3 migas berarti...",
+    "options": {
+      "a": "Sikap positif terhadap isolasi sosial",
+      "b": "Pemisahan fisik yang memastikan tidak ada energi (listrik, tekanan, mekanik) yang dapat mengalir ke peralatan yang sedang diperbaiki",
+      "c": "Isolasi pekerja yang sakit",
+      "d": "Pembatasan akses internet"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Menurut SKKNI, elemen kompetensi dalam Menerapkan Prosedur Kerja Aman meliputi...",
+    "options": {
+      "a": "Hanya menggunakan APD",
+      "b": "Mengidentifikasi potensi bahaya, menerapkan prosedur kerja aman, dan merespons kondisi darurat",
+      "c": "Hanya membuat laporan kecelakaan",
+      "d": "Hanya mengikuti perintah atasan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Dalam sistem PTW, cross-referencing permit dilakukan ketika...",
+    "options": {
+      "a": "Tidak ada alasan khusus",
+      "b": "Terdapat beberapa pekerjaan berbeda di area yang sama atau berdekatan yang saling mempengaruhi keselamatannya",
+      "c": "Hanya saat audit",
+      "d": "Saat pergantian shift saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Pre-job safety briefing berbeda dengan toolbox meeting dalam hal...",
+    "options": {
+      "a": "Tidak ada perbedaan sama sekali",
+      "b": "Pre-job briefing lebih spesifik membahas bahaya dan pengendalian untuk pekerjaan tertentu yang akan segera dilakukan",
+      "c": "Pre-job briefing hanya untuk manajer",
+      "d": "Toolbox meeting lebih detail dari pre-job briefing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Seorang operator migas menemukan bahwa safety valve pada pressure vessel mengeluarkan suara mendesis. Tindakan yang benar adalah...",
+    "options": {
+      "a": "Menutup safety valve dengan lap agar tidak berisik",
+      "b": "Melaporkan segera karena ini menandakan tekanan mungkin melebihi set pressure dan perlu investigasi",
+      "c": "Mengabaikan karena safety valve memang kadang berbunyi",
+      "d": "Memukul safety valve agar berhenti mendesis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Tujuan dari Safety Observation Tour (SOT) oleh manajemen di fasilitas migas adalah...",
+    "options": {
+      "a": "Menghitung jumlah pekerja",
+      "b": "Menunjukkan komitmen manajemen terhadap K3 dan mengidentifikasi potensi bahaya secara langsung di lapangan",
+      "c": "Mengambil foto untuk media sosial perusahaan",
+      "d": "Mengevaluasi kebersihan kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip ALARP (As Low As Reasonably Practicable) dalam K3 migas berarti...",
+    "options": {
+      "a": "Menghilangkan semua risiko hingga nol",
+      "b": "Menurunkan risiko serendah mungkin yang dapat dilakukan secara wajar dengan mempertimbangkan biaya dan manfaat",
+      "c": "Menerima semua risiko yang ada",
+      "d": "Mengabaikan risiko yang biayanya tinggi untuk dikendalikan"
+    },
+    "answer": "b"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Tujuan utama penerapan K3 di industri migas adalah…",
+    "options": {
+      "a": "Meningkatkan produksi",
+      "b": "Mengurangi pajak",
+      "c": "Melindungi pekerja, aset, dan lingkungan",
+      "d": "Mempercepat pekerjaan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "K3 merupakan singkatan dari…",
+    "options": {
+      "a": "Keamanan dan Keselamatan Kerja",
+      "b": "Keselamatan dan Kesehatan Kerja",
+      "c": "Kesehatan Kerja Karyawan",
+      "d": "Keamanan Kerja Karyawan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Program K3 di perusahaan bertujuan untuk…",
+    "options": {
+      "a": "Menghindari inspeksi pemerintah",
+      "b": "Mencegah kecelakaan kerja",
+      "c": "Mengurangi jumlah pekerja",
+      "d": "Mengurangi produksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Orang yang bertanggung jawab terhadap keselamatan kerja di area kerja adalah…",
+    "options": {
+      "a": "Hanya petugas K3",
+      "b": "Hanya supervisor",
+      "c": "Semua pekerja",
+      "d": "Manajer saja"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Langkah pertama dalam pengendalian risiko adalah…",
+    "options": {
+      "a": "Penggunaan APD",
+      "b": "Eliminasi bahaya",
+      "c": "Pelatihan pekerja",
+      "d": "Pemasangan rambu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "APD yang digunakan untuk melindungi kepala adalah…",
+    "options": {
+      "a": "Safety helmet",
+      "b": "Face shield",
+      "c": "Safety shoes",
+      "d": "Safety belt"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Sepatu keselamatan berfungsi untuk…",
+    "options": {
+      "a": "Menambah kenyamanan",
+      "b": "Melindungi kaki dari benda jatuh",
+      "c": "Mempercepat kerja",
+      "d": "Mengurangi panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "APD untuk melindungi mata dari percikan bahan kimia adalah…",
+    "options": {
+      "a": "Safety goggles",
+      "b": "Ear plug",
+      "c": "Respirator",
+      "d": "Gloves"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "APD untuk melindungi sistem pernapasan adalah…",
+    "options": {
+      "a": "Respirator",
+      "b": "Helmet",
+      "c": "Ear muff",
+      "d": "Safety belt"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "APD harus digunakan ketika…",
+    "options": {
+      "a": "Ada inspeksi",
+      "b": "Ada supervisor",
+      "c": "Terdapat potensi bahaya",
+      "d": "Hanya saat pekerjaan berat"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 11,
+    "question": "Metode identifikasi bahaya sebelum pekerjaan dimulai adalah…",
+    "options": {
+      "a": "SOP",
+      "b": "JSA",
+      "c": "KPI",
+      "d": "QC"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Bahaya dari kebisingan termasuk kategori…",
+    "options": {
+      "a": "Fisik",
+      "b": "Kimia",
+      "c": "Biologi",
+      "d": "Ergonomi"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 13,
+    "question": "Bahaya dari gas beracun termasuk kategori…",
+    "options": {
+      "a": "Kimia",
+      "b": "Fisik",
+      "c": "Biologi",
+      "d": "Mekanik"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "Bahaya ergonomi biasanya disebabkan oleh…",
+    "options": {
+      "a": "Kebisingan",
+      "b": "Postur kerja yang salah",
+      "c": "Bahan kimia",
+      "d": "Radiasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Kondisi tidak aman disebut…",
+    "options": {
+      "a": "Unsafe condition",
+      "b": "Unsafe act",
+      "c": "Safe act",
+      "d": "Safe condition"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "Permit to Work digunakan untuk…",
+    "options": {
+      "a": "Mengatur gaji",
+      "b": "Mengendalikan pekerjaan berisiko",
+      "c": "Mengatur jam kerja",
+      "d": "Mengatur absensi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Contoh pekerjaan yang membutuhkan izin kerja adalah…",
+    "options": {
+      "a": "Pekerjaan kantor",
+      "b": "Hot work",
+      "c": "Rapat",
+      "d": "Administrasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Pekerjaan pengelasan termasuk kategori…",
+    "options": {
+      "a": "Cold work",
+      "b": "Hot work",
+      "c": "Office work",
+      "d": "Electrical work"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Permit kerja biasanya diterbitkan oleh…",
+    "options": {
+      "a": "Supervisor atau petugas berwenang",
+      "b": "Operator",
+      "c": "Security",
+      "d": "Teknisi"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 20,
+    "question": "Permit kerja harus ditutup setelah…",
+    "options": {
+      "a": "Jam kerja selesai",
+      "b": "Pekerjaan selesai dan area aman",
+      "c": "Supervisor pulang",
+      "d": "APD dilepas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Kebakaran bahan padat termasuk kelas…",
+    "options": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "Kebakaran cairan mudah terbakar termasuk kelas…",
+    "options": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "APAR untuk kebakaran listrik adalah…",
+    "options": {
+      "a": "Air",
+      "b": "Foam",
+      "c": "CO₂",
+      "d": "Pasir"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 24,
+    "question": "Metode penggunaan APAR dikenal dengan istilah…",
+    "options": {
+      "a": "PASS",
+      "b": "STOP",
+      "c": "FIRE",
+      "d": "SAFE"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 25,
+    "question": "Langkah pertama saat terjadi kebakaran adalah…",
+    "options": {
+      "a": "Panik",
+      "b": "Melaporkan dan membunyikan alarm",
+      "c": "Lari tanpa arah",
+      "d": "Diam saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Gas beracun dengan bau telur busuk adalah…",
+    "options": {
+      "a": "CO₂",
+      "b": "H₂S",
+      "c": "O₂",
+      "d": "N₂"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Alat untuk mendeteksi gas berbahaya adalah…",
+    "options": {
+      "a": "Gas detector",
+      "b": "Thermometer",
+      "c": "Barometer",
+      "d": "Hygrometer"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 28,
+    "question": "Paparan gas H₂S dapat menyebabkan…",
+    "options": {
+      "a": "Sesak napas dan pingsan",
+      "b": "Gatal",
+      "c": "Mengantuk ringan",
+      "d": "Flu"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 29,
+    "question": "Jika alarm gas berbunyi, pekerja harus…",
+    "options": {
+      "a": "Mengabaikan",
+      "b": "Tetap bekerja",
+      "c": "Segera evakuasi",
+      "d": "Menyalakan api"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "Gas detector digunakan untuk mengukur…",
+    "options": {
+      "a": "Suhu",
+      "b": "Tekanan",
+      "c": "Konsentrasi gas",
+      "d": "Kelembaban"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 31,
+    "question": "Confined space adalah ruang yang…",
+    "options": {
+      "a": "Terbuka luas",
+      "b": "Terbatas akses masuk keluar",
+      "c": "Tidak berbahaya",
+      "d": "Selalu aman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Contoh confined space adalah…",
+    "options": {
+      "a": "Tangki",
+      "b": "Kantor",
+      "c": "Gudang terbuka",
+      "d": "Parkiran"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 33,
+    "question": "Sebelum masuk confined space harus dilakukan…",
+    "options": {
+      "a": "Tes gas",
+      "b": "Istirahat",
+      "c": "Briefing saja",
+      "d": "Minum air"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 34,
+    "question": "Pekerjaan di confined space harus diawasi oleh…",
+    "options": {
+      "a": "Standby man",
+      "b": "Security",
+      "c": "Driver",
+      "d": "Cleaning service"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 35,
+    "question": "Bahaya utama di confined space adalah…",
+    "options": {
+      "a": "Kurang oksigen",
+      "b": "Angin kencang",
+      "c": "Panas matahari",
+      "d": "Hujan"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 36,
+    "question": "LOTO digunakan untuk…",
+    "options": {
+      "a": "Mengunci pintu",
+      "b": "Mengisolasi energi berbahaya",
+      "c": "Menghemat listrik",
+      "d": "Menutup area"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Tag pada sistem LOTO berfungsi untuk…",
+    "options": {
+      "a": "Memberi informasi peralatan sedang dikunci",
+      "b": "Dekorasi",
+      "c": "Penanda lokasi",
+      "d": "Label biasa"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 38,
+    "question": "LOTO dilakukan saat…",
+    "options": {
+      "a": "Operasi normal",
+      "b": "Perawatan peralatan",
+      "c": "Rapat",
+      "d": "Produksi tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Jalur evakuasi digunakan untuk…",
+    "options": {
+      "a": "Jalur kendaraan",
+      "b": "Jalur keluar saat keadaan darurat",
+      "c": "Jalur logistik",
+      "d": "Jalur produksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Tempat berkumpul saat evakuasi disebut…",
+    "options": {
+      "a": "Assembly point",
+      "b": "Meeting room",
+      "c": "Control room",
+      "d": "Workshop"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 41,
+    "question": "Alarm darurat berfungsi untuk…",
+    "options": {
+      "a": "Memberi tanda keadaan bahaya",
+      "b": "Mengatur jam kerja",
+      "c": "Mengingatkan rapat",
+      "d": "Mengatur produksi"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 42,
+    "question": "Petugas yang memberikan pertolongan pertama adalah…",
+    "options": {
+      "a": "First aider",
+      "b": "Operator",
+      "c": "Security",
+      "d": "Driver"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 43,
+    "question": "P3K merupakan singkatan dari…",
+    "options": {
+      "a": "Pertolongan Pertama Pada Kecelakaan",
+      "b": "Penanganan Penyakit Kerja",
+      "c": "Perawatan Pekerja Kerja",
+      "d": "Pengobatan Pekerja"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 44,
+    "question": "Setiap kecelakaan kerja harus…",
+    "options": {
+      "a": "Disembunyikan",
+      "b": "Dilaporkan",
+      "c": "Diabaikan",
+      "d": "Dilupakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Tujuan investigasi kecelakaan adalah…",
+    "options": {
+      "a": "Menyalahkan pekerja",
+      "b": "Mencari penyebab dan pencegahan",
+      "c": "Menghukum pekerja",
+      "d": "Menutup kasus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Near miss adalah…",
+    "options": {
+      "a": "Kecelakaan besar",
+      "b": "Kejadian hampir celaka",
+      "c": "Kerusakan alat",
+      "d": "Pekerjaan gagal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Safety meeting dilakukan untuk…",
+    "options": {
+      "a": "Membahas keselamatan kerja",
+      "b": "Membahas gaji",
+      "c": "Membahas produksi",
+      "d": "Membahas cuti"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 48,
+    "question": "Safety induction diberikan kepada…",
+    "options": {
+      "a": "Pekerja baru",
+      "b": "Manajer saja",
+      "c": "Tamu VIP",
+      "d": "Security saja"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 49,
+    "question": "Budaya K3 yang baik ditunjukkan dengan…",
+    "options": {
+      "a": "Mengabaikan aturan",
+      "b": "Menggunakan APD dan mengikuti prosedur",
+      "c": "Bekerja cepat tanpa prosedur",
+      "d": "Tidak melapor bahaya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Jika melihat kondisi tidak aman, pekerja harus…",
+    "options": {
+      "a": "Membiarkan",
+      "b": "Melaporkan ke atasan atau petugas K3",
+      "c": "Menyalahkan orang lain",
+      "d": "Menghindar saja"
+    },
+    "answer": "b"
+  }
+]

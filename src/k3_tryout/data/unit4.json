@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "SCBA (Self Contained Breathing Apparatus) adalah alat pelindung pernapasan yang...",
+    "options": {
+      "a": "Menyaring udara sekitar melalui filter",
+      "b": "Menyediakan suplai udara pernapasan mandiri dari tabung bertekanan yang dibawa pengguna",
+      "c": "Hanya melindungi dari debu",
+      "d": "Menghasilkan oksigen dari air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "SCBA wajib digunakan di industri migas dalam kondisi berikut, KECUALI...",
+    "options": {
+      "a": "Atmosfer dengan kadar oksigen di bawah 19.5%",
+      "b": "Atmosfer terkontaminasi gas beracun pada konsentrasi IDLH",
+      "c": "Bekerja di ruang kantor ber-AC dengan ventilasi baik",
+      "d": "Firefighting dan rescue di area terkontaminasi"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Komponen utama SCBA meliputi, KECUALI...",
+    "options": {
+      "a": "Tabung udara bertekanan tinggi (cylinder)",
+      "b": "Regulator (pressure reducer)",
+      "c": "Facepiece/masker",
+      "d": "Mesin pembuat oksigen"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "Tekanan kerja tabung SCBA standar yang umum digunakan di industri migas adalah...",
+    "options": {
+      "a": "10 bar",
+      "b": "200 bar atau 300 bar",
+      "c": "1000 bar",
+      "d": "5 bar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Backplate/frame pada SCBA berfungsi untuk...",
+    "options": {
+      "a": "Melindungi punggung dari benturan",
+      "b": "Menyangga tabung udara di punggung pengguna dan mengikatnya dengan harness yang nyaman",
+      "c": "Menyimpan alat komunikasi",
+      "d": "Menyimpan makanan darurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Pressure gauge pada SCBA menunjukkan...",
+    "options": {
+      "a": "Suhu udara sekitar",
+      "b": "Tekanan sisa udara dalam tabung sehingga pengguna mengetahui durasi pemakaian yang tersisa",
+      "c": "Tekanan darah pengguna",
+      "d": "Kelembaban udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Warning whistle/bell pada SCBA akan berbunyi ketika...",
+    "options": {
+      "a": "SCBA pertama kali dinyalakan",
+      "b": "Tekanan udara dalam tabung mencapai level rendah (umumnya 55 bar) sebagai peringatan untuk segera keluar",
+      "c": "Pengguna berbicara terlalu keras",
+      "d": "Baterai SCBA habis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Demand valve/second stage regulator pada SCBA berfungsi untuk...",
+    "options": {
+      "a": "Mengisi ulang tabung",
+      "b": "Mengatur aliran udara bertekanan tinggi menjadi tekanan yang dapat dihirup secara nyaman oleh pengguna",
+      "c": "Mengukur kadar oksigen",
+      "d": "Menyaring kontaminan udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Positive pressure SCBA lebih aman dari negative pressure karena...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Tekanan di dalam facepiece selalu lebih tinggi dari tekanan luar sehingga kontaminan tidak dapat masuk meskipun ada kebocoran kecil",
+      "c": "Lebih ringan",
+      "d": "Lebih mudah digunakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Durasi pemakaian SCBA dengan tabung 6 liter pada tekanan 300 bar dengan konsumsi udara normal (40 liter/menit) adalah sekitar...",
+    "options": {
+      "a": "10 menit",
+      "b": "30-45 menit (dengan memperhitungkan cadangan untuk warning)",
+      "c": "2 jam",
+      "d": "5 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Faktor yang MEMPENGARUHI durasi pemakaian SCBA meliputi, KECUALI...",
+    "options": {
+      "a": "Tingkat aktivitas fisik pengguna",
+      "b": "Kondisi stres dan kecemasan pengguna",
+      "c": "Warna tabung SCBA",
+      "d": "Kebugaran fisik dan kapasitas paru-paru pengguna"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 12,
+    "question": "Sebelum menggunakan SCBA, pre-use check yang harus dilakukan meliputi...",
+    "options": {
+      "a": "Hanya memeriksa warna tabung",
+      "b": "Memeriksa tekanan tabung penuh, facepiece seal, fungsi regulator, warning device, dan kondisi harness",
+      "c": "Hanya memeriksa tali pengikat",
+      "d": "Hanya menimbang berat SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Langkah pertama dalam mengenakan (donning) SCBA adalah...",
+    "options": {
+      "a": "Memasang facepiece terlebih dahulu",
+      "b": "Memeriksa tekanan tabung dan membuka valve tabung untuk memastikan udara mengalir",
+      "c": "Langsung berlari ke area bahaya",
+      "d": "Menghubungi supervisor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Urutan donning SCBA yang benar adalah...",
+    "options": {
+      "a": "Facepiece → backplate → regulator",
+      "b": "Periksa tekanan → kenakan backplate/harness → kencangkan straps → pasang facepiece → cek seal → hubungkan regulator",
+      "c": "Regulator → facepiece → backplate",
+      "d": "Backplate → berlari → facepiece"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Positive pressure seal check pada facepiece SCBA dilakukan dengan cara...",
+    "options": {
+      "a": "Meniup keras ke dalam masker",
+      "b": "Menutup inlet facepiece dengan tangan, menghirup perlahan - jika facepiece menempel ke wajah tanpa kebocoran, seal baik",
+      "c": "Menyemprotkan air ke facepiece",
+      "d": "Mengguncang facepiece"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Jika saat seal check ditemukan kebocoran udara pada facepiece SCBA, tindakan yang harus dilakukan adalah...",
+    "options": {
+      "a": "Tetap menggunakan SCBA meskipun bocor",
+      "b": "Menyesuaikan posisi facepiece dan mengencangkan strap, jika masih bocor ganti dengan unit lain",
+      "c": "Menutup kebocoran dengan selotip",
+      "d": "Mengabaikan kebocoran karena kecil"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Komunikasi saat menggunakan SCBA menjadi sulit karena...",
+    "options": {
+      "a": "Tidak ada alasan",
+      "b": "Facepiece menutupi mulut dan hidung sehingga suara teredam, diperlukan voice amplifier atau radio",
+      "c": "SCBA terlalu berat",
+      "d": "Tabung menghalangi telinga"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Buddy breathing (berbagi udara) dari satu SCBA untuk dua orang...",
+    "options": {
+      "a": "Selalu direkomendasikan untuk menghemat udara",
+      "b": "Umumnya TIDAK direkomendasikan karena sangat mengurangi durasi dan berisiko tinggi, kecuali dengan peralatan khusus",
+      "c": "Wajib dilakukan saat emergency",
+      "d": "Cara yang efisien untuk menghemat tabung"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "SCBA harus disimpan di lokasi yang...",
+    "options": {
+      "a": "Tersembunyi agar tidak dicuri",
+      "b": "Mudah diakses, terlindung dari cuaca, suhu moderat, dan diperiksa secara berkala",
+      "c": "Di dalam confined space",
+      "d": "Di atas atap gedung"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Frekuensi inspeksi rutin SCBA di fasilitas migas yang direkomendasikan adalah...",
+    "options": {
+      "a": "Setahun sekali",
+      "b": "Minimal bulanan dan setiap kali sebelum digunakan",
+      "c": "Setiap 5 tahun",
+      "d": "Hanya saat audit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Hydrostatic test pada tabung SCBA dilakukan untuk...",
+    "options": {
+      "a": "Mengukur berat tabung",
+      "b": "Menguji kekuatan dan integritas tabung terhadap tekanan yang melebihi tekanan kerja normal",
+      "c": "Mengukur volume tabung",
+      "d": "Menguji warna tabung"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Frekuensi hydrostatic test untuk tabung SCBA berbahan composite umumnya setiap...",
+    "options": {
+      "a": "Setiap bulan",
+      "b": "Setiap 3-5 tahun sesuai standar dan rekomendasi manufacturer",
+      "c": "Setiap 20 tahun",
+      "d": "Tidak pernah perlu di-test"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Udara yang digunakan untuk mengisi tabung SCBA harus memenuhi standar...",
+    "options": {
+      "a": "Udara biasa tanpa persyaratan",
+      "b": "Grade D breathing air atau lebih tinggi, bebas dari kontaminan minyak, CO, CO2, dan kelembaban berlebih",
+      "c": "Udara dari kompresor biasa tanpa filter",
+      "d": "Gas nitrogen murni"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Bahaya mengisi tabung SCBA dengan udara yang tidak memenuhi standar breathing air meliputi...",
+    "options": {
+      "a": "Tabung menjadi berat",
+      "b": "Kontaminan seperti CO atau minyak dalam udara dapat menyebabkan keracunan atau ledakan",
+      "c": "Tabung berubah warna",
+      "d": "Tidak ada bahaya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Skenario: Saat menggunakan SCBA di area H2S, warning whistle berbunyi. Tindakan yang harus dilakukan adalah...",
+    "options": {
+      "a": "Mengabaikan bunyi warning",
+      "b": "Segera menghentikan pekerjaan dan bergerak keluar ke area aman sebelum udara habis",
+      "c": "Melepas facepiece untuk mendengar lebih jelas",
+      "d": "Mematikan warning whistle"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Doffing (melepas) SCBA setelah keluar dari area terkontaminasi harus dilakukan di...",
+    "options": {
+      "a": "Di dalam area terkontaminasi",
+      "b": "Di area bersih/aman yang telah dinyatakan bebas kontaminasi",
+      "c": "Di mana saja yang nyaman",
+      "d": "Di dalam kendaraan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Urutan doffing SCBA yang benar adalah...",
+    "options": {
+      "a": "Langsung melepas facepiece di area berbahaya",
+      "b": "Pastikan di area aman → lepas regulator dari facepiece → lepas facepiece → lepas backplate → tutup valve tabung",
+      "c": "Lepas tabung terlebih dahulu",
+      "d": "Lempar SCBA ke tanah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Setelah SCBA digunakan, tindakan yang harus dilakukan SEGERA adalah...",
+    "options": {
+      "a": "Menyimpan kembali tanpa pengecekan",
+      "b": "Membersihkan, mendisinfeksi facepiece, mengisi ulang tabung, inspeksi seluruh komponen, dan mengembalikan ke status siap pakai",
+      "c": "Membuang SCBA bekas",
+      "d": "Hanya mengelap facepiece"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Facepiece SCBA harus didisinfeksi setelah pemakaian untuk...",
+    "options": {
+      "a": "Menghilangkan bau saja",
+      "b": "Mencegah penularan penyakit jika facepiece digunakan oleh pengguna berbeda",
+      "c": "Membuat facepiece mengkilap",
+      "d": "Menguji ketahanan material"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Cara mendisinfeksi facepiece SCBA yang benar adalah...",
+    "options": {
+      "a": "Merendamnya dalam bensin",
+      "b": "Menggunakan larutan disinfektan yang direkomendasikan manufacturer, bilas dengan air bersih, dan keringkan",
+      "c": "Memanaskan facepiece di oven",
+      "d": "Mengelap dengan alkohol murni 100%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "SCBA entry team untuk confined space rescue di industri migas idealnya terdiri dari minimal...",
+    "options": {
+      "a": "1 orang",
+      "b": "2 orang (buddy system) dengan standby team di luar",
+      "c": "5 orang semua masuk bersamaan",
+      "d": "Tidak ada ketentuan jumlah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Air management saat menggunakan SCBA berarti...",
+    "options": {
+      "a": "Menghirup udara sebanyak mungkin",
+      "b": "Mengontrol laju pernapasan dan aktivitas fisik untuk memaksimalkan durasi penggunaan SCBA",
+      "c": "Menahan napas selama mungkin",
+      "d": "Berbagi udara dengan rekan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Teknik pernapasan yang benar saat menggunakan SCBA adalah...",
+    "options": {
+      "a": "Bernapas cepat dan dangkal",
+      "b": "Bernapas lambat, dalam, dan teratur untuk mengefisienkan konsumsi udara",
+      "c": "Menahan napas setiap 30 detik",
+      "d": "Bernapas melalui mulut saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Rule of Air Management mengharuskan pengguna SCBA keluar dari area berbahaya ketika tekanan tabung mencapai...",
+    "options": {
+      "a": "Saat tabung benar-benar kosong",
+      "b": "Minimal pada saat warning device berbunyi, dengan cukup udara tersisa untuk perjalanan keluar",
+      "c": "Saat merasa sesak",
+      "d": "Tidak ada aturan khusus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Point of no return dalam penggunaan SCBA berarti...",
+    "options": {
+      "a": "Tidak bisa kembali ke kantor",
+      "b": "Titik dimana sisa udara hanya cukup untuk perjalanan kembali ke area aman plus cadangan keselamatan",
+      "c": "Titik masuk ke confined space",
+      "d": "Akhir shift kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "SCBA untuk firefighting di industri migas harus memenuhi standar...",
+    "options": {
+      "a": "Tidak ada standar khusus",
+      "b": "NFPA 1981 atau standar internasional setara untuk SCBA firefighting",
+      "c": "Standar helm sepeda",
+      "d": "Standar masker medis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Perbedaan antara open circuit SCBA dan closed circuit SCBA adalah...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Open circuit: udara yang dibuang langsung ke atmosfer; Closed circuit: udara yang dibuang direcycle setelah CO2 dihilangkan",
+      "c": "Open circuit lebih berat",
+      "d": "Closed circuit tidak menggunakan tabung"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Keuntungan closed circuit SCBA dibanding open circuit adalah...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Durasi pemakaian lebih lama (hingga 4 jam) karena udara di-recycle",
+      "c": "Lebih ringan",
+      "d": "Tidak memerlukan pelatihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Closed circuit SCBA biasanya digunakan untuk...",
+    "options": {
+      "a": "Pekerjaan kantor",
+      "b": "Rescue operasi jangka panjang di tambang atau fasilitas bawah tanah yang memerlukan durasi lebih lama",
+      "c": "Pekerjaan rutin harian",
+      "d": "Latihan pernapasan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Skenario: Seorang pekerja menggunakan SCBA di area yang terkontaminasi gas hydrocarbon. Tiba-tiba ia merasa sulit bernapas meski tekanan tabung masih cukup. Kemungkinan penyebabnya adalah...",
+    "options": {
+      "a": "Gas hydrocarbon masuk melalui tabung",
+      "b": "Regulator tidak berfungsi dengan baik atau facepiece tidak seal dengan sempurna",
+      "c": "Tabung berisi gas beracun",
+      "d": "Pekerja alergi terhadap SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Emergency bypass/purge valve pada SCBA berfungsi untuk...",
+    "options": {
+      "a": "Mengosongkan tabung dengan cepat",
+      "b": "Mengalirkan udara secara langsung ke facepiece melewati regulator jika regulator gagal berfungsi",
+      "c": "Mengisi ulang tabung",
+      "d": "Mematikan SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Kapan emergency bypass valve pada SCBA digunakan?",
+    "options": {
+      "a": "Setiap kali menggunakan SCBA",
+      "b": "Hanya saat regulator demand valve gagal berfungsi atau untuk membersihkan facepiece dari fog",
+      "c": "Untuk menghemat udara",
+      "d": "Saat tekanan tabung penuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Fogging pada facepiece SCBA dapat diatasi dengan...",
+    "options": {
+      "a": "Melepas facepiece sebentar",
+      "b": "Menggunakan anti-fog solution pada lens sebelum pemakaian atau mengaktifkan nosecup untuk mengarahkan napas",
+      "c": "Meniup kaca dari luar",
+      "d": "Membersihkan dengan tangan kotor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Nosecup pada facepiece SCBA berfungsi untuk...",
+    "options": {
+      "a": "Menyimpan obat tetes hidung",
+      "b": "Mengarahkan udara yang dihembuskan ke bawah sehingga mengurangi fogging pada visor",
+      "c": "Menyaring udara tambahan",
+      "d": "Menambah volume udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "PASS device (Personal Alert Safety System) pada SCBA firefighting berfungsi untuk...",
+    "options": {
+      "a": "Memutar musik",
+      "b": "Mengeluarkan alarm otomatis jika pengguna tidak bergerak selama periode tertentu, menandakan petugas mungkin dalam bahaya",
+      "c": "Menghitung langkah",
+      "d": "Mengukur suhu tubuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "PASS device akan aktif secara otomatis jika pengguna SCBA...",
+    "options": {
+      "a": "Berlari",
+      "b": "Tidak bergerak (immobile) selama sekitar 30 detik, menandakan petugas mungkin terjatuh atau tidak sadar",
+      "c": "Berbicara",
+      "d": "Bernapas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Thermal Imaging Camera (TIC) sering digunakan bersama SCBA saat firefighting untuk...",
+    "options": {
+      "a": "Mengambil foto selfie",
+      "b": "Mendeteksi hotspot, menemukan korban, dan navigasi melalui asap tebal",
+      "c": "Menghitung kerugian material",
+      "d": "Dokumentasi untuk media sosial"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Skenario: Tim SCBA entry team masuk ke vessel yang sebelumnya berisi H2S untuk rescue. Durasi udara SCBA 30 menit. Batas waktu maksimum di dalam vessel adalah...",
+    "options": {
+      "a": "30 menit penuh",
+      "b": "Sekitar 15-20 menit, menyisakan cukup udara untuk perjalanan keluar plus cadangan darurat",
+      "c": "1 jam",
+      "d": "Tidak ada batasan waktu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "SCBA cascade system di fasilitas migas digunakan untuk...",
+    "options": {
+      "a": "Menghias ruang penyimpanan",
+      "b": "Mengisi ulang tabung SCBA dari bank tabung bertekanan tinggi secara cepat",
+      "c": "Mengalirkan air pendingin",
+      "d": "Menyimpan bahan kimia"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Breathing air compressor untuk pengisian SCBA harus dilengkapi dengan...",
+    "options": {
+      "a": "Hanya kompresor biasa tanpa filter",
+      "b": "Filter multi-stage untuk menghilangkan moisture, oil, CO, CO2, dan partikel serta CO monitor",
+      "c": "Hanya filter debu",
+      "d": "Tidak memerlukan filter"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "CO monitor pada breathing air compressor sangat penting karena...",
+    "options": {
+      "a": "Hanya untuk memenuhi regulasi",
+      "b": "Jika intake compressor menghisap gas buang yang mengandung CO, udara hasil kompresi menjadi beracun",
+      "c": "Untuk mengukur suhu udara",
+      "d": "Untuk mengukur tekanan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Lokasi air intake untuk breathing air compressor harus...",
+    "options": {
+      "a": "Di dekat knalpot generator atau kendaraan",
+      "b": "Di area bersih, jauh dari sumber kontaminasi seperti exhaust, chemical storage, atau proses plant",
+      "c": "Di dalam ruang tertutup",
+      "d": "Di dekat painting area"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "SCBA training untuk pekerja migas harus mencakup, KECUALI...",
+    "options": {
+      "a": "Donning dan doffing SCBA",
+      "b": "Inspeksi pre-use dan troubleshooting dasar",
+      "c": "Cara memperbaiki regulator sendiri tanpa sertifikasi",
+      "d": "Penggunaan dalam kondisi darurat dan confined space entry"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 54,
+    "question": "Frekuensi SCBA training/refresher untuk pekerja migas yang direkomendasikan adalah...",
+    "options": {
+      "a": "Sekali seumur hidup",
+      "b": "Minimal setiap tahun atau sesuai kebijakan perusahaan",
+      "c": "Setiap 10 tahun",
+      "d": "Hanya saat pertama kali bekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Confidence/familiarization drill SCBA bertujuan untuk...",
+    "options": {
+      "a": "Menakuti pekerja baru",
+      "b": "Membiasakan pengguna dengan pengalaman bernapas melalui SCBA dan mengatasi claustrophobia",
+      "c": "Menguji daya tahan fisik hingga kelelahan",
+      "d": "Menghitung durasi udara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Low visibility drill saat training SCBA dilakukan dengan cara...",
+    "options": {
+      "a": "Melatih di ruangan terang",
+      "b": "Menutup visor facepiece atau berlatih di ruangan berasap untuk mensimulasikan kondisi kebakaran/asap",
+      "c": "Berlatih di luar ruangan saat cuaca cerah",
+      "d": "Melepas facepiece saat berlatih"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Work rate test saat SCBA training mengukur...",
+    "options": {
+      "a": "Kecepatan berlari pekerja",
+      "b": "Konsumsi udara pengguna saat melakukan aktivitas fisik untuk menentukan durasi efektif SCBA",
+      "c": "Berat badan pekerja",
+      "d": "Tinggi badan pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Skenario: Seorang pekerja memiliki kumis tebal dan akan menggunakan SCBA. Masalah yang mungkin timbul adalah...",
+    "options": {
+      "a": "Tidak ada masalah",
+      "b": "Kumis mengganggu seal facepiece sehingga terjadi kebocoran dan kontaminan dapat masuk",
+      "c": "SCBA menjadi terlalu berat",
+      "d": "Kumis menyumbat regulator"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Pekerja yang menggunakan kacamata korektif dan harus memakai SCBA harus...",
+    "options": {
+      "a": "Melepas kacamata dan bekerja tanpa koreksi penglihatan",
+      "b": "Menggunakan spectacle kit khusus yang dipasang di dalam facepiece SCBA",
+      "c": "Memakai kacamata biasa di bawah facepiece",
+      "d": "Menggunakan contact lens tanpa ada pertimbangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Mengapa kacamata biasa TIDAK boleh dipakai di bawah facepiece SCBA?",
+    "options": {
+      "a": "Karena terlihat tidak rapi",
+      "b": "Temple arms kacamata mengganggu seal facepiece dan menyebabkan kebocoran",
+      "c": "Karena kacamata akan rusak",
+      "d": "Karena kacamata terlalu berat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Cylinder valve handwheel pada SCBA harus dibuka...",
+    "options": {
+      "a": "Setengah putaran saja",
+      "b": "Penuh (fully open) untuk memastikan aliran udara maksimal ke regulator",
+      "c": "Seperempat putaran",
+      "d": "Tidak perlu dibuka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Skenario: Saat donning check, tekanan tabung SCBA menunjukkan 180 bar dari kapasitas 300 bar. Apa yang harus dilakukan?",
+    "options": {
+      "a": "Tetap gunakan karena masih ada udara",
+      "b": "TIDAK menggunakan SCBA tersebut karena tekanan tidak penuh, ganti dengan tabung yang terisi penuh",
+      "c": "Menggunakan setengah waktu normal",
+      "d": "Menambah tekanan dengan pompa tangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Minimum tekanan tabung SCBA yang dianggap siap pakai (ready for use) umumnya adalah...",
+    "options": {
+      "a": "100 bar",
+      "b": "Minimal 90% dari tekanan kerja penuh (misal 270 bar untuk tabung 300 bar)",
+      "c": "50 bar",
+      "d": "10 bar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "SCBA quick-fill connection digunakan untuk...",
+    "options": {
+      "a": "Mengisi air minum",
+      "b": "Mengisi ulang tabung SCBA tanpa melepas dari backplate secara cepat dari cascade system",
+      "c": "Menghubungkan ke kompresor AC",
+      "d": "Mengisi bahan bakar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Skenario: Selama confined space rescue menggunakan SCBA, salah satu rescuer merasa pusing. Kemungkinan penyebab dan tindakan yang benar adalah...",
+    "options": {
+      "a": "Mengabaikan dan terus bekerja",
+      "b": "Kemungkinan CO dalam breathing air atau kelelahan, segera keluar ke area aman dan dievaluasi medis",
+      "c": "Minum air di dalam facepiece",
+      "d": "Melepas facepiece sebentar untuk udara segar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "SCBA escape set/ELSA berbeda dari SCBA kerja (working SCBA) karena...",
+    "options": {
+      "a": "Tidak ada perbedaan",
+      "b": "Escape set hanya untuk evakuasi darurat dengan durasi singkat (5-15 menit), bukan untuk bekerja",
+      "c": "Escape set memberikan durasi lebih lama",
+      "d": "Escape set lebih berat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Cara mengaktifkan SCBA escape set saat emergency biasanya...",
+    "options": {
+      "a": "Memerlukan banyak langkah yang rumit",
+      "b": "Dirancang untuk diaktifkan dengan cepat dan mudah: tarik hood, buka valve, bernapas",
+      "c": "Memerlukan kunci khusus",
+      "d": "Memerlukan bantuan orang lain"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "SCBA yang digunakan di area dengan potensi atmosfer mudah meledak harus...",
+    "options": {
+      "a": "Tidak ada persyaratan khusus",
+      "b": "Bersertifikat intrinsically safe/explosion proof untuk mencegah percikan yang dapat menyebabkan ledakan",
+      "c": "Dicat dengan warna khusus",
+      "d": "Dilengkapi GPS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Maintenance SCBA harus dilakukan oleh...",
+    "options": {
+      "a": "Siapa saja yang tersedia",
+      "b": "Teknisi yang terlatih dan bersertifikat sesuai rekomendasi manufacturer",
+      "c": "Pekerja yang paling senior",
+      "d": "Satpam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Annual service SCBA meliputi, KECUALI...",
+    "options": {
+      "a": "Pemeriksaan dan penggantian seal/O-ring",
+      "b": "Flow test dan pressure test regulator",
+      "c": "Pengecatan ulang tabung sesuai selera",
+      "d": "Kalibrasi pressure gauge"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 71,
+    "question": "Tabung SCBA yang terjatuh atau menerima benturan keras harus...",
+    "options": {
+      "a": "Langsung digunakan kembali",
+      "b": "Ditarik dari penggunaan dan diperiksa oleh teknisi kompeten sebelum digunakan kembali",
+      "c": "Dibuang ke tempat sampah",
+      "d": "Dicat ulang menutupi kerusakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Regulator pertama (first stage reducer) pada SCBA berfungsi untuk...",
+    "options": {
+      "a": "Mengalirkan udara langsung ke pengguna",
+      "b": "Menurunkan tekanan tinggi dari tabung (200-300 bar) menjadi tekanan menengah (6-9 bar)",
+      "c": "Mengukur tekanan tabung",
+      "d": "Menyaring kontaminan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Exhalation valve pada facepiece SCBA berfungsi untuk...",
+    "options": {
+      "a": "Menghirup udara",
+      "b": "Membuang udara yang dihembuskan keluar facepiece sambil mencegah kontaminan masuk dari luar",
+      "c": "Mengisi ulang tabung",
+      "d": "Mengukur CO2"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "SCBA dengan integrated PASS dan telemetry system memungkinkan...",
+    "options": {
+      "a": "Menonton TV",
+      "b": "Pemantauan status udara dan lokasi pengguna SCBA secara real-time dari command post",
+      "c": "Bermain game",
+      "d": "Memesan makanan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Skenario: Dua tim SCBA entry team memasuki area terkontaminasi untuk rescue. Salah satu anggota tim A mendengar warning whistle berbunyi. Tindakan untuk SELURUH tim adalah...",
+    "options": {
+      "a": "Hanya anggota tersebut yang keluar",
+      "b": "Seluruh anggota tim A keluar bersama karena prinsip buddy system, tim B diberitahu kondisi",
+      "c": "Mengabaikan dan melanjutkan rescue",
+      "d": "Semua tim tetap di dalam sampai rescue selesai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "SCBA staging area di fasilitas migas adalah lokasi dimana...",
+    "options": {
+      "a": "SCBA diproduksi",
+      "b": "SCBA siap pakai ditempatkan secara strategis agar mudah diakses saat emergency",
+      "c": "SCBA dibuang",
+      "d": "SCBA dijual"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Penempatan SCBA staging area harus mempertimbangkan...",
+    "options": {
+      "a": "Jarak terjauh dari area berisiko",
+      "b": "Kedekatan dengan area berisiko tinggi, mudah diakses, terlindung dari cuaca, dan ditandai dengan jelas",
+      "c": "Tersembunyi dari pekerja",
+      "d": "Di dalam confined space"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Cylinder material yang umum digunakan untuk tabung SCBA modern adalah...",
+    "options": {
+      "a": "Plastik biasa",
+      "b": "Carbon fiber composite wrapped yang ringan namun kuat menahan tekanan tinggi",
+      "c": "Kayu",
+      "d": "Kaca"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Keuntungan tabung composite dibanding tabung baja/steel untuk SCBA adalah...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Jauh lebih ringan dengan kapasitas udara yang sama, mengurangi kelelahan pengguna",
+      "c": "Lebih tahan korosi internal",
+      "d": "Tidak memerlukan hydrostatic test"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "SCBA training record harus mencakup, KECUALI...",
+    "options": {
+      "a": "Nama peserta dan tanggal training",
+      "b": "Materi yang diajarkan dan kompetensi yang dicapai",
+      "c": "Menu makanan saat training",
+      "d": "Hasil fit test dan work rate test"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 81,
+    "question": "Skenario: Pekerja offshore harus memakai SCBA untuk merespons kebocoran gas di production module. Hambatan fisik yang mungkin dihadapi saat menggunakan SCBA di platform offshore meliputi...",
+    "options": {
+      "a": "Tidak ada hambatan",
+      "b": "Tangga sempit, gangway terbatas, angin kencang, dan permukaan basah/licin",
+      "c": "Terlalu banyak ruang",
+      "d": "Pencahayaan berlebihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Voice amplifier/communication device pada SCBA modern digunakan karena...",
+    "options": {
+      "a": "Pekerja suka bernyanyi",
+      "b": "Facepiece mengurangi kemampuan komunikasi verbal, voice amplifier membantu komunikasi tim",
+      "c": "Untuk merekam percakapan",
+      "d": "Untuk mendengarkan musik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Airline breathing apparatus (supplied air) berbeda dari SCBA karena...",
+    "options": {
+      "a": "Tidak memerlukan udara",
+      "b": "Udara disuplai melalui selang dari sumber stasioner (kompresor/cylinder bank), bukan tabung di punggung",
+      "c": "Tidak memerlukan facepiece",
+      "d": "Hanya untuk latihan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Airline breathing apparatus biasanya dilengkapi dengan escape cylinder karena...",
+    "options": {
+      "a": "Sebagai cadangan dekorasi",
+      "b": "Jika suplai udara utama terganggu, escape cylinder menyediakan udara darurat untuk evakuasi",
+      "c": "Untuk menambah berat",
+      "d": "Untuk menyimpan air minum"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Kapasitas escape cylinder pada airline apparatus umumnya menyediakan udara untuk...",
+    "options": {
+      "a": "1 jam",
+      "b": "5-10 menit evakuasi",
+      "c": "30 menit",
+      "d": "24 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "SCBA dengan heads-up display (HUD) menampilkan informasi...",
+    "options": {
+      "a": "Berita terkini",
+      "b": "Sisa tekanan tabung dan alarm langsung pada visor facepiece sehingga pengguna tidak perlu melihat pressure gauge",
+      "c": "Peta jalan",
+      "d": "Jadwal kerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Decontamination prosedur untuk SCBA setelah digunakan di area H2S meliputi...",
+    "options": {
+      "a": "Hanya mengelap dengan kain kering",
+      "b": "Pembersihan menyeluruh facepiece dan komponen dengan larutan appropriate, pengecekan kontaminasi residual",
+      "c": "Hanya menyimpan di gudang",
+      "d": "Tidak perlu dekontaminasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Record keeping untuk SCBA harus mencakup, KECUALI...",
+    "options": {
+      "a": "Log penggunaan dan durasi",
+      "b": "Jadwal dan hasil inspeksi/maintenance",
+      "c": "Zodiak pengguna SCBA",
+      "d": "Hasil hydrostatic test tabung"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 89,
+    "question": "Skenario: Saat drill SCBA, seorang peserta mengalami panic/claustrophobia setelah mengenakan facepiece. Tindakan yang tepat adalah...",
+    "options": {
+      "a": "Memaksa peserta melanjutkan",
+      "b": "Segera melepas facepiece, tenangkan peserta, evaluasi kesiapan, dan berikan latihan bertahap",
+      "c": "Menghukum peserta",
+      "d": "Memecat peserta"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Setiap SCBA unit harus memiliki identifikasi unik (ID number) untuk keperluan...",
+    "options": {
+      "a": "Dekorasi",
+      "b": "Tracking inspeksi, maintenance, penggunaan, dan hydrostatic test secara individual",
+      "c": "Penomoran parkir",
+      "d": "Undian berhadiah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Cylinder neck ring pada tabung SCBA berisi informasi berikut, KECUALI...",
+    "options": {
+      "a": "Nomor seri tabung",
+      "b": "Tekanan kerja maksimum",
+      "c": "Tanggal hydrostatic test terakhir",
+      "d": "Nama pengguna favorit"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 92,
+    "question": "SCBA yang disimpan di vehicle/rescue unit harus diperiksa...",
+    "options": {
+      "a": "Hanya saat akan digunakan",
+      "b": "Secara berkala (minimal mingguan) untuk memastikan tekanan penuh dan semua komponen siap pakai",
+      "c": "Setahun sekali",
+      "d": "Tidak perlu diperiksa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Skenario: Pada saat firefighting di kilang minyak, temperature sekitar sangat tinggi. Dampak pada SCBA dan pengguna adalah...",
+    "options": {
+      "a": "Tidak ada dampak",
+      "b": "Durasi SCBA berkurang karena konsumsi udara meningkat, risiko heat stress pada pengguna, dan potensi kerusakan komponen",
+      "c": "SCBA menjadi lebih efisien",
+      "d": "Pengguna merasa lebih nyaman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Heat stress management saat menggunakan SCBA meliputi...",
+    "options": {
+      "a": "Mengabaikan kelelahan",
+      "b": "Rotasi personel, periode istirahat di area dingin, hidrasi, dan monitoring kondisi fisik",
+      "c": "Bekerja lebih lama untuk segera selesai",
+      "d": "Melepas FRC agar lebih dingin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "SCBA compatibility dengan APD lain (helm, FRC, harness) harus diverifikasi untuk memastikan...",
+    "options": {
+      "a": "Penampilan seragam",
+      "b": "Semua APD dapat digunakan bersamaan tanpa mengurangi fungsi perlindungan masing-masing",
+      "c": "Warna serasi",
+      "d": "Merk sama"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Menurut SKKNI, kompetensi mengoperasikan SCBA mencakup kemampuan...",
+    "options": {
+      "a": "Hanya memakai SCBA",
+      "b": "Memeriksa, mengenakan, menggunakan, melepas, merawat SCBA, dan memahami keterbatasannya",
+      "c": "Hanya menyimpan SCBA",
+      "d": "Hanya membeli SCBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Aspek kritis dalam mengoperasikan SCBA menurut SKKNI adalah...",
+    "options": {
+      "a": "Kecepatan berlari",
+      "b": "Kemampuan melakukan pre-use check, donning dengan benar, dan air management saat penggunaan",
+      "c": "Berat badan pengguna",
+      "d": "Warna SCBA yang dipilih"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "SCBA untuk penggunaan di industri migas harus mendapat approval/sertifikasi dari...",
+    "options": {
+      "a": "Tidak perlu sertifikasi",
+      "b": "Lembaga standarisasi yang diakui (misal NIOSH, EN 137, atau SNI yang setara)",
+      "c": "Sertifikasi dari toko alat olahraga",
+      "d": "Sertifikasi dari rumah sakit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "End of service life indicator pada tabung composite SCBA menunjukkan...",
+    "options": {
+      "a": "Tabung masih baru",
+      "b": "Tabung telah mencapai batas usia pakai dan harus ditarik dari penggunaan meskipun masih lulus hydrostatic test",
+      "c": "Tabung perlu dicat ulang",
+      "d": "Tabung boleh digunakan selamanya"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama dalam mengoperasikan SCBA di industri migas adalah...",
+    "options": {
+      "a": "SCBA hanya digunakan saat audit",
+      "b": "SCBA memberikan perlindungan pernapasan mandiri yang kritis, operatornya harus kompeten, dan peralatan harus selalu siap pakai",
+      "c": "SCBA adalah alat pelindung yang opsional",
+      "d": "SCBA tidak memerlukan pelatihan khusus"
+    },
+    "answer": "b"
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Prinsip utama pertolongan pertama (P3K/first aid) adalah...",
+    "options": {
+      "a": "Menggantikan peran dokter",
+      "b": "Memberikan pertolongan segera untuk mempertahankan nyawa, mencegah kondisi memburuk, dan mendukung pemulihan",
+      "c": "Melakukan operasi darurat",
+      "d": "Memberikan obat resep"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Tiga tujuan utama pertolongan pertama adalah...",
+    "options": {
+      "a": "Mendiagnosis, mengobati, memulangkan",
+      "b": "Preserve life (mempertahankan nyawa), Prevent deterioration (mencegah memburuk), Promote recovery (mendukung pemulihan)",
+      "c": "Menghukum, menyelidiki, melaporkan",
+      "d": "Membersihkan, mengecat, memperbaiki"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Langkah pertama yang PALING KRITIS saat menemukan korban kecelakaan di area migas adalah...",
+    "options": {
+      "a": "Langsung mengangkat korban",
+      "b": "Memastikan keamanan diri penolong, lingkungan sekitar, dan korban (DRS - Danger, Response, Send for help)",
+      "c": "Langsung melakukan CPR",
+      "d": "Menelepon keluarga korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Mengapa keamanan penolong menjadi prioritas PERTAMA sebelum menolong korban?",
+    "options": {
+      "a": "Karena penolong lebih penting dari korban",
+      "b": "Jika penolong menjadi korban tambahan, tidak ada yang bisa menolong kedua orang tersebut",
+      "c": "Karena aturan perusahaan",
+      "d": "Karena korban sudah tidak bisa ditolong"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Skenario: Seorang pekerja ditemukan tidak sadar di dekat panel listrik terbuka. Sebelum mendekati korban, penolong HARUS...",
+    "options": {
+      "a": "Langsung menarik korban dengan tangan",
+      "b": "Memastikan sumber listrik telah dimatikan/diisolasi untuk menghindari tersengat listrik",
+      "c": "Menyiram korban dengan air",
+      "d": "Berteriak minta tolong tanpa bertindak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Primary survey (penilaian awal) pada korban kecelakaan menggunakan pendekatan...",
+    "options": {
+      "a": "Hanya melihat luka",
+      "b": "DRSABCD: Danger, Response, Send for help, Airway, Breathing, CPR, Defibrillation",
+      "c": "Hanya mengukur tekanan darah",
+      "d": "Hanya memeriksa suhu tubuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Cara memeriksa respons (Response) pada korban yang tidak sadar adalah...",
+    "options": {
+      "a": "Menampar wajah korban",
+      "b": "Memeriksa dengan rangsangan verbal (berbicara keras) dan rangsangan taktil (menepuk bahu)",
+      "c": "Mengguncang tubuh korban dengan keras",
+      "d": "Menyiram air ke wajah korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Jika korban tidak merespons (unresponsive), langkah selanjutnya setelah meminta bantuan adalah...",
+    "options": {
+      "a": "Langsung melakukan CPR",
+      "b": "Memeriksa dan membuka jalan napas (Airway) dengan teknik head tilt-chin lift",
+      "c": "Memberikan minuman",
+      "d": "Memindahkan korban ke kendaraan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Head tilt-chin lift untuk membuka jalan napas dilakukan dengan cara...",
+    "options": {
+      "a": "Mendorong kepala ke depan",
+      "b": "Menekan dahi ke belakang dengan satu tangan dan mengangkat dagu ke atas dengan tangan lainnya",
+      "c": "Memutar kepala ke samping",
+      "d": "Menekan leher korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Jaw thrust maneuver digunakan sebagai pengganti head tilt-chin lift pada korban yang...",
+    "options": {
+      "a": "Sadar penuh",
+      "b": "Dicurigai mengalami cedera tulang belakang/leher untuk membuka jalan napas tanpa menggerakkan leher",
+      "c": "Hanya mengalami luka ringan",
+      "d": "Tidak memerlukan pertolongan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Cara memeriksa pernapasan (Breathing) korban yang benar adalah...",
+    "options": {
+      "a": "Hanya melihat dada",
+      "b": "Look (lihat gerakan dada), Listen (dengar suara napas), Feel (rasakan hembusan napas) selama maksimal 10 detik",
+      "c": "Menggunakan stetoskop",
+      "d": "Menggunakan spirometer"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Jika korban tidak bernapas dan tidak ada denyut nadi, tindakan yang harus segera dilakukan adalah...",
+    "options": {
+      "a": "Menunggu ambulans",
+      "b": "Memulai CPR (Cardiopulmonary Resuscitation) dan meminta AED segera",
+      "c": "Memberikan air minum",
+      "d": "Memasang perban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Rasio kompresi dada dan ventilasi (napas buatan) pada CPR dewasa menurut pedoman terkini adalah...",
+    "options": {
+      "a": "15:2",
+      "b": "30:2 (30 kompresi : 2 ventilasi)",
+      "c": "5:1",
+      "d": "10:1"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Kedalaman kompresi dada yang benar pada CPR dewasa adalah...",
+    "options": {
+      "a": "1-2 cm",
+      "b": "Minimal 5 cm (2 inci) namun tidak lebih dari 6 cm",
+      "c": "10 cm",
+      "d": "Cukup menekan ringan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Kecepatan kompresi dada pada CPR yang direkomendasikan adalah...",
+    "options": {
+      "a": "50 kali per menit",
+      "b": "100-120 kali per menit",
+      "c": "200 kali per menit",
+      "d": "30 kali per menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Posisi tangan yang benar untuk kompresi dada pada CPR dewasa adalah...",
+    "options": {
+      "a": "Di perut korban",
+      "b": "Di tengah dada (sternum), antara kedua puting, dengan pangkal telapak tangan (heel of palm)",
+      "c": "Di leher korban",
+      "d": "Di bahu korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "AED (Automated External Defibrillator) digunakan untuk...",
+    "options": {
+      "a": "Mengukur tekanan darah",
+      "b": "Memberikan kejutan listrik untuk mengembalikan irama jantung normal pada henti jantung (cardiac arrest)",
+      "c": "Memberikan oksigen",
+      "d": "Mengukur gula darah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Cara menggunakan AED yang benar setelah memasang pad adalah...",
+    "options": {
+      "a": "Langsung menekan tombol shock",
+      "b": "Mengikuti instruksi suara AED: analisis irama → jika shockable, pastikan tidak ada yang menyentuh korban → tekan tombol shock",
+      "c": "Melepas pad setelah terpasang",
+      "d": "Mematikan AED"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Saat AED menganalisis irama jantung dan memberikan instruksi 'no shock advised', tindakan yang benar adalah...",
+    "options": {
+      "a": "Mematikan AED dan berhenti",
+      "b": "Segera melanjutkan CPR (kompresi dada) dan mengikuti instruksi AED selanjutnya",
+      "c": "Melepas pad AED",
+      "d": "Memberikan korban minum"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Recovery position (posisi pemulihan) digunakan untuk korban yang...",
+    "options": {
+      "a": "Mengalami henti jantung",
+      "b": "Tidak sadar tetapi masih bernapas normal, untuk menjaga jalan napas terbuka dan mencegah tersedak",
+      "c": "Mengalami patah tulang kaki",
+      "d": "Sadar dan mampu duduk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Skenario: Pekerja migas terkena luka bakar kimia akibat tumpahan asam di tangan. Pertolongan pertama yang TEPAT adalah...",
+    "options": {
+      "a": "Mengoleskan mentega",
+      "b": "Segera mengalirkan air bersih dalam jumlah banyak selama minimal 20 menit sambil melepas pakaian yang terkontaminasi",
+      "c": "Menutup luka dengan kain kering tanpa dibilas",
+      "d": "Mengoleskan pasta gigi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Untuk luka bakar termal (panas/api) di area migas, pertolongan pertama yang benar adalah...",
+    "options": {
+      "a": "Mengoleskan es langsung pada luka bakar",
+      "b": "Mendinginkan dengan air mengalir suhu ruangan selama 20 menit, melepas perhiasan sebelum bengkak, dan menutup dengan penutup steril",
+      "c": "Memecahkan bula/blister yang terbentuk",
+      "d": "Mengoleskan odol"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "Pada luka bakar, yang TIDAK boleh dilakukan adalah...",
+    "options": {
+      "a": "Mendinginkan dengan air mengalir",
+      "b": "Mengoleskan mentega, pasta gigi, odol, atau bahan rumahan lainnya pada luka bakar",
+      "c": "Menutup dengan penutup steril",
+      "d": "Melepas perhiasan di area luka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Klasifikasi luka bakar derajat 1 ditandai dengan...",
+    "options": {
+      "a": "Kulit hangus dan tidak terasa sakit",
+      "b": "Kulit kemerahan, nyeri, tanpa bula - hanya mengenai lapisan epidermis",
+      "c": "Kulit melepuh dengan bula besar",
+      "d": "Kulit menghitam dan kering"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Luka bakar derajat 2 ditandai dengan...",
+    "options": {
+      "a": "Hanya kemerahan ringan",
+      "b": "Kulit melepuh (bula/blister), sangat nyeri, mengenai epidermis dan sebagian dermis",
+      "c": "Kulit hangus tanpa rasa sakit",
+      "d": "Hanya perubahan warna"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Luka bakar derajat 3 ditandai dengan...",
+    "options": {
+      "a": "Kulit kemerahan ringan",
+      "b": "Kulit putih/coklat/hangus, kering, tidak terasa sakit karena saraf rusak, mengenai seluruh lapisan kulit",
+      "c": "Kulit melepuh dengan bula",
+      "d": "Hanya gatal ringan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Rule of Nines digunakan untuk...",
+    "options": {
+      "a": "Menghitung jumlah korban",
+      "b": "Memperkirakan persentase luas permukaan tubuh yang terkena luka bakar",
+      "c": "Menghitung jumlah obat",
+      "d": "Menghitung biaya perawatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Menurut Rule of Nines pada orang dewasa, luas permukaan satu lengan adalah...",
+    "options": {
+      "a": "18%",
+      "b": "9%",
+      "c": "1%",
+      "d": "36%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Menurut Rule of Nines, luas permukaan kepala dan leher orang dewasa adalah...",
+    "options": {
+      "a": "18%",
+      "b": "9%",
+      "c": "1%",
+      "d": "36%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Menurut Rule of Nines, luas permukaan satu tungkai/kaki orang dewasa adalah...",
+    "options": {
+      "a": "9%",
+      "b": "18%",
+      "c": "1%",
+      "d": "36%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "Perdarahan hebat (severe bleeding) harus dihentikan dengan cara...",
+    "options": {
+      "a": "Membiarkan darah mengalir",
+      "b": "Menekan langsung pada luka dengan kain bersih/perban (direct pressure) dan meninggikan bagian yang luka jika memungkinkan",
+      "c": "Memasang tourniquet sebagai langkah pertama",
+      "d": "Mencuci luka dengan alkohol"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Tourniquet pada perdarahan yang mengancam jiwa digunakan ketika...",
+    "options": {
+      "a": "Untuk semua jenis luka",
+      "b": "Tekanan langsung tidak efektif menghentikan perdarahan hebat pada ekstremitas, terutama amputasi traumatis",
+      "c": "Untuk luka lecet ringan",
+      "d": "Hanya sebagai pencegahan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Posisi pemasangan tourniquet yang benar adalah...",
+    "options": {
+      "a": "Tepat di atas luka",
+      "b": "2-3 inci (5-7 cm) di atas luka, antara luka dan jantung, pada bagian lengan/paha atas",
+      "c": "Di bawah luka",
+      "d": "Di leher korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Setelah tourniquet dipasang, yang TIDAK boleh dilakukan adalah...",
+    "options": {
+      "a": "Mencatat waktu pemasangan",
+      "b": "Melepas dan memasang ulang tourniquet secara berkala (tourniquet yang sudah dipasang tidak boleh dilepas oleh first aider)",
+      "c": "Memberitahu tim medis",
+      "d": "Memantau kondisi korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Tanda-tanda syok (shock) pada korban kecelakaan meliputi, KECUALI...",
+    "options": {
+      "a": "Kulit pucat, dingin, dan berkeringat",
+      "b": "Nadi cepat dan lemah",
+      "c": "Tekanan darah normal dan stabil",
+      "d": "Gelisah, bingung, atau penurunan kesadaran"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 36,
+    "question": "Pertolongan pertama untuk korban syok adalah...",
+    "options": {
+      "a": "Membiarkan korban berdiri",
+      "b": "Baringkan korban, tinggikan kaki 15-30 cm (jika tidak ada cedera kepala/tulang belakang), jaga kehangatan, dan segera panggil bantuan medis",
+      "c": "Memberikan banyak air minum",
+      "d": "Menyuruh korban berjalan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Skenario: Pekerja terjatuh dari ketinggian 3 meter di rig. Ia mengeluh sakit punggung dan tidak bisa menggerakkan kaki. Kecurigaan utama adalah...",
+    "options": {
+      "a": "Keseleo biasa",
+      "b": "Cedera tulang belakang (spinal injury) yang memerlukan immobilisasi dan penanganan sangat hati-hati",
+      "c": "Kram otot",
+      "d": "Hanya memar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Prinsip penanganan korban yang dicurigai cedera tulang belakang adalah...",
+    "options": {
+      "a": "Segera memindahkan korban",
+      "b": "Jangan memindahkan kecuali ada bahaya langsung, stabilkan kepala-leher-tulang belakang dalam posisi netral (manual inline stabilization)",
+      "c": "Menggulingkan korban",
+      "d": "Mendudukkan korban"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Log roll technique digunakan untuk...",
+    "options": {
+      "a": "Latihan olahraga",
+      "b": "Membalikkan korban yang dicurigai cedera tulang belakang dengan menjaga alignment kepala-leher-tulang belakang",
+      "c": "Menggulung perban",
+      "d": "Membersihkan lantai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Cervical collar (neck brace) pada korban cedera leher berfungsi untuk...",
+    "options": {
+      "a": "Dekorasi",
+      "b": "Membatasi gerakan leher dan melindungi tulang belakang cervical dari cedera lebih lanjut",
+      "c": "Menghangatkan leher",
+      "d": "Mengobati sakit leher biasa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Skenario: Pekerja terkena percikan H2S cair dan pingsan. Setelah memastikan area aman, pertolongan pertama yang TEPAT adalah...",
+    "options": {
+      "a": "Memberikan CPR di lokasi kejadian tanpa memindahkan",
+      "b": "Pindahkan ke area berventilasi baik/upwind, periksa respons dan pernapasan, berikan oksigen jika tersedia, dan mulai CPR jika tidak bernapas",
+      "c": "Menyiram dengan air dingin",
+      "d": "Memberikan kopi panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Pertolongan pertama untuk korban inhalasi gas beracun (H2S, CO) yang masih sadar meliputi...",
+    "options": {
+      "a": "Menyuruh korban tetap di area terkontaminasi",
+      "b": "Segera pindahkan ke udara segar, berikan oksigen jika tersedia, posisi nyaman, dan pantau hingga bantuan medis tiba",
+      "c": "Memberikan air minum dalam jumlah banyak",
+      "d": "Menyuruh korban berlari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Patah tulang (fracture) dibedakan menjadi dua jenis utama yaitu...",
+    "options": {
+      "a": "Besar dan kecil",
+      "b": "Closed fracture (patah tulang tertutup) dan open/compound fracture (patah tulang terbuka dimana tulang menembus kulit)",
+      "c": "Kanan dan kiri",
+      "d": "Atas dan bawah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Prinsip pertolongan pertama untuk patah tulang adalah...",
+    "options": {
+      "a": "Mencoba mengembalikan tulang ke posisi normal",
+      "b": "Immobilisasi (membidai) bagian yang patah, jangan coba meluruskan, dan rujuk ke fasilitas medis",
+      "c": "Memijat area yang patah",
+      "d": "Menarik bagian yang patah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Splinting (pembidaian) pada patah tulang harus mencakup...",
+    "options": {
+      "a": "Hanya sendi di atas patahan",
+      "b": "Sendi di atas DAN di bawah lokasi patah tulang untuk mencegah gerakan yang memperburuk cedera",
+      "c": "Hanya area yang patah",
+      "d": "Seluruh tubuh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Tanda-tanda patah tulang meliputi, KECUALI...",
+    "options": {
+      "a": "Nyeri hebat pada area cedera",
+      "b": "Pembengkakan dan deformitas (perubahan bentuk)",
+      "c": "Peningkatan berat badan korban",
+      "d": "Ketidakmampuan menggerakkan bagian yang cedera"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 47,
+    "question": "Skenario: Pekerja terjepit tangan di antara pipa baja. Jari manis tampak bengkok tidak normal. Pertolongan pertama yang tepat adalah...",
+    "options": {
+      "a": "Menarik jari agar lurus",
+      "b": "Immobilisasi jari dalam posisi yang ditemukan, aplikasi es/cold pack, dan segera rujuk ke fasilitas medis",
+      "c": "Memijat jari dengan keras",
+      "d": "Mengikat jari ke jari sebelah dengan kencang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "RICE protocol untuk cedera jaringan lunak (keseleo, terkilir) adalah singkatan dari...",
+    "options": {
+      "a": "Run, Inspect, Call, Eat",
+      "b": "Rest (istirahat), Ice (kompres dingin), Compression (balutan tekan), Elevation (tinggikan)",
+      "c": "Remove, Insert, Cut, Examine",
+      "d": "Read, Investigate, Calculate, Evaluate"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Eye wash/emergency eyewash station harus digunakan saat...",
+    "options": {
+      "a": "Mata gatal biasa",
+      "b": "Mata terkena percikan bahan kimia, debu, atau partikel asing di area kerja migas",
+      "c": "Mata lelah karena komputer",
+      "d": "Hanya saat ada inspeksi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "Durasi flushing mata dengan eyewash setelah terkena bahan kimia umumnya minimal...",
+    "options": {
+      "a": "30 detik",
+      "b": "15-20 menit terus-menerus",
+      "c": "5 detik",
+      "d": "1 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Skenario: Pekerja tersetrum listrik tegangan rendah dan sudah terlepas dari sumber listrik. Ia sadar tetapi mengalami luka bakar di tangan. Pertolongan pertama yang tepat meliputi...",
+    "options": {
+      "a": "Hanya mengobati luka bakar",
+      "b": "Periksa ABC, pantau tanda-tanda aritmia jantung, tangani luka bakar, dan WAJIB dirujuk ke medis karena ada risiko gangguan jantung tertunda",
+      "c": "Suruh kembali bekerja",
+      "d": "Hanya berikan obat luka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Mengapa korban sengatan listrik HARUS dirujuk ke rumah sakit meskipun tampak baik-baik saja?",
+    "options": {
+      "a": "Hanya formalitas",
+      "b": "Aritmia jantung dan kerusakan internal dapat terjadi beberapa jam setelah kejadian",
+      "c": "Untuk mendapat surat keterangan",
+      "d": "Hanya untuk istirahat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Heat exhaustion (kelelahan panas) pada pekerja migas di area panas ditandai dengan...",
+    "options": {
+      "a": "Kulit kering dan tidak berkeringat",
+      "b": "Berkeringat banyak, kulit lembab, pusing, mual, sakit kepala, nadi cepat",
+      "c": "Demam sangat tinggi",
+      "d": "Kejang-kejang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Pertolongan pertama untuk heat exhaustion adalah...",
+    "options": {
+      "a": "Menyuruh korban tetap bekerja",
+      "b": "Pindahkan ke tempat sejuk, baringkan, berikan cairan (air/elektrolit), kipasi, dan kompres dingin",
+      "c": "Menyelimuti korban",
+      "d": "Memberikan minuman panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Heat stroke berbeda dari heat exhaustion karena...",
+    "options": {
+      "a": "Tidak berbahaya",
+      "b": "Heat stroke adalah kondisi mengancam jiwa dimana suhu tubuh >40°C, kulit kering/panas, dan dapat menyebabkan kerusakan organ",
+      "c": "Heat stroke lebih ringan",
+      "d": "Heat stroke tidak memerlukan perawatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Pertolongan pertama untuk heat stroke HARUS mencakup...",
+    "options": {
+      "a": "Memberikan aspirin",
+      "b": "Pendinginan agresif sesegera mungkin (siram air, kompres es, kipasi) dan panggil ambulans darurat - ini adalah emergency medis",
+      "c": "Hanya memberikan air minum",
+      "d": "Menunggu korban pulih sendiri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Hypothermia pada pekerja offshore/area dingin ditandai dengan...",
+    "options": {
+      "a": "Berkeringat berlebihan",
+      "b": "Menggigil hebat, kebingungan, bicara cadel, koordinasi buruk, dan penurunan kesadaran",
+      "c": "Demam tinggi",
+      "d": "Kulit memerah dan panas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Pertolongan pertama untuk hypothermia meliputi, KECUALI...",
+    "options": {
+      "a": "Pindahkan ke tempat hangat",
+      "b": "Lepas pakaian basah dan selimuti dengan selimut kering",
+      "c": "Merendam korban dalam air panas mendadak",
+      "d": "Berikan minuman hangat manis jika sadar"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 59,
+    "question": "Skenario: Pekerja di platform offshore jatuh ke laut dan diselamatkan setelah 30 menit. Ia menggigil dan kebingungan. Pertolongan pertama yang tepat adalah...",
+    "options": {
+      "a": "Menyuruhnya berlari untuk menghangatkan diri",
+      "b": "Penanganan hypothermia: keringkan, selimuti, berikan minuman hangat jika sadar, hindari gerakan berlebihan, pantau jantung",
+      "c": "Memasukkan ke air hangat langsung",
+      "d": "Memberikan alkohol untuk menghangatkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Choking (tersedak) pada korban dewasa yang masih sadar ditangani dengan...",
+    "options": {
+      "a": "Menepuk punggung saja",
+      "b": "Kombinasi 5 back blows (tepukan punggung) dan 5 abdominal thrusts (Heimlich maneuver) secara bergantian",
+      "c": "Memberikan air minum",
+      "d": "Menyuruh korban berbaring"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Abdominal thrust (Heimlich maneuver) dilakukan dengan cara...",
+    "options": {
+      "a": "Menekan dada korban",
+      "b": "Berdiri di belakang korban, letakkan kepalan tangan di atas pusar/di bawah tulang dada, dan tekan ke atas dan ke dalam",
+      "c": "Memukul perut korban",
+      "d": "Mengangkat korban terbalik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Jika korban tersedak menjadi tidak sadar, tindakan yang harus dilakukan adalah...",
+    "options": {
+      "a": "Terus melakukan Heimlich",
+      "b": "Baringkan korban, mulai CPR (kompresi dada), dan periksa mulut setiap siklus untuk benda asing yang mungkin keluar",
+      "c": "Memberikan air",
+      "d": "Menunggu korban sadar"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Anaphylaxis (reaksi alergi berat) pada pekerja migas dapat disebabkan oleh...",
+    "options": {
+      "a": "Hanya makanan",
+      "b": "Sengatan serangga, bahan kimia, latex, makanan, atau obat-obatan",
+      "c": "Hanya cuaca dingin",
+      "d": "Hanya kelelahan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Tanda-tanda anaphylaxis meliputi, KECUALI...",
+    "options": {
+      "a": "Kesulitan bernapas dan bengkak di wajah/tenggorokan",
+      "b": "Gatal-gatal dan ruam kulit merata",
+      "c": "Peningkatan konsentrasi belajar",
+      "d": "Tekanan darah turun drastis dan pusing"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 65,
+    "question": "Pertolongan pertama untuk anaphylaxis yang paling kritis adalah...",
+    "options": {
+      "a": "Memberikan antihistamin saja",
+      "b": "Pemberian epinephrine/adrenaline auto-injector (EpiPen) jika tersedia dan segera panggil bantuan medis darurat",
+      "c": "Memberikan air minum",
+      "d": "Menyuruh korban istirahat saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Seizure/kejang pada korban kecelakaan, pertolongan pertamanya meliputi...",
+    "options": {
+      "a": "Memasukkan benda ke mulut korban",
+      "b": "Lindungi korban dari cedera, jangan menahan gerakan kejang, jangan memasukkan apapun ke mulut, catat durasi kejang",
+      "c": "Menahan tubuh korban dengan kuat",
+      "d": "Menyiram air ke wajah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Setelah kejang berhenti, posisikan korban dalam...",
+    "options": {
+      "a": "Posisi duduk",
+      "b": "Recovery position (posisi pemulihan) dan pantau pernapasan hingga korban sadar atau bantuan medis tiba",
+      "c": "Posisi berdiri",
+      "d": "Posisi terlentang dengan bantal tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Skenario: Pekerja terluka oleh benda tajam dan ada benda menancap di paha. Pertolongan pertama yang benar adalah...",
+    "options": {
+      "a": "Mencabut benda tersebut segera",
+      "b": "JANGAN mencabut benda yang menancap, stabilkan dengan padding di sekelilingnya, dan segera rujuk ke medis",
+      "c": "Menekan benda lebih dalam",
+      "d": "Memutar benda untuk mengeluarkan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Mengapa benda yang menancap di tubuh TIDAK boleh dicabut oleh first aider?",
+    "options": {
+      "a": "Karena terlalu sulit dicabut",
+      "b": "Benda tersebut mungkin menekan pembuluh darah dan mencegah perdarahan, mencabutnya bisa menyebabkan perdarahan masif",
+      "c": "Karena benda tersebut tidak berbahaya",
+      "d": "Karena korban tidak merasakan sakit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Pertolongan pertama untuk gigitan ular di area operasi migas meliputi...",
+    "options": {
+      "a": "Menghisap bisa dari luka",
+      "b": "Immobilisasi bagian yang tergigit, jaga posisi di bawah jantung, tenangkan korban, dan segera bawa ke fasilitas medis",
+      "c": "Memasang tourniquet ketat",
+      "d": "Memotong luka untuk mengeluarkan bisa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "P3K kit (first aid kit) di area kerja migas harus berisi perlengkapan berikut, KECUALI...",
+    "options": {
+      "a": "Perban, kasa steril, plester",
+      "b": "Sarung tangan disposable dan gunting",
+      "c": "Obat resep tanpa label dan kadaluarsa",
+      "d": "Burn dressing dan triangular bandage"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 72,
+    "question": "Frekuensi pemeriksaan isi P3K kit di area kerja migas sebaiknya...",
+    "options": {
+      "a": "Setahun sekali",
+      "b": "Minimal setiap bulan dan setiap kali setelah digunakan untuk memastikan kelengkapan dan kelaikan",
+      "c": "Hanya saat audit",
+      "d": "Tidak perlu diperiksa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Oxygen therapy pada pertolongan pertama di area migas diberikan untuk korban yang...",
+    "options": {
+      "a": "Hanya merasa ngantuk",
+      "b": "Mengalami kesulitan bernapas, keracunan gas (CO, H2S), syok, atau cedera dada",
+      "c": "Hanya sakit kepala ringan",
+      "d": "Hanya lelah karena bekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Bag Valve Mask (BVM/Ambu bag) digunakan oleh first aider terlatih untuk...",
+    "options": {
+      "a": "Mengukur tekanan darah",
+      "b": "Memberikan ventilasi/napas buatan dengan oksigen pada korban yang tidak bernapas atau bernapas tidak adekuat",
+      "c": "Mengukur kadar oksigen",
+      "d": "Menyimpan obat darurat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Pulse oximeter yang tersedia di P3K area migas mengukur...",
+    "options": {
+      "a": "Tekanan darah",
+      "b": "Saturasi oksigen dalam darah (SpO2) dan denyut nadi",
+      "c": "Suhu tubuh",
+      "d": "Kadar gula darah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Saturasi oksigen normal (SpO2) pada orang sehat adalah...",
+    "options": {
+      "a": "70-80%",
+      "b": "95-100%",
+      "c": "50-60%",
+      "d": "80-85%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "SpO2 di bawah 90% menunjukkan kondisi...",
+    "options": {
+      "a": "Normal",
+      "b": "Hipoksia signifikan yang memerlukan pemberian oksigen dan penanganan medis segera",
+      "c": "Sehat",
+      "d": "Tidak perlu tindakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Stretcher/tandu untuk evakuasi korban di area migas harus...",
+    "options": {
+      "a": "Terbuat dari bahan apa saja",
+      "b": "Kokoh, ringan, dan dalam kondisi siap pakai, ditempatkan di lokasi strategis",
+      "c": "Terbuat dari kaca",
+      "d": "Hanya disimpan di gudang terkunci"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Basket stretcher (Stokes basket) lebih diutamakan di area migas/offshore karena...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Dapat digunakan untuk evakuasi vertikal (dari ketinggian/tangki) dan melindungi korban selama pengangkatan",
+      "c": "Lebih ringan dari stretcher biasa",
+      "d": "Tidak memerlukan tali pengaman"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Skenario: Pekerja mengalami serangan jantung (chest pain, sesak napas, berkeringat dingin) di area kilang. Pertolongan pertama yang tepat adalah...",
+    "options": {
+      "a": "Menyuruh korban berjalan ke klinik",
+      "b": "Dudukkan korban dalam posisi nyaman (semi-fowler), longgarkan pakaian ketat, berikan aspirin jika tersedia dan tidak alergi, dan panggil ambulans segera",
+      "c": "Baringkan korban dan tinggalkan",
+      "d": "Berikan air dingin dan kipasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Posisi yang tepat untuk korban serangan jantung yang sadar adalah...",
+    "options": {
+      "a": "Terlentang datar",
+      "b": "Semi-fowler (duduk/setengah duduk) untuk memudahkan pernapasan",
+      "c": "Tengkurap",
+      "d": "Posisi berdiri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Pertolongan pertama untuk korban stroke (tanda: wajah tidak simetris, kelemahan satu sisi tubuh, bicara pelo) adalah...",
+    "options": {
+      "a": "Memberikan obat tekanan darah",
+      "b": "Catat waktu gejala mulai, baringkan dengan kepala sedikit terangkat, jangan berikan makan/minum, dan panggil ambulans segera",
+      "c": "Menyuruh korban berolahraga",
+      "d": "Memberikan makanan manis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "FAST test untuk mengenali stroke adalah singkatan dari...",
+    "options": {
+      "a": "Find, Ask, Sit, Transfer",
+      "b": "Face (wajah merot), Arms (kelemahan lengan), Speech (bicara pelo), Time (segera hubungi medis)",
+      "c": "First, Aid, Safety, Treatment",
+      "d": "Fire, Alarm, Safety, Team"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Skenario: Pekerja di rig terkena alat berat di dada dan mengeluh sangat sesak napas. Dada tampak tidak simetris saat bernapas. Kecurigaan utama adalah...",
+    "options": {
+      "a": "Masuk angin",
+      "b": "Pneumothorax atau flail chest yang merupakan kondisi darurat memerlukan bantuan medis segera",
+      "c": "Batuk biasa",
+      "d": "Kelelahan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Pertolongan pertama untuk luka terbuka di dada (sucking chest wound) adalah...",
+    "options": {
+      "a": "Membiarkan luka terbuka",
+      "b": "Menutup luka dengan dressing kedap udara (occlusive dressing) yang direkatkan di tiga sisi untuk menciptakan valve",
+      "c": "Memasukkan kasa ke dalam luka",
+      "d": "Meniup udara ke dalam luka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Crush injury (cedera remuk) pada korban yang terjepit benda berat di area migas memerlukan perhatian khusus karena...",
+    "options": {
+      "a": "Hanya menyebabkan memar",
+      "b": "Saat benda diangkat, toksin dari jaringan rusak dapat masuk sirkulasi dan menyebabkan crush syndrome (gagal ginjal, aritmia)",
+      "c": "Tidak ada risiko serius",
+      "d": "Hanya menyebabkan nyeri"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Sebelum mengangkat benda berat dari korban crush injury, idealnya harus...",
+    "options": {
+      "a": "Langsung mengangkat secepat mungkin",
+      "b": "Koordinasi dengan tim medis karena pelepasan tekanan yang tiba-tiba dapat menyebabkan syok dan gagal ginjal akut",
+      "c": "Menyuruh korban mengangkat sendiri",
+      "d": "Menunggu 24 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Amputasi traumatis di area kerja migas, penanganan bagian tubuh yang terputus meliputi...",
+    "options": {
+      "a": "Membuang bagian yang terputus",
+      "b": "Bungkus dengan kasa steril lembab, masukkan ke kantong plastik, letakkan dalam wadah berisi es - JANGAN merendam langsung dalam air/es",
+      "c": "Merendam dalam alkohol",
+      "d": "Mengeringkan di bawah sinar matahari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "First aider/petugas P3K di area migas harus memiliki...",
+    "options": {
+      "a": "Ijazah kedokteran",
+      "b": "Sertifikasi pelatihan pertolongan pertama yang valid dan refresher training berkala",
+      "c": "Gelar spesialis",
+      "d": "Pengalaman sebagai dokter"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Rasio jumlah first aider terhadap pekerja di area migas umumnya minimal...",
+    "options": {
+      "a": "1 first aider untuk 1000 pekerja",
+      "b": "Minimal 1 first aider per lokasi kerja dan per shift, rasio sesuai regulasi (umumnya 1:25-50)",
+      "c": "Tidak ada ketentuan",
+      "d": "Hanya perlu 1 untuk seluruh perusahaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Medical emergency response plan (MERP) di fasilitas migas harus mencakup...",
+    "options": {
+      "a": "Hanya nomor telepon ambulans",
+      "b": "Prosedur respon, rute evakuasi medis, fasilitas P3K, daftar first aider, dan koordinasi dengan rumah sakit",
+      "c": "Hanya daftar obat",
+      "d": "Hanya peta fasilitas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Golden hour dalam penanganan trauma berarti...",
+    "options": {
+      "a": "Jam istirahat makan siang",
+      "b": "Periode kritis 60 menit pertama setelah trauma dimana penanganan definitif memberikan peluang hidup terbesar",
+      "c": "Jam kerja paling produktif",
+      "d": "Waktu shift paling sibuk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "MEDEVAC (Medical Evacuation) di offshore platform dapat dilakukan melalui...",
+    "options": {
+      "a": "Hanya perahu kecil",
+      "b": "Helikopter, supply vessel, atau fast rescue craft tergantung tingkat keparahan dan kondisi cuaca",
+      "c": "Hanya berenang",
+      "d": "Hanya pesawat komersial"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Triage pada kecelakaan massal (mass casualty) di area migas bertujuan untuk...",
+    "options": {
+      "a": "Mengobati semua korban bersamaan",
+      "b": "Mengklasifikasi korban berdasarkan tingkat keparahan untuk menentukan prioritas penanganan saat sumber daya terbatas",
+      "c": "Menghitung jumlah korban saja",
+      "d": "Memindahkan semua korban sekaligus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Warna tag triage START (Simple Triage and Rapid Treatment) untuk korban yang memerlukan penanganan segera (immediate) adalah...",
+    "options": {
+      "a": "Hijau",
+      "b": "Merah",
+      "c": "Kuning",
+      "d": "Hitam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Warna tag triage untuk korban yang dapat menunggu (delayed) adalah...",
+    "options": {
+      "a": "Merah",
+      "b": "Kuning",
+      "c": "Hijau",
+      "d": "Hitam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Warna tag triage untuk korban luka ringan yang dapat berjalan (walking wounded/minor) adalah...",
+    "options": {
+      "a": "Merah",
+      "b": "Kuning",
+      "c": "Hijau",
+      "d": "Hitam"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 98,
+    "question": "Warna tag triage untuk korban yang sudah meninggal atau tidak mungkin diselamatkan (expectant/deceased) adalah...",
+    "options": {
+      "a": "Merah",
+      "b": "Kuning",
+      "c": "Hijau",
+      "d": "Hitam"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 99,
+    "question": "Menurut SKKNI, kompetensi menangani pertolongan pertama mencakup...",
+    "options": {
+      "a": "Hanya memasang plester",
+      "b": "Menilai situasi, memberikan P3K sesuai kondisi korban (pingsan, luka, patah tulang, RJP), dan mengkoordinasikan evakuasi medis",
+      "c": "Hanya menelepon ambulans",
+      "d": "Hanya membersihkan luka"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama pertolongan pertama di industri migas adalah...",
+    "options": {
+      "a": "First aider menggantikan peran dokter",
+      "b": "Tindakan cepat, tepat, dan sesuai kompetensi untuk mempertahankan nyawa korban sambil menunggu bantuan medis profesional",
+      "c": "Pertolongan pertama tidak penting jika ada klinik perusahaan",
+      "d": "Hanya pekerja medis yang boleh memberikan pertolongan pertama"
+    },
+    "answer": "b"
+  }
+]

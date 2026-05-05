@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Sound Level Meter (SLM) adalah alat yang digunakan untuk...",
+    "options": {
+      "a": "Mengukur kecepatan suara",
+      "b": "Mengukur intensitas/tingkat kebisingan (sound pressure level) dalam satuan desibel (dB)",
+      "c": "Mengukur frekuensi radio",
+      "d": "Mengukur getaran mesin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Satuan pengukuran kebisingan yang digunakan pada Sound Level Meter adalah...",
+    "options": {
+      "a": "Hertz (Hz)",
+      "b": "Desibel (dB)",
+      "c": "Pascal (Pa)",
+      "d": "Watt (W)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Nilai Ambang Batas (NAB) kebisingan untuk paparan 8 jam kerja menurut regulasi Indonesia adalah...",
+    "options": {
+      "a": "70 dBA",
+      "b": "85 dBA",
+      "c": "100 dBA",
+      "d": "60 dBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Setiap kenaikan 3 dB pada tingkat kebisingan, waktu paparan yang diizinkan...",
+    "options": {
+      "a": "Tetap sama",
+      "b": "Berkurang menjadi setengahnya",
+      "c": "Bertambah dua kali lipat",
+      "d": "Tidak berpengaruh"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Jika tingkat kebisingan di area kompresor adalah 88 dBA, waktu paparan maksimum yang diizinkan adalah...",
+    "options": {
+      "a": "8 jam",
+      "b": "4 jam (karena setiap +3 dB dari 85, waktu paparan berkurang setengah)",
+      "c": "2 jam",
+      "d": "12 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Jika kebisingan di area adalah 91 dBA, waktu paparan maksimum yang diizinkan adalah...",
+    "options": {
+      "a": "8 jam",
+      "b": "2 jam",
+      "c": "4 jam",
+      "d": "30 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Jika kebisingan mencapai 100 dBA, waktu paparan yang diizinkan hanya...",
+    "options": {
+      "a": "4 jam",
+      "b": "15 menit",
+      "c": "8 jam",
+      "d": "1 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Weighting filter A (dBA) pada Sound Level Meter digunakan karena...",
+    "options": {
+      "a": "Mengukur semua frekuensi sama rata",
+      "b": "Menyimulasikan respons pendengaran manusia yang kurang sensitif terhadap frekuensi rendah dan tinggi",
+      "c": "Hanya mengukur frekuensi rendah",
+      "d": "Hanya mengukur frekuensi tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Weighting filter C (dBC) pada Sound Level Meter biasanya digunakan untuk...",
+    "options": {
+      "a": "Pengukuran rutin kebisingan",
+      "b": "Mengukur peak sound pressure level dan mengevaluasi kebisingan impulsif/impact noise",
+      "c": "Mengukur getaran",
+      "d": "Mengukur suhu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Perbedaan antara pengukuran dBA dan dBC dapat menunjukkan...",
+    "options": {
+      "a": "Tidak ada informasi berguna",
+      "b": "Dominasi komponen frekuensi rendah jika dBC jauh lebih tinggi dari dBA",
+      "c": "Kerusakan SLM",
+      "d": "Baterai lemah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Response time 'Slow' pada SLM digunakan untuk...",
+    "options": {
+      "a": "Kebisingan impulsif",
+      "b": "Mengukur kebisingan yang relatif stabil/kontinu dengan rata-rata time constant 1 detik",
+      "c": "Kebisingan yang berubah cepat",
+      "d": "Kebisingan ledakan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Response time 'Fast' pada SLM digunakan untuk...",
+    "options": {
+      "a": "Kebisingan stabil",
+      "b": "Mengukur kebisingan yang berfluktuasi dengan time constant 125 milidetik",
+      "c": "Kebisingan sangat rendah",
+      "d": "Kebisingan frekuensi rendah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Response time 'Impulse' pada SLM digunakan untuk mengukur...",
+    "options": {
+      "a": "Kebisingan kontinu",
+      "b": "Kebisingan impulsif/impact seperti pukulan palu, ledakan, atau tembakan",
+      "c": "Kebisingan latar belakang",
+      "d": "Kebisingan musik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Komponen utama Sound Level Meter meliputi, KECUALI...",
+    "options": {
+      "a": "Microphone (mikrofon)",
+      "b": "Preamplifier dan signal processor",
+      "c": "Mesin pembakaran internal",
+      "d": "Display/layar pembacaan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 15,
+    "question": "Microphone pada SLM berfungsi untuk...",
+    "options": {
+      "a": "Menghasilkan suara",
+      "b": "Mengubah gelombang suara (tekanan akustik) menjadi sinyal listrik yang proporsional",
+      "c": "Menyimpan data",
+      "d": "Mengisi baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Jenis microphone yang paling umum digunakan pada SLM profesional adalah...",
+    "options": {
+      "a": "Dynamic microphone",
+      "b": "Condenser/capacitor microphone karena respons frekuensi yang luas dan akurasi tinggi",
+      "c": "Ribbon microphone",
+      "d": "Carbon microphone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Kalibrasi Sound Level Meter harus dilakukan...",
+    "options": {
+      "a": "Tidak pernah perlu",
+      "b": "Sebelum dan sesudah setiap sesi pengukuran menggunakan acoustic calibrator",
+      "c": "Setiap 10 tahun",
+      "d": "Hanya saat dibeli baru"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Acoustic calibrator menghasilkan...",
+    "options": {
+      "a": "Suara acak",
+      "b": "Tone/nada dengan level tekanan suara yang diketahui (biasanya 94 dB atau 114 dB pada 1000 Hz)",
+      "c": "Getaran mekanik",
+      "d": "Sinar laser"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Jika setelah kalibrasi, pembacaan SLM menyimpang lebih dari ±1 dB dari level calibrator, maka...",
+    "options": {
+      "a": "SLM masih akurat",
+      "b": "SLM perlu diperiksa/diperbaiki dan TIDAK boleh digunakan untuk pengukuran hingga dikalibrasi ulang",
+      "c": "Penyimpangan normal",
+      "d": "Calibrator yang rusak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Windscreen (busa penutup mikrofon) pada SLM berfungsi untuk...",
+    "options": {
+      "a": "Melindungi mikrofon dari hujan saja",
+      "b": "Mengurangi pengaruh angin yang dapat menyebabkan noise palsu pada pembacaan",
+      "c": "Memperbesar suara",
+      "d": "Mengurangi sensitivitas mikrofon"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Klasifikasi SLM menurut IEC 61672 terbagi menjadi...",
+    "options": {
+      "a": "5 kelas",
+      "b": "2 kelas: Class 1 (presisi tinggi) dan Class 2 (general purpose)",
+      "c": "10 kelas",
+      "d": "1 kelas saja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "SLM Class 1 digunakan untuk...",
+    "options": {
+      "a": "Pengukuran kasar di lapangan",
+      "b": "Pengukuran presisi tinggi seperti survei kebisingan lingkungan, penelitian, dan pengukuran untuk keperluan legal",
+      "c": "Hanya latihan mahasiswa",
+      "d": "Hanya pengukuran musik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "SLM Class 2 digunakan untuk...",
+    "options": {
+      "a": "Penelitian laboratorium",
+      "b": "Pengukuran lapangan general purpose seperti survei kebisingan awal dan spot check",
+      "c": "Kalibrasi SLM Class 1",
+      "d": "Hanya pengukuran outdoor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Leq (Equivalent Continuous Sound Level) adalah...",
+    "options": {
+      "a": "Level kebisingan maksimum",
+      "b": "Level kebisingan rata-rata energi kontinu yang setara dengan kebisingan fluktuatif selama periode pengukuran",
+      "c": "Level kebisingan minimum",
+      "d": "Level kebisingan pada frekuensi tertentu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Mengapa Leq lebih representatif untuk menilai paparan kebisingan dibanding pengukuran sesaat (instantaneous)?",
+    "options": {
+      "a": "Leq lebih mudah dihitung",
+      "b": "Leq memperhitungkan variasi kebisingan selama seluruh periode kerja, memberikan gambaran paparan sebenarnya",
+      "c": "Leq selalu lebih rendah",
+      "d": "Leq tidak dipengaruhi kebisingan tinggi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Lmax dan Lmin pada SLM menunjukkan...",
+    "options": {
+      "a": "Berat minimum dan maksimum SLM",
+      "b": "Level kebisingan tertinggi dan terendah yang tercatat selama periode pengukuran",
+      "c": "Frekuensi tertinggi dan terendah",
+      "d": "Jarak terjauh dan terdekat pengukuran"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Lpeak pada SLM mengukur...",
+    "options": {
+      "a": "Level kebisingan rata-rata",
+      "b": "Nilai puncak absolut tekanan suara, penting untuk menilai bahaya kebisingan impulsif terhadap pendengaran",
+      "c": "Level kebisingan minimum",
+      "d": "Frekuensi puncak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "Batas Lpeak yang tidak boleh dilampaui untuk perlindungan pendengaran adalah...",
+    "options": {
+      "a": "85 dB",
+      "b": "140 dBC",
+      "c": "120 dBA",
+      "d": "100 dBA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Dosimeter kebisingan (noise dosimeter) berbeda dari SLM karena...",
+    "options": {
+      "a": "Tidak mengukur kebisingan",
+      "b": "Dosimeter dipakai oleh pekerja selama shift untuk mengukur paparan kebisingan personal kumulatif (dose)",
+      "c": "Dosimeter lebih besar dari SLM",
+      "d": "Dosimeter mengukur getaran"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Noise dose 100% pada dosimeter berarti...",
+    "options": {
+      "a": "Pekerja belum terpapar kebisingan",
+      "b": "Pekerja telah mencapai batas paparan maksimum yang diizinkan untuk periode tersebut",
+      "c": "Dosimeter rusak",
+      "d": "Area sangat tenang"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "TWA (Time Weighted Average) pada dosimeter kebisingan menunjukkan...",
+    "options": {
+      "a": "Waktu kerja rata-rata",
+      "b": "Level kebisingan rata-rata yang diterima pekerja selama 8 jam kerja, memperhitungkan variasi paparan",
+      "c": "Suhu rata-rata",
+      "d": "Getaran rata-rata"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Octave band analysis menggunakan SLM dilakukan untuk...",
+    "options": {
+      "a": "Menentukan volume musik",
+      "b": "Mengidentifikasi distribusi frekuensi kebisingan sehingga pengendalian dan pemilihan hearing protection lebih tepat",
+      "c": "Mengukur jarak sumber suara",
+      "d": "Menghitung jumlah sumber suara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Frekuensi pendengaran manusia normal berkisar antara...",
+    "options": {
+      "a": "1 Hz - 100 Hz",
+      "b": "20 Hz - 20.000 Hz (20 kHz)",
+      "c": "100.000 Hz - 1.000.000 Hz",
+      "d": "0 Hz - 10 Hz"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Sumber kebisingan utama di industri migas meliputi, KECUALI...",
+    "options": {
+      "a": "Kompresor dan turbin gas",
+      "b": "Pompa dan generator",
+      "c": "Ruang perpustakaan perusahaan",
+      "d": "Proses flaring dan blowdown"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 35,
+    "question": "Noise mapping/peta kebisingan di fasilitas migas bertujuan untuk...",
+    "options": {
+      "a": "Menghias kantor HSE",
+      "b": "Mengidentifikasi area dengan tingkat kebisingan tinggi dan menentukan zona mandatory hearing protection",
+      "c": "Menghitung luas fasilitas",
+      "d": "Menentukan lokasi kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "Hearing protection zone signage di area migas menunjukkan...",
+    "options": {
+      "a": "Area bebas dari kebisingan",
+      "b": "Area dimana penggunaan hearing protection wajib karena tingkat kebisingan melebihi NAB",
+      "c": "Area parkir",
+      "d": "Area kantin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Noise contour map menampilkan...",
+    "options": {
+      "a": "Peta jalan menuju fasilitas",
+      "b": "Garis-garis yang menghubungkan titik-titik dengan tingkat kebisingan sama, menunjukkan distribusi kebisingan di area",
+      "c": "Peta cuaca",
+      "d": "Peta topografi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Posisi SLM yang benar saat melakukan pengukuran di area kerja adalah...",
+    "options": {
+      "a": "Di lantai",
+      "b": "Pada posisi telinga pekerja (approximately 1.2-1.5 m dari lantai) dengan mikrofon menghadap sumber suara",
+      "c": "Di atas atap gedung",
+      "d": "Di dalam lemari"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Jarak minimum SLM dari tubuh pengukur saat pengukuran adalah...",
+    "options": {
+      "a": "Tidak ada jarak minimum",
+      "b": "Minimal satu lengan (arm's length) untuk mengurangi pengaruh refleksi dari tubuh pengukur",
+      "c": "10 meter",
+      "d": "1 cm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Pengaruh refleksi suara dari dinding dan permukaan keras (reverberant field) terhadap pengukuran SLM adalah...",
+    "options": {
+      "a": "Tidak ada pengaruh",
+      "b": "Dapat meningkatkan pembacaan kebisingan akibat pantulan suara, perlu dipertimbangkan dalam interpretasi",
+      "c": "Mengurangi pembacaan",
+      "d": "Menghilangkan kebisingan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Free field measurement pada SLM berarti pengukuran dilakukan di...",
+    "options": {
+      "a": "Area tertutup dengan banyak refleksi",
+      "b": "Area terbuka tanpa permukaan pemantul signifikan, hanya ada gelombang suara langsung dari sumber",
+      "c": "Di dalam ruangan kedap suara",
+      "d": "Di dalam air"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Background noise (kebisingan latar belakang) harus diukur saat survei kebisingan karena...",
+    "options": {
+      "a": "Tidak penting",
+      "b": "Untuk menentukan kontribusi sumber kebisingan spesifik dengan mengurangkan background dari total pengukuran",
+      "c": "Hanya untuk dokumentasi",
+      "d": "Untuk mengetes SLM"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Jika perbedaan antara total noise dan background noise kurang dari 3 dB, maka...",
+    "options": {
+      "a": "Pengukuran akurat",
+      "b": "Pengukuran tidak valid karena background noise terlalu dominan, kontribusi sumber sulit ditentukan",
+      "c": "Sumber suara terlalu keras",
+      "d": "SLM rusak"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Skenario: Pengukuran di area turbin gas menunjukkan 95 dBA. Waktu paparan yang diizinkan untuk pekerja TANPA hearing protection adalah...",
+    "options": {
+      "a": "8 jam",
+      "b": "Sekitar 1 jam (setiap +3 dB dari 85 mengurangi waktu setengah: 88→4jam, 91→2jam, 94→1jam)",
+      "c": "4 jam",
+      "d": "30 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "Hearing Conservation Program (HCP) di industri migas wajib diterapkan jika pekerja terpapar kebisingan...",
+    "options": {
+      "a": "Di bawah 50 dBA",
+      "b": "85 dBA atau lebih (TWA 8 jam) atau sesuai action level yang ditetapkan regulasi",
+      "c": "Hanya di atas 120 dBA",
+      "d": "Hanya saat ada keluhan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Komponen Hearing Conservation Program meliputi, KECUALI...",
+    "options": {
+      "a": "Monitoring kebisingan dan audiometric testing",
+      "b": "Penyediaan dan penggunaan hearing protection",
+      "c": "Pemberian bonus untuk pekerja di area bising",
+      "d": "Training dan record keeping"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 47,
+    "question": "Audiometric testing (tes pendengaran) dalam HCP dilakukan untuk...",
+    "options": {
+      "a": "Menguji kemampuan bernyanyi",
+      "b": "Mendeteksi perubahan ambang pendengaran pekerja secara dini (baseline dan periodik)",
+      "c": "Menentukan jenis musik favorit",
+      "d": "Menguji kemampuan bahasa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Standard Threshold Shift (STS) dalam audiometric testing berarti...",
+    "options": {
+      "a": "Pendengaran membaik",
+      "b": "Perubahan ambang pendengaran rata-rata 10 dB atau lebih pada frekuensi 2000, 3000, dan 4000 Hz dibanding baseline",
+      "c": "Pendengaran normal",
+      "d": "Perubahan kurang dari 1 dB"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Jika audiometric testing menunjukkan STS pada pekerja, tindakan yang harus dilakukan meliputi...",
+    "options": {
+      "a": "Mengabaikan hasil",
+      "b": "Evaluasi hearing protection, training ulang, pemeriksaan medis, dan intensifikasi program pengendalian kebisingan",
+      "c": "Memindahkan ke area lebih bising",
+      "d": "Menghentikan audiometric testing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "NIHL (Noise Induced Hearing Loss) bersifat...",
+    "options": {
+      "a": "Sementara dan dapat disembuhkan",
+      "b": "Permanen dan tidak dapat disembuhkan, hanya dapat dicegah",
+      "c": "Menular ke pekerja lain",
+      "d": "Hanya terjadi pada usia tua"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 51,
+    "question": "Frekuensi yang paling rentan mengalami kerusakan akibat paparan kebisingan berlebihan adalah...",
+    "options": {
+      "a": "100-500 Hz",
+      "b": "3000-6000 Hz (terutama 4000 Hz, menghasilkan 'noise notch' pada audiogram)",
+      "c": "20-50 Hz",
+      "d": "15000-20000 Hz"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "'4 kHz noise notch' pada audiogram menunjukkan...",
+    "options": {
+      "a": "Pendengaran normal",
+      "b": "Penurunan pendengaran khas akibat paparan kebisingan, terutama pada frekuensi 4000 Hz",
+      "c": "Masalah pada alat ukur",
+      "d": "Pendengaran sangat baik"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "Tinnitus yang dialami pekerja di area bising adalah...",
+    "options": {
+      "a": "Penyakit kulit",
+      "b": "Sensasi bunyi berdenging di telinga yang tidak ada sumber eksternalnya, tanda kerusakan pendengaran",
+      "c": "Penyakit mata",
+      "d": "Gangguan pencernaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "Hierarki pengendalian kebisingan yang paling efektif adalah...",
+    "options": {
+      "a": "Penyediaan ear plug",
+      "b": "Eliminasi sumber kebisingan atau engineering control (enclosure, barrier, damping, isolasi)",
+      "c": "Rotasi pekerja",
+      "d": "Pemasangan rambu peringatan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Engineering control untuk mengurangi kebisingan kompresor di kilang meliputi, KECUALI...",
+    "options": {
+      "a": "Pemasangan acoustic enclosure/housing",
+      "b": "Penggunaan vibration isolation mount",
+      "c": "Menyuruh pekerja menutup telinga dengan tangan",
+      "d": "Pemasangan silencer/muffler pada exhaust"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 56,
+    "question": "Acoustic barrier/sound wall di fasilitas migas berfungsi untuk...",
+    "options": {
+      "a": "Membatasi area parkir",
+      "b": "Menghalangi jalur transmisi suara langsung antara sumber kebisingan dan pekerja",
+      "c": "Menahan angin",
+      "d": "Dekorasi fasilitas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Vibration isolation pada mesin rotating bertujuan untuk...",
+    "options": {
+      "a": "Mempercepat putaran mesin",
+      "b": "Mengurangi transmisi getaran dari mesin ke struktur yang dapat meradiasikan kebisingan (structure-borne noise)",
+      "c": "Meningkatkan getaran",
+      "d": "Menambah berat mesin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 58,
+    "question": "Skenario: Survei kebisingan di area generator menunjukkan 92 dBA. Pengendalian yang paling efektif adalah...",
+    "options": {
+      "a": "Hanya menyediakan ear plug",
+      "b": "Memasang acoustic enclosure pada generator DITAMBAH hearing protection untuk pekerja yang harus masuk area",
+      "c": "Hanya memasang tanda peringatan",
+      "d": "Hanya membatasi waktu paparan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 59,
+    "question": "Sound Level Meter integrating (integrating SLM) berbeda dari SLM biasa karena...",
+    "options": {
+      "a": "Lebih murah",
+      "b": "Mampu menghitung Leq secara otomatis selama periode pengukuran tertentu",
+      "c": "Tidak memerlukan kalibrasi",
+      "d": "Tidak memerlukan baterai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "Real-time octave band analyzer pada SLM memungkinkan...",
+    "options": {
+      "a": "Memutar musik",
+      "b": "Analisis komponen frekuensi kebisingan secara langsung untuk menentukan pengendalian yang paling tepat",
+      "c": "Menghitung jumlah pekerja",
+      "d": "Mengukur suhu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 61,
+    "question": "Pengukuran kebisingan lingkungan (environmental noise) di sekitar fasilitas migas dilakukan untuk...",
+    "options": {
+      "a": "Menghitung volume produksi",
+      "b": "Memastikan kebisingan operasi tidak melebihi batas yang ditetapkan regulasi lingkungan untuk komunitas sekitar",
+      "c": "Menentukan jadwal operasi",
+      "d": "Menghitung jumlah penduduk"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 62,
+    "question": "Ldn (Day-Night Sound Level) digunakan dalam pengukuran kebisingan lingkungan karena...",
+    "options": {
+      "a": "Lebih mudah dihitung",
+      "b": "Menambahkan penalti 10 dB untuk kebisingan malam hari (22:00-07:00) yang lebih mengganggu",
+      "c": "Hanya mengukur kebisingan siang",
+      "d": "Mengabaikan kebisingan malam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja mengatur NAB kebisingan sebesar...",
+    "options": {
+      "a": "90 dBA untuk 8 jam",
+      "b": "85 dBA untuk 8 jam kerja per hari",
+      "c": "80 dBA untuk 8 jam",
+      "d": "100 dBA untuk 8 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "Tabel waktu paparan kebisingan menurut regulasi Indonesia menunjukkan bahwa pada 88 dBA, waktu paparan yang diizinkan adalah...",
+    "options": {
+      "a": "8 jam",
+      "b": "4 jam",
+      "c": "2 jam",
+      "d": "1 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Pada 94 dBA, waktu paparan yang diizinkan adalah...",
+    "options": {
+      "a": "4 jam",
+      "b": "1 jam",
+      "c": "8 jam",
+      "d": "15 menit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Pada 97 dBA, waktu paparan yang diizinkan adalah...",
+    "options": {
+      "a": "2 jam",
+      "b": "30 menit",
+      "c": "4 jam",
+      "d": "8 jam"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Exchange rate 3 dB (halving rate) berarti...",
+    "options": {
+      "a": "Kebisingan berkurang 3 dB setiap jam",
+      "b": "Setiap kenaikan 3 dB, waktu paparan yang diizinkan berkurang setengahnya",
+      "c": "Kebisingan bertambah 3 dB setiap jam",
+      "d": "Tidak ada hubungan antara dB dan waktu paparan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Skenario: Pekerja terpapar 90 dBA selama 4 jam dan 85 dBA selama 4 jam. Apakah total paparan melebihi batas?",
+    "options": {
+      "a": "Tidak, karena rata-rata di bawah 85 dBA",
+      "b": "Ya, perlu dihitung menggunakan rumus dosis kumulatif: (4/4 + 4/8) = 1.5 atau 150% dosis - melebihi batas 100%",
+      "c": "Tidak bisa dihitung",
+      "d": "Tidak relevan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 69,
+    "question": "Rumus dosis kebisingan kumulatif (mixed exposure) adalah...",
+    "options": {
+      "a": "D = T1 + T2",
+      "b": "D = (C1/T1) + (C2/T2) + ... dimana Cn = waktu paparan aktual dan Tn = waktu paparan yang diizinkan",
+      "c": "D = C1 × C2",
+      "d": "D = T1/C1"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Jika dosis kebisingan kumulatif (D) melebihi 1 (atau 100%), maka...",
+    "options": {
+      "a": "Paparan masih aman",
+      "b": "Paparan telah melebihi batas dan pengendalian tambahan diperlukan",
+      "c": "Dosimeter rusak",
+      "d": "Tidak ada masalah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "Pre-survey planning sebelum pengukuran kebisingan meliputi...",
+    "options": {
+      "a": "Hanya menyiapkan SLM",
+      "b": "Identifikasi sumber kebisingan, penentuan titik pengukuran, pemilihan peralatan, dan review standar/regulasi",
+      "c": "Hanya menentukan jadwal",
+      "d": "Hanya menyiapkan formulir"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Titik pengukuran kebisingan harus dipilih berdasarkan...",
+    "options": {
+      "a": "Tempat yang paling nyaman",
+      "b": "Lokasi dimana pekerja berada, dekat sumber kebisingan utama, dan titik representatif di area kerja",
+      "c": "Tempat yang paling jauh dari sumber suara",
+      "d": "Secara acak tanpa pertimbangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 73,
+    "question": "Durasi pengukuran kebisingan untuk mendapatkan Leq yang representatif biasanya...",
+    "options": {
+      "a": "1 detik",
+      "b": "Minimal beberapa menit per titik pengukuran, atau cukup lama untuk mencakup variasi kebisingan yang ada",
+      "c": "0.1 detik",
+      "d": "Tidak ada batasan minimum"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Data logging pada SLM modern memungkinkan...",
+    "options": {
+      "a": "Hanya menyimpan satu nilai",
+      "b": "Perekaman kontinu level kebisingan selama periode pengukuran untuk analisis detail profile kebisingan",
+      "c": "Hanya menampilkan pembacaan sesaat",
+      "d": "Mengirim pesan teks"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "Noise survey report harus mencakup informasi berikut, KECUALI...",
+    "options": {
+      "a": "Peta lokasi titik pengukuran",
+      "b": "Hasil pengukuran (Leq, Lmax, Lmin, Lpeak)",
+      "c": "Daftar film favorit pekerja di area survey",
+      "d": "Rekomendasi pengendalian kebisingan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 76,
+    "question": "Pengaruh kondisi cuaca terhadap pengukuran SLM outdoor meliputi...",
+    "options": {
+      "a": "Tidak ada pengaruh",
+      "b": "Angin dapat mengganggu pembacaan, suhu dan kelembaban ekstrem dapat mempengaruhi mikrofon dan elektronik",
+      "c": "Hujan membuat SLM lebih akurat",
+      "d": "Angin meningkatkan akurasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "Pengukuran kebisingan outdoor sebaiknya dilakukan saat kecepatan angin...",
+    "options": {
+      "a": "Semakin kencang semakin baik",
+      "b": "Di bawah 5 m/s dan menggunakan windscreen pada mikrofon",
+      "c": "Tidak perlu memperhatikan angin",
+      "d": "Hanya saat badai"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 78,
+    "question": "Skenario: Pengukuran kebisingan di area flare stack menunjukkan 105 dBA pada jarak 10 meter. Tindakan K3 yang tepat adalah...",
+    "options": {
+      "a": "Biarkan pekerja bekerja dekat flare stack",
+      "b": "Memasang zona exclusion, mandatory hearing protection dengan NRR tinggi, dan membatasi waktu paparan",
+      "c": "Tidak perlu tindakan",
+      "d": "Hanya memasang rambu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Skenario: SLM menunjukkan fluktuasi pembacaan 78-95 dBA di area workshop. Untuk menentukan paparan pekerja, pengukuran yang paling tepat adalah...",
+    "options": {
+      "a": "Mengambil nilai terendah saja",
+      "b": "Menggunakan Leq (level rata-rata energi) selama seluruh periode kerja atau menggunakan dosimeter personal",
+      "c": "Mengambil nilai tertinggi saja",
+      "d": "Mengambil nilai tengah"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 80,
+    "question": "Sertifikasi/kalibrasi laboratorium pada SLM sebaiknya dilakukan...",
+    "options": {
+      "a": "Tidak pernah",
+      "b": "Setiap 1-2 tahun oleh laboratorium terakreditasi sesuai standar",
+      "c": "Setiap 10 tahun",
+      "d": "Hanya saat dibeli"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Traceability kalibrasi SLM berarti...",
+    "options": {
+      "a": "Menelusuri lokasi SLM",
+      "b": "Hasil kalibrasi dapat ditelusuri ke standar nasional/internasional melalui rantai kalibrasi yang tidak terputus",
+      "c": "Menelusuri pemilik SLM",
+      "d": "Menelusuri pabrik SLM"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "SLM data management yang baik meliputi...",
+    "options": {
+      "a": "Membuang data setelah pengukuran",
+      "b": "Menyimpan, mengorganisir, dan mengarsipkan semua data pengukuran untuk trending, compliance, dan referensi",
+      "c": "Hanya mencetak hasil",
+      "d": "Hanya menyimpan data terbaru"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Noise exposure assessment untuk individual pekerja paling akurat menggunakan...",
+    "options": {
+      "a": "SLM di kantor HSE",
+      "b": "Personal noise dosimeter yang dipakai pekerja selama seluruh shift kerja",
+      "c": "Estimasi dari jarak ke sumber suara",
+      "d": "Tanya jawab dengan pekerja"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Penempatan mikrofon dosimeter pada pekerja yang benar adalah...",
+    "options": {
+      "a": "Di saku celana",
+      "b": "Di bahu/kerah baju, dekat telinga yang paling terpapar (biasanya 10-15 cm dari telinga)",
+      "c": "Di ikat pinggang",
+      "d": "Di sepatu"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Noise control engineering: penggunaan lagging (insulation) pada pipa uap bertekanan tinggi bertujuan untuk...",
+    "options": {
+      "a": "Hanya mengurangi panas",
+      "b": "Mengurangi kebisingan radiasi dari pipa sekaligus insulasi termal",
+      "c": "Menambah berat pipa",
+      "d": "Mempercantik pipa"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Active noise cancellation (ANC) technology pada hearing protection bekerja dengan cara...",
+    "options": {
+      "a": "Menutup telinga rapat",
+      "b": "Menghasilkan gelombang suara anti-fase yang membatalkan kebisingan frekuensi rendah",
+      "c": "Menambah kebisingan",
+      "d": "Mematikan semua suara"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Buy-quiet policy di perusahaan migas berarti...",
+    "options": {
+      "a": "Membeli peralatan termurah",
+      "b": "Memprioritaskan pembelian peralatan dengan tingkat kebisingan yang lebih rendah sejak tahap procurement",
+      "c": "Membeli hearing protection terbanyak",
+      "d": "Membeli peralatan termahal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "Maintenance mesin yang baik berkontribusi pada pengendalian kebisingan karena...",
+    "options": {
+      "a": "Mesin yang dirawat lebih mahal",
+      "b": "Mesin yang terawat baik (bearing dilumasi, komponen seimbang) menghasilkan kebisingan lebih rendah",
+      "c": "Maintenance meningkatkan kebisingan",
+      "d": "Tidak ada hubungan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Noise zoning di fasilitas migas mengkategorikan area berdasarkan...",
+    "options": {
+      "a": "Warna cat dinding",
+      "b": "Tingkat kebisingan: zona hijau (<82 dBA), kuning (82-85 dBA), merah (>85 dBA) atau sesuai kebijakan",
+      "c": "Jumlah pekerja",
+      "d": "Jenis pekerjaan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "Communication headset di area bising memungkinkan pekerja untuk...",
+    "options": {
+      "a": "Mendengarkan musik",
+      "b": "Berkomunikasi sambil mendapatkan perlindungan pendengaran (hearing protection dengan built-in communication)",
+      "c": "Menelepon keluarga",
+      "d": "Menonton video"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Level-dependent hearing protection memiliki fitur khusus yaitu...",
+    "options": {
+      "a": "Selalu memblok semua suara",
+      "b": "Membiarkan suara normal/percakapan terdengar tetapi memblok suara keras/berbahaya secara otomatis",
+      "c": "Menambah volume semua suara",
+      "d": "Hanya berfungsi di ruangan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Menurut SKKNI, kompetensi mengoperasikan Sound Level Meter mencakup...",
+    "options": {
+      "a": "Hanya menyalakan SLM",
+      "b": "Memeriksa, mengkalibrasi, mengoperasikan SLM, menginterpretasi hasil, merawat alat, dan membuat laporan pengukuran",
+      "c": "Hanya membaca angka",
+      "d": "Hanya menyimpan SLM"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Aspek kritis dalam mengoperasikan SLM menurut SKKNI adalah...",
+    "options": {
+      "a": "Kecepatan menyalakan SLM",
+      "b": "Akurasi kalibrasi, ketepatan prosedur pengukuran, dan kebenaran interpretasi hasil",
+      "c": "Warna SLM",
+      "d": "Merk SLM"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Skenario: Pekerja di control room yang berdekatan dengan turbine hall mengeluhkan tinitus setelah bekerja selama 5 tahun. Langkah investigasi K3 yang tepat meliputi...",
+    "options": {
+      "a": "Mengabaikan keluhan",
+      "b": "Audiometric testing, pengukuran kebisingan di control room, evaluasi efektivitas sound insulation, dan review hearing conservation program",
+      "c": "Memindahkan pekerja tanpa investigasi",
+      "d": "Memberikan obat penghilang rasa sakit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Sound insulation (Rw/STC rating) pada dinding control room di fasilitas migas harus...",
+    "options": {
+      "a": "Tidak ada standar",
+      "b": "Cukup tinggi untuk mengurangi kebisingan dari process area sehingga tingkat kebisingan di dalam di bawah NAB",
+      "c": "Serendah mungkin",
+      "d": "Hanya estetika"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Vibration measurement sering dilakukan bersamaan dengan noise measurement karena...",
+    "options": {
+      "a": "Alat ukurnya sama",
+      "b": "Getaran mesin sering menjadi sumber kebisingan (structure-borne noise) dan keduanya saling terkait",
+      "c": "Tidak ada hubungan",
+      "d": "Hanya untuk menambah data"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "Legal compliance pengukuran kebisingan memerlukan...",
+    "options": {
+      "a": "Pengukuran dengan smartphone",
+      "b": "SLM yang terkalibrasi dan bersertifikat, prosedur sesuai standar, dan operator yang kompeten",
+      "c": "Estimasi tanpa pengukuran",
+      "d": "Pengukuran sekali seumur operasi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Record retention untuk data pengukuran kebisingan dan audiometric biasanya harus disimpan selama...",
+    "options": {
+      "a": "1 minggu",
+      "b": "Selama pekerja bekerja ditambah minimal 30 tahun sesuai regulasi untuk penyakit akibat kerja",
+      "c": "1 bulan",
+      "d": "Tidak perlu disimpan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "Continuous noise monitoring system di area kritis fasilitas migas memungkinkan...",
+    "options": {
+      "a": "Hanya dekorasi",
+      "b": "Pemantauan real-time tingkat kebisingan dengan alarm jika melebihi threshold, membantu deteksi dini perubahan kondisi",
+      "c": "Mengurangi kebisingan secara otomatis",
+      "d": "Menghilangkan kebutuhan hearing protection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "Prinsip utama dalam mengoperasikan Sound Level Meter di industri migas adalah...",
+    "options": {
+      "a": "SLM hanya alat pengukur biasa tanpa dampak K3",
+      "b": "Pengukuran kebisingan yang akurat menggunakan SLM terkalibrasi adalah dasar untuk melindungi pendengaran pekerja melalui program pengendalian yang tepat",
+      "c": "SLM menggantikan hearing protection",
+      "d": "Kebisingan tidak berbahaya jika terbiasa"
+    },
+    "answer": "b"
+  }
+]
