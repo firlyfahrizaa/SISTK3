@@ -26,11 +26,36 @@ import unit7 from './k3_tryout/data/unit7.json';
 import unit8 from './k3_tryout/data/unit8.json';
 import unit9 from './k3_tryout/data/unit9.json';
 
-const allQuestions = [...unit1, ...unit2, ...unit3, ...unit4, ...unit5, ...unit6, ...unit7, ...unit8, ...unit9];
+const units = [unit1, unit2, unit3, unit4, unit5, unit6, unit7, unit8, unit9];
 
 const getRandomQuestions = (num = 50) => {
-  const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
-  const selected = shuffled.slice(0, num);
+  let selected = [];
+  
+  // Shuffle each unit individually
+  const shuffledUnits = units.map(unit => {
+    const copy = [...unit];
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy;
+  });
+
+  // Round-robin selection to guarantee questions from ALL units
+  let unitIndex = 0;
+  while (selected.length < num) {
+    if (shuffledUnits[unitIndex].length > 0) {
+      selected.push(shuffledUnits[unitIndex].pop());
+    }
+    unitIndex = (unitIndex + 1) % shuffledUnits.length;
+  }
+
+  // Shuffle the final 50 selected questions
+  for (let i = selected.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [selected[i], selected[j]] = [selected[j], selected[i]];
+  }
+  
   
   return selected.map(q => {
     // Clone to avoid mutating original data
